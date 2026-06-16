@@ -1,0 +1,152 @@
+rules:
+
+* name: ai_claude
+  contains:
+
+  * claude
+    add_topics:
+  * ai
+  * claude
+
+* name: ai_gemini
+  contains:
+
+  * gemini
+    add_topics:
+  * ai
+  * gemini
+
+* name: ai_prompt_engineering
+  contains:
+
+  * prompt
+  * promptor
+    add_topics:
+  * prompt-engineering
+
+* name: networking_ntp
+  contains:
+
+  * ntp
+    add_topics:
+  * networking
+  * ntp
+
+* name: networking_vlan
+  contains:
+
+  * vlan
+    add_topics:
+  * networking
+  * vlan
+  * homelab
+
+* name: security_ssh
+  contains:
+
+  * ssh
+    add_topics:
+  * security
+  * ssh
+
+* name: security_tls
+  contains:
+
+  * tls
+  * lets-encrypt
+  * certificate
+  * ssl
+    add_topics:
+  * security
+  * tls
+
+* name: linux_hyprland
+  contains:
+
+  * hyprland
+    add_topics:
+  * linux
+  * hyprland
+
+* name: linux_nixos
+  contains:
+
+  * nixos
+    add_topics:
+  * linux
+  * nixos
+
+* name: windows_powershell
+  contains:
+
+  * powershell
+    add_topics:
+  * windows
+  * powershell
+
+* name: windows_wsl
+  contains:
+
+  * wsl
+  * wsl2
+    add_topics:
+  * windows
+  * wsl2
+
+* name: virtualization_docker
+  contains:
+
+  * docker
+    add_topics:
+  * virtualization
+  * docker
+
+* name: virtualization_qemu
+  contains:
+
+  * qemu
+    add_topics:
+  * virtualization
+  * qemu
+
+* name: audio_ffmpeg
+  contains:
+
+  * ffmpeg
+  * loudnorm
+  * audio
+    add_topics:
+  * audio
+
+* name: github_scaffolding
+  contains:
+
+  * github
+  * repository
+  * scaffolding
+    add_topics:
+  * github
+  * automation
+
+defaults:
+
+original_repository_topics:
+- valorisa
+
+limits:
+
+min_topics: 3
+max_topics: 8
+
+ignored_forks:
+
+* yt-dlp
+* youtube-dl
+* markdown-it
+* markdownlint
+* ghostty
+* vscode
+* brew
+* aria2
+* transfer.sh
+* wg-easy

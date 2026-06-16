@@ -1,0 +1,143 @@
+domains:
+
+ai:
+keywords:
+- claude
+- gemini
+- qwen
+- llm
+- prompt
+- ai
+
+security:
+keywords:
+- security
+- tls
+- ssl
+- certificate
+- ssh
+- hardening
+- cryptography
+- password
+
+networking:
+keywords:
+- ntp
+- dns
+- websocket
+- reverse-proxy
+- networking
+- vlan
+
+linux:
+keywords:
+- linux
+- alpine
+- kernel
+- hyprland
+- nixos
+
+windows:
+keywords:
+- windows
+- powershell
+- win32
+- wsl
+- winrm
+
+macos:
+keywords:
+- macos
+- homebrew
+- applescript
+- swift
+
+homelab:
+keywords:
+- homelab
+- proxmox
+- vlan
+- wireguard
+
+github:
+keywords:
+- github
+- repository
+- actions
+- scaffolding
+
+virtualization:
+keywords:
+- docker
+- qemu
+- virtualbox
+- vm
+
+audio:
+keywords:
+- ffmpeg
+- loudnorm
+- audio
+- podcast
+
+mathematics:
+keywords:
+- prime
+- putnam
+- math
+- theorem
+
+education:
+keywords:
+- tutorial
+- guide
+- learning
+- greek
+- literature
+
+technologies:
+
+python:
+- python
+
+powershell:
+- powershell
+
+typescript:
+- typescript
+
+nodejs:
+- nodejs
+
+rust:
+- rust
+
+go:
+- go
+
+docker:
+- docker
+
+qemu:
+- qemu
+
+nginx:
+- nginx
+
+hyprland:
+- hyprland
+
+nixos:
+- nixos
+
+wsl2:
+- wsl2
+
+claude:
+- claude
+
+gemini:
+- gemini
+
+qwen:
+- qwen
