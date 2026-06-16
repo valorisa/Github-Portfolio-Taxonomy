@@ -1,147 +1,259 @@
 ai:
-keywords:
-- claude
-- prompt
-- llm
-- gemini
-- qwen
-- openai
-- ai
-- artificial-intelligence
+  keywords:
+    - claude
+    - prompt
+    - llm
+    - gemini
+    - qwen
+    - openai
+    - ai
+    - artificial-intelligence
+    - chatgpt
+    - gpt
+    - anthropic
 
 security:
-keywords:
-- security
-- hardening
-- ssh
-- tls
-- ssl
-- certificate
-- password
-- auth
-- bitwarden
-- openssh
+  keywords:
+    - security
+    - hardening
+    - ssh
+    - tls
+    - ssl
+    - certificate
+    - password
+    - auth
+    - bitwarden
+    - openssh
+    - security-audit
+    - cybersecurity
 
 cryptography:
-keywords:
-- rsa
-- jwt
-- cipher
-- cryptography
-- encryption
-- hash
-- base64
+  keywords:
+    - rsa
+    - jwt
+    - cipher
+    - cryptography
+    - encryption
+    - hash
+    - base64
+    - signature
+    - certificate-authority
 
 networking:
-keywords:
-- ntp
-- vlan
-- dns
-- websocket
-- proxy
-- wireguard
-- socat
-- networking
+  keywords:
+    - ntp
+    - vlan
+    - dns
+    - websocket
+    - proxy
+    - wireguard
+    - socat
+    - networking
+    - routing
+    - tcp
+    - udp
 
 linux:
-keywords:
-- linux
-- alpine
-- nixos
-- hyprland
-- kernel
-- slackware
-- archlinux
-- debian
+  keywords:
+    - linux
+    - alpine
+    - nixos
+    - hyprland
+    - kernel
+    - slackware
+    - archlinux
+    - debian
+    - ubuntu
+    - fedora
+    - rhel
 
 windows:
-keywords:
-- windows
-- powershell
-- wsl
-- win11
-- win10
+  keywords:
+    - windows
+    - powershell
+    - wsl
+    - win11
+    - win10
+    - windows-server
+    - active-directory
 
 macos:
-keywords:
-- macos
-- homebrew
-- swift
-- apple
+  keywords:
+    - macos
+    - homebrew
+    - swift
+    - apple
+    - opencore
+    - tahoe
+    - sequoia
 
 homelab:
-keywords:
-- homelab
-- proxmox
-- pfsense
-- self-hosted
+  keywords:
+    - homelab
+    - proxmox
+    - pfsense
+    - self-hosted
+    - selfhosted
+    - nas
+    - home-server
 
 audio:
-keywords:
-- audio
-- ffmpeg
-- loudnorm
-- podcast
-- mpv
+  keywords:
+    - audio
+    - ffmpeg
+    - loudnorm
+    - podcast
+    - mpv
+    - mkvtoolnix
+    - video
+    - multimedia
 
 virtualization:
-keywords:
-- vmware
-- virtualbox
-- qemu
-- docker
-- opencore
+  keywords:
+    - vmware
+    - virtualbox
+    - qemu
+    - docker
+    - podman
+    - container
+    - virtualization
+    - opencore
 
 github:
-keywords:
-- github
-- repository
-- scaffolding
-- workflow
-- action
+  keywords:
+    - github
+    - repository
+    - scaffolding
+    - workflow
+    - action
+    - actions
+    - git
+    - gitingest
 
 documentation:
-keywords:
-- markdown
-- documentation
-- docs
-- guide
-- tutorial
+  keywords:
+    - markdown
+    - documentation
+    - docs
+    - guide
+    - tutorial
+    - handbook
+    - knowledge-base
 
 developer-tools:
-keywords:
-- cli
-- terminal
-- shell
-- tmux
-- ttyd
+  keywords:
+    - cli
+    - terminal
+    - shell
+    - tmux
+    - ttyd
+    - vscode
+    - ghostty
+    - tooling
 
 mathematics:
-keywords:
-- math
-- prime
-- theorem
-- putnam
-- formula
+  keywords:
+    - math
+    - prime
+    - theorem
+    - putnam
+    - formula
+    - number-theory
+    - algebra
 
 education:
-keywords:
-- study
-- education
-- learning
-- greek
-- eschyle
+  keywords:
+    - study
+    - education
+    - learning
+    - greek
+    - eschyle
+    - tutorial
+    - course
 
 automation:
-keywords:
-- automation
-- automate
-- generator
-- workflow
+  keywords:
+    - automation
+    - automate
+    - generator
+    - workflow
+    - orchestration
+    - pipeline
 
 research:
-keywords:
-- benchmark
-- paper
-- research
-- mlops
+  keywords:
+    - benchmark
+    - paper
+    - research
+    - mlops
+    - experiment
+    - proof-of-concept
+    - poc
+
+web:
+  keywords:
+    - web
+    - website
+    - html
+    - css
+    - javascript
+    - flask
+    - nginx
+
+android:
+  keywords:
+    - android
+    - termux
+    - mobile
+    - smartphone
+
+cloud:
+  keywords:
+    - aws
+    - azure
+    - gcp
+    - cloud
+    - cloud-native
+
+devops:
+  keywords:
+    - ci
+    - cd
+    - devops
+    - github-actions
+    - docker
+    - deployment
+    - infrastructure
+
+data:
+  keywords:
+    - json
+    - csv
+    - database
+    - sqlite
+    - analytics
+
+monitoring:
+  keywords:
+    - monitoring
+    - observability
+    - logging
+    - metrics
+    - dashboard
+    - grafana
+
+privacy:
+  keywords:
+    - privacy
+    - adblock
+    - tracker
+    - surveillance
+    - anonymity
+
+productivity:
+  keywords:
+    - productivity
+    - workflow
+    - notes
+    - organization
+    - knowledge-management
