@@ -1,143 +1,147 @@
-domains:
-
 ai:
 keywords:
 - claude
+- prompt
+- llm
 - gemini
 - qwen
-- llm
-- prompt
+- openai
 - ai
+- artificial-intelligence
 
 security:
 keywords:
 - security
+- hardening
+- ssh
 - tls
 - ssl
 - certificate
-- ssh
-- hardening
-- cryptography
 - password
+- auth
+- bitwarden
+- openssh
+
+cryptography:
+keywords:
+- rsa
+- jwt
+- cipher
+- cryptography
+- encryption
+- hash
+- base64
 
 networking:
 keywords:
 - ntp
+- vlan
 - dns
 - websocket
-- reverse-proxy
+- proxy
+- wireguard
+- socat
 - networking
-- vlan
 
 linux:
 keywords:
 - linux
 - alpine
-- kernel
-- hyprland
 - nixos
+- hyprland
+- kernel
+- slackware
+- archlinux
+- debian
 
 windows:
 keywords:
 - windows
 - powershell
-- win32
 - wsl
-- winrm
+- win11
+- win10
 
 macos:
 keywords:
 - macos
 - homebrew
-- applescript
 - swift
+- apple
 
 homelab:
 keywords:
 - homelab
 - proxmox
-- vlan
-- wireguard
+- pfsense
+- self-hosted
+
+audio:
+keywords:
+- audio
+- ffmpeg
+- loudnorm
+- podcast
+- mpv
+
+virtualization:
+keywords:
+- vmware
+- virtualbox
+- qemu
+- docker
+- opencore
 
 github:
 keywords:
 - github
 - repository
-- actions
 - scaffolding
+- workflow
+- action
 
-virtualization:
+documentation:
 keywords:
-- docker
-- qemu
-- virtualbox
-- vm
+- markdown
+- documentation
+- docs
+- guide
+- tutorial
 
-audio:
+developer-tools:
 keywords:
-- ffmpeg
-- loudnorm
-- audio
-- podcast
+- cli
+- terminal
+- shell
+- tmux
+- ttyd
 
 mathematics:
 keywords:
-- prime
-- putnam
 - math
+- prime
 - theorem
+- putnam
+- formula
 
 education:
 keywords:
-- tutorial
-- guide
+- study
+- education
 - learning
 - greek
-- literature
+- eschyle
 
-technologies:
+automation:
+keywords:
+- automation
+- automate
+- generator
+- workflow
 
-python:
-- python
-
-powershell:
-- powershell
-
-typescript:
-- typescript
-
-nodejs:
-- nodejs
-
-rust:
-- rust
-
-go:
-- go
-
-docker:
-- docker
-
-qemu:
-- qemu
-
-nginx:
-- nginx
-
-hyprland:
-- hyprland
-
-nixos:
-- nixos
-
-wsl2:
-- wsl2
-
-claude:
-- claude
-
-gemini:
-- gemini
-
-qwen:
-- qwen
+research:
+keywords:
+- benchmark
+- paper
+- research
+- mlops
