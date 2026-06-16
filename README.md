@@ -4,7 +4,11 @@
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![GitHub CLI](https://img.shields.io/badge/GitHub_CLI-gh-yellow.svg)](https://cli.github.com/)
 
-Outil d'analyse et de classification automatique de portfolios GitHub en Python. Ce projet génère une **taxonomie personnalisée** pour catégoriser vos repositories selon leurs domaines techniques (AI/ML, Cloud, DevOps, Frontend, Backend, etc.), puis produit des rapports statistiques détaillés sous plusieurs formats (JSON, TSV, Markdown).
+Outil d'analyse et de classification automatique de portfolios GitHub en Python.
+Ce projet génère une **taxonomie personnalisée** pour catégoriser vos repositories
+selon leurs domaines techniques (AI/ML, Cloud, DevOps, Frontend, Backend, etc.),
+puis produit des rapports statistiques détaillés sous plusieurs formats
+(JSON, TSV, Markdown).
 
 ---
 
@@ -29,21 +33,27 @@ Outil d'analyse et de classification automatique de portfolios GitHub en Python.
 
 ### Pourquoi cet outil ?
 
-Les ingénieurs logiciel et développeurs possèdent souvent des centaines de repositories GitHub dispersés.与本站 difficile de :
+Les ingénieurs logiciel et développeurs possèdent souvent des centaines de
+repositories GitHub dispersés. Il est difficile de :
 
 - **Visualiser** l'ensemble de son écosystème de projets
 - **Catégoriser** automatiquement ses repositories par domaine technique
 - **Identifier** les projets non-classifiés qui manquent de description
 - **Générer** un portfolio structurée pour présenter son travail
 
-`GitHub Portfolio Taxonomy` répond à ces besoins en analysant automatiquement les noms et descriptions de repositories, détectant des keywords associés à des domaines techniques prédéfinis, et produisant des rapports exploitables.
+`GitHub Portfolio Taxonomy` répond à ces besoins en analysant automatiquement
+les noms et descriptions de repositories, détectant des keywords associés à
+des domaines techniques prédéfinis, et produisant des rapports exploitables.
 
 ### Comment ça marche ?
 
 1. **Chargement** des repositories depuis un fichier `repos.json` (inventory)
 2. **Lecture** de la taxonomie de domaines dans `domains.yml`
-3. **Classification** : pour chaque repository, le script analyse le texte combiné (nom + description) et recherche des keywords matchant avec les domaines
-4. **Génération** de plusieurs outputs : portfolio JSON, fichier TSV, rapports Markdown
+3. **Classification** : pour chaque repository, le script analyse le texte
+   combiné (nom + description) et recherche des keywords matchant avec les
+   domaines
+4. **Génération** de plusieurs outputs : portfolio JSON, fichier TSV, rapports
+   Markdown
 5. **Statistiques** : calcul du taux de couverture (repos classifiés / total)
 
 ---
@@ -55,16 +65,20 @@ Les ingénieurs logiciel et développeurs possèdent souvent des centaines de re
 | Fonctionnalité | Description |
 |---------------|-------------|
 | **Analyse de texte** | Combine nom et description du repository, convertit en lowercase pour matching |
-| **Match de keywords** | Chaque domaine possède une liste de keywords ; si un keyword est présent dans le texte, le domaine est attaché |
+| **Match de keywords** | Liste de keywords par domaine ; si un keyword est trouvé, le domaine est attaché |
 | **Multi-domaines** | Un repository peut être classifié dans plusieurs domaines simultanément |
 | **Normalisation** | Retourne une liste de domaines triée et sans doublons |
 
 ### Rapports générés
 
-- **Portfolio JSON** (`inventory/portfolio.json`) — Structure complète avec nom, topics détectés, isFork, isPrivate, updatedAt, url
-- **Topics TSV** (`inventory/topics.tsv`) — Fichier tabulé : `repo\ttopics` pour import facile dans Excel/CSV
-- **Statistiques Markdown** (`reports/statistics.md`) — Résumé avec total, forks, private, classifiés, unclassifiés, couverture en %
-- **Unclassified Markdown** (`reports/unclassified.md`) — Liste des repositories sans domaine détecté
+- **Portfolio JSON** (`inventory/portfolio.json`) — Structure complète avec
+  nom, topics détectés, isFork, isPrivate, updatedAt, url
+- **Topics TSV** (`inventory/topics.tsv`) — Fichier tabulé : `repo\ttopics`
+  pour import facile dans Excel/CSV
+- **Statistiques Markdown** (`reports/statistics.md`) — Résumé avec total,
+  forks, private, classifiés, unclassifiés, couverture en %
+- **Unclassified Markdown** (`reports/unclassified.md`) — Liste des
+  repositories sans domaine détecté
 
 ### Métriques calculées
 
@@ -82,7 +96,7 @@ ratio = (classified / total) * 100  # Couverture en %
 
 ## Architecture du projet
 
-```
+```console
 Github-Portfolio-Taxonomy/
 ├── scripts/
 │   └── generate-taxonomy.py    # Script principal Python
@@ -162,7 +176,7 @@ git clone https://github.com/valorisa/Github-Portfolio-Taxonomy.git
 cd Github-Portfolio-Taxonomy
 ```
 
-### 2.Installer les dependencies
+### 2. Installer les dependencies
 
 ```powershell
 pip install pyyaml
@@ -183,7 +197,8 @@ python -m py_compile .\scripts\generate-taxonomy.py
 
 ### Étape 1 : Préparer l'inventaire des repositories
 
-Le script attendu un fichier `inventory/repos.json` contenant la liste des repositories à classifier.
+Le script attendu un fichier `inventory/repos.json` contenant la liste des
+repositories à classifier.
 
 **Format JSON attendu :**
 
@@ -199,7 +214,7 @@ Le script attendu un fichier `inventory/repos.json` contenant la liste des repos
   },
   {
     "name": "cloud-infrastructure",
-    "description": "AWS Terraison modules for Kubernetes",
+    "description": "AWS Terraform modules for Kubernetes",
     "isFork": false,
     "isPrivate": true,
     "updatedAt": "2026-06-10T14:20:00Z",
@@ -214,7 +229,9 @@ Option A : GitHub API manuelle
 
 ```powershell
 # Via GitHub CLI
-gh api user/repos --jq '.[] | {name, description, isFork: fork, isPrivate: private, updatedAt: pushed_at, url: html_url}' > inventory/repos.json
+gh api user/repos \
+  --jq '.[] | {name, description, isFork: fork, isPrivate: private, updatedAt: pushed_at, url: html_url}' \
+  > inventory/repos.json
 ```
 
 Option B : Script Python personnalisé (voir [Contribuer](#contribuer))
@@ -264,7 +281,8 @@ cat reports/unclassified.md
 
 ### Structure de `domains.yml`
 
-Le fichier `taxonomy/domains.yml` définit les domaines techniques et leurs keywords associés :
+Le fichier `taxonomy/domains.yml` définit les domaines techniques et leurs
+keywords associés :
 
 ```yaml
 AI/ML:
@@ -314,7 +332,7 @@ Frontend:
     - frontend
 ```
 
-3. **Re-exécuter** le script :
+1. **Re-exécuter** le script :
 
 ```powershell
 python .\scripts\generate-taxonomy.py
@@ -361,7 +379,8 @@ Portfolio JSON structurée avec tous les repositories et leurs topics détectés
 ]
 ```
 
-**Utilisation** : Import dans un dashboard, conversion en CSV, présentation recruteur
+**Utilisation** : Import dans un dashboard, conversion en CSV, présentation
+recruteur
 
 ### 2. `inventory/topics.tsv`
 
@@ -479,7 +498,8 @@ IndentationError: expected an indented block after function definition on line 2
 **Solution** :
 
 - Vérifie l'indentation Python (4 espaces par niveau)
-- Utilise `python -m py_compile scripts/generate-taxonomy.py` pour valider la syntaxe
+- Utilise `python -m py_compile scripts/generate-taxonomy.py` pour valider la
+  syntaxe
 - Consulte la section [Installation](#installation) pour la vérification
 
 ### Erreur : `ModuleNotFoundError: No module named 'yaml'`
@@ -507,7 +527,8 @@ FileNotFoundError: Missing taxonomy file: taxonomy/domains.yml
 **Solution** :
 
 - Vérifie que `taxonomy/domains.yml` existe dans le dossier du projet
-- Vérifie le chemin relatif (le script attendu le fichier depuis `ROOT / "taxonomy" / "domains.yml"`)
+- Vérifie le chemin relatif (le script attendu le fichier depuis
+  `ROOT / "taxonomy" / "domains.yml"`)
 
 ### Erreur : `ValueError: domains.yml must contain a dictionary`
 
@@ -556,22 +577,22 @@ gh repo clone valorisa/Github-Portfolio-Taxonomy
 cd Github-Portfolio-Taxonomy
 ```
 
-2. **Créer une branche** :
+1. **Créer une branche** :
 
 ```powershell
 git checkout -b feature/nouvelle-fonctionnalité
 ```
 
-3. **Modifier** le code ou la configuration
+1. **Modifier** le code ou la configuration
 
-4. **Tester** localement :
+2. **Tester** localement :
 
 ```powershell
 python .\scripts\generate-taxonomy.py
 python -m py_compile .\scripts\generate-taxonomy.py
 ```
 
-5. **Commit et push** :
+1. **Commit et push** :
 
 ```powershell
 git add .
@@ -579,7 +600,7 @@ git commit -m "Add: nouvelle fonctionnalité"
 git push origin feature/nouvelle-fonctionnalité
 ```
 
-6. **Créer une Pull Request** :
+1. **Créer une Pull Request** :
 
 ```powershell
 gh pr create --title "Add: nouvelle fonctionnalité" --body "Description de la changement"
@@ -630,16 +651,18 @@ print(f"[OK] {len(repos)} repositories exportés")
 
 ## Licence
 
-Ce projet est sous licence **MIT**. Voir le fichier [LICENSE](LICENSE) pour plus de détails.
+Ce projet est sous licence **MIT**. Voir le fichier [LICENSE](LICENSE) pour
+plus de détails.
 
 ---
 
 ## Auteur
 
-**valorisa** — Ingénieur logiciel passionné par l'AI/ML, le Cloud computing, et l'open-source.
+**valorisa** — Ingénieur logiciel passionné par l'AI/ML, le Cloud computing,
+et l'open-source.
 
 - **GitHub** : [https://github.com/valorisa](https://github.com/valorisa)
-- **Projet** : [ valorisa/Github-Portfolio-Taxonomy](https://github.com/valorisa/Github-Portfolio-Taxonomy)
+- **Projet** : [valorisa/Github-Portfolio-Taxonomy](https://github.com/valorisa/Github-Portfolio-Taxonomy)
 
 ---
 
@@ -653,11 +676,12 @@ Ce projet est sous licence **MIT**. Voir le fichier [LICENSE](LICENSE) pour plus
 
 ---
 
-*Ce README suit les règles [markdownlint](https://github.com/markdownlint/markdownlint) pour un formatage cohérent et professionnel.*
+*Ce README suit les règles [markdownlint](https://github.com/markdownlint/markdownlint)
+pour un formatage cohérent et professionnel.*
 
-***
+---
 
-### Points clés de ce README :
+### Points clés de ce README
 
 | Aspect | Mise en œuvre |
 |--------|---------------|
@@ -666,4 +690,3 @@ Ce projet est sous licence **MIT**. Voir le fichier [LICENSE](LICENSE) pour plus
 | **Verbeux** | 4500+ mots, descriptions détaillées de chaque fonctionnalité |
 | **Clair** | Markdown structuré, tableaux, listes, émojis pour repérer rapidement |
 | **markdownlint compliant** | Headers sans espaces doubles, liens corrects, pas de lignes trop longues |
-
