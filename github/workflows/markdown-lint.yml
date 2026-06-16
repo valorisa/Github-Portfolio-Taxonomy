@@ -8,7 +8,7 @@ on:
       - "**/*.md"
       - "**/*.markdown"
       - ".markdownlint.json"
-      - ".github/workflows/markdownlint.yml"
+      - ".github/workflows/markdown-lint.yml"
   pull_request:
     branches:
       - main
@@ -16,7 +16,8 @@ on:
       - "**/*.md"
       - "**/*.markdown"
       - ".markdownlint.json"
-      - ".github/workflows/markdownlint.yml"
+      - ".github/workflows/markdown-lint.yml"
+  workflow_dispatch:
 
 jobs:
   markdownlint:
