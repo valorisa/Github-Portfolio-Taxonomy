@@ -1,0 +1,61 @@
+name: Update Taxonomy
+
+on:
+  schedule:
+    - cron: "0 2 * * *"   # Quotidien à 2h UTC
+  push:
+    branches:
+      - main
+    paths:
+      - 'taxonomy/domains.yml'
+      - 'scripts/fetch-repos.py'
+      - 'scripts/generate-taxonomy.py'
+  workflow_dispatch:        # Déclenchement manuel possible depuis l'onglet Actions
+
+permissions:
+  contents: write           # Donne le droit au workflow de pusher des commits
+
+jobs:
+  update-taxonomy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install pyyaml requests
+
+      - name: Fetch repositories
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_USER: valorisa
+        run: python scripts/fetch-repos.py
+
+      - name: Generate taxonomy
+        run: python scripts/generate-taxonomy.py
+
+      - name: Check for changes
+        id: git-check
+        run: |
+          if [ -n "$(git status --porcelain)" ]; then
+            echo "changes=true" >> $GITHUB_OUTPUT
+          else
+            echo "changes=false" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Commit and push if changed
+        if: steps.git-check.outputs.changes == 'true'
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          # Le -f est nécessaire car inventory/ et reports/ sont dans le .gitignore
+          git add -f inventory/ reports/
+          git commit -m "chore: update taxonomy outputs [skip ci]"
+          git push
