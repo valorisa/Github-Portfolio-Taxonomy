@@ -234,7 +234,16 @@ gh api user/repos \
   > inventory/repos.json
 ```
 
-Option B : Script Python personnalisé (voir [Contribuer](#contribuer))
+### Option B : Script Python intégré (Recommandé 🚀)
+Un script complet (`scripts/fetch-repos.py`) est désormais inclus dans le projet pour récupérer et formater automatiquement vos repositories via l'API REST.
+
+```bash
+# 1. Récupération simple (utilise la variable GITHUB_USER ou 'valorisa' par défaut)
+python scripts/fetch-repos.py
+
+# 2. Avec authentification (fortement recommandé pour éviter la limite de 60 requêtes/heure)
+export GITHUB_TOKEN="votre_token"  # Sous Windows PowerShell: $env:GITHUB_TOKEN="votre_token"
+python scripts/fetch-repos.py
 
 Option C : Import manuel depuis un export GitHub
 
