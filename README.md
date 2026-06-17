@@ -225,7 +225,7 @@ repositories à classifier.
 
 **Comment générer `repos.json` automatiquement ?**
 
-Option A : GitHub API manuelle
+### Option A : GitHub API manuelle
 
 ```powershell
 # Via GitHub CLI
@@ -247,8 +247,9 @@ python scripts/fetch-repos.py
 # 2. Avec authentification (fortement recommandé pour éviter la limite de 60 requêtes/heure)
 export GITHUB_TOKEN="votre_token"  # Sous Windows PowerShell: $env:GITHUB_TOKEN="votre_token"
 python scripts/fetch-repos.py
+```
 
-Option C : Import manuel depuis un export GitHub
+### Option C : Import manuel depuis un export GitHub
 
 ### Étape 2 : Exécuter le script
 
