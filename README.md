@@ -235,7 +235,10 @@ gh api user/repos \
 ```
 
 ### Option B : Script Python intégré (Recommandé 🚀)
-Un script complet (`scripts/fetch-repos.py`) est désormais inclus dans le projet pour récupérer et formater automatiquement vos repositories via l'API REST.
+
+Un script complet (`scripts/fetch-repos.py`) est désormais inclus dans le
+projet pour récupérer et formater automatiquement vos repositories via l'API
+REST.
 
 ```bash
 # 1. Récupération simple (utilise la variable GITHUB_USER ou 'valorisa' par défaut)
