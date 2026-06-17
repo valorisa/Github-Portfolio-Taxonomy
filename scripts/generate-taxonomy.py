@@ -5,6 +5,7 @@ from __future__ import annotations
 import json
 import pathlib
 import sys
+from collections import Counter
 
 import yaml
 
@@ -84,6 +85,7 @@ def write_statistics(
     stats: dict,
     classified: int,
     unclassified: int,
+    detected_domains: list[str],
 ) -> None:
 
     ratio = round(
@@ -94,6 +96,29 @@ def write_statistics(
         * 100,
         2,
     )
+
+    # Génération du tableau de distribution des domaines
+    domain_distribution = []
+    if classified > 0:
+        domain_counts = Counter(detected_domains)
+        domain_distribution.extend([
+            "",
+            "## Domain Distribution",
+            "",
+            "| Domain | Repositories | Coverage |",
+            "|---|---|---|",
+        ])
+        for domain, count in domain_counts.most_common():
+            coverage = round(
+                (count / classified) * 100,
+                1,
+            )
+            domain_distribution.append(
+                f"| {domain} | {count} | {coverage}% |"
+            )
+        domain_distribution.append(
+            f"| **Total classified** | **{classified}** | **100%** |"
+        )
 
     STATISTICS_FILE.write_text(
         "\n".join(
@@ -106,6 +131,7 @@ def write_statistics(
                 f"- Classified: {classified}",
                 f"- Unclassified: {unclassified}",
                 f"- Coverage: {ratio}%",
+                *domain_distribution,
             ]
         ),
         encoding="utf-8",
@@ -146,7 +172,7 @@ def main() -> None:
 
     portfolio = []
     unclassified = []
-
+    all_detected_domains = []
     stats = {
         "total": len(repos),
         "forks": 0,
@@ -181,6 +207,7 @@ def main() -> None:
                 text,
                 domains,
             )
+            all_detected_domains.extend(detected)
 
             if repo.get(
                 "isFork",
@@ -242,6 +269,7 @@ def main() -> None:
         unclassified=len(
             unclassified
         ),
+        detected_domains=all_detected_domains,
     )
 
     write_unclassified(
