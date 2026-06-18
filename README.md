@@ -4,6 +4,7 @@
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![GitHub CLI](https://img.shields.io/badge/GitHub_CLI-gh-yellow.svg)](https://cli.github.com/)
 [![Update Taxonomy](https://github.com/valorisa/Github-Portfolio-Taxonomy/actions/workflows/taxonomy.yml/badge.svg)](https://github.com/valorisa/Github-Portfolio-Taxonomy/actions/workflows/taxonomy.yml)
+[![Markdown Lint](https://github.com/valorisa/Github-Portfolio-Taxonomy/actions/workflows/markdownlint.yml/badge.svg)](https://github.com/valorisa/Github-Portfolio-Taxonomy/actions/workflows/markdownlint.yml)
 
 Outil d'analyse et de classification automatique de portfolios GitHub en Python.
 Ce projet génère une **taxonomie personnalisée** pour catégoriser vos repositories
