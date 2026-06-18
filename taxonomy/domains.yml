@@ -257,3 +257,23 @@ productivity:
     - notes
     - organization
     - knowledge-management
+
+python:
+  keywords:
+    - python
+    - django
+    - flask
+    - pandas
+    - numpy
+    - jupyter
+    - pip
+    - pytest
+    - fastapi
+    - pydantic
+    - scikit-learn
+    - tensorflow
+    - pytorch
+    - data-science
+    - machine-learning
+    - ml
+  
