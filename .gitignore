@@ -1,5 +1,5 @@
-inventory/
-reports/
+# inventory/
+# reports/
 
 __pycache__/
 *.pyc
