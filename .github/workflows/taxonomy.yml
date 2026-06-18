@@ -55,9 +55,9 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.PAT_TOKEN }}
         run: |
-          git config --global user.name 'github-actions[bot]'
-          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git config --global user.name 'valorisa'
+          git config --global user.email 'valorisa@users.noreply.github.com'
           # Le -f est nécessaire car inventory/ et reports/ sont dans le .gitignore
           git add -f inventory/ reports/
           git commit -m "chore: update taxonomy outputs [skip ci]"
-          git push
+          git push https://x-access-token:${{ secrets.PAT_TOKEN }}@github.com/valorisa/Github-Portfolio-Taxonomy.git HEAD:main
