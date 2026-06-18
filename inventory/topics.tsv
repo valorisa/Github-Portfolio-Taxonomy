@@ -1,0 +1,182 @@
+repo	topics
+18-Hacks-Qwen3.6-plus-Super-Promptor	ai,developer-tools,devops,python,windows
+2fas-browser-extension	
+Advanced-Prompts-Factory	ai,developer-tools,devops,documentation,github,python,windows
+Aerofoil-Propeller-Calculator	ai,developer-tools,python
+alass	
+alpine-linux-on-termux	android,linux,virtualization
+alpine_bw_cli_gen_passwd	automation,developer-tools,linux,security
+ArchLinux-Omarchy-WSL-Script	linux,windows
+ArcPass-MS02	developer-tools,homelab
+aria2	
+Audit-Bitwarden-Shai-Hulud	ai,developer-tools,github,security,windows
+badssl.com	ai,developer-tools,security
+Base64-Credentials	cryptography,data,developer-tools,devops,python,security,virtualization
+bbrod-s-VSCode-Retro-Themes	ai,developer-tools
+brew	linux,macos,windows
+Candidature_Zen	ai
+chatgpt_clone_by_bertie	ai,audio
+choco	windows
+CipherCore-FHE	ai,cryptography,devops
+Claude-Chat-Exporter-Tool	ai,cryptography,documentation,web
+Claude-Skill-Creator	ai,cryptography,developer-tools,devops,documentation
+Claude-Skills	ai,automation,github,productivity
+Claw-Code	ai
+Copy_files_in_bulk	developer-tools,windows
+cpp26-gcc15-wsl2-demo	linux,windows
+cr-mac-helper	developer-tools,macos
+DavidAnson-markdownlint	documentation
+debian-migration-bookworm-to-trixie	documentation,linux
+DensitePrimes	android,devops,mathematics,python
+diff_git_merge_rebase_ours_theirs	documentation,github
+DNSCrypt-Proxy_with_AdGuardHome	macos,networking,windows
+docker-webtop	devops,linux,virtualization,web
+DockerCertCheck	devops,macos,virtualization
+Docker_Chef	ai,devops,virtualization
+Docker_DNSCrypt	ai,devops,networking,security,virtualization
+Dystopia	devops
+ente	audio,cloud
+Ente-Auth-cli-android	android,developer-tools,security
+Eschyle-Les-Perses	ai,devops,education
+FFmpeg-Loudnorm-PS	audio,developer-tools,windows
+flask-gunicorn-sample-app	python,web
+Free-Claude-Code-Guide	ai,developer-tools,documentation,linux,macos,networking,windows
+Function-Growth-Hierarchy	
+Gemini-CLI-macOS	ai,automation,developer-tools,github,macos,productivity,web
+ghostty	developer-tools
+git-mastery	devops,github
+GitHub-Branch-Installation-Guide	automation,devops,documentation,github,macos,productivity
+GitHub-Docker-for-Win-WSL2-Data-Extractor	ai,devops,github,linux,virtualization,windows
+Github-Portfolio-Taxonomy	ai,cloud,data,devops,documentation,github,python
+Github-Repository-Analyzer	ai,developer-tools,github,python
+Github-Universal-Scaffolding-Generator-Advanced	automation,cryptography,developer-tools,documentation,github,python,web
+gitingest	ai,github
+gitingest-extension	ai,github
+Goosle	privacy
+GPP-Event4117-Monitor	developer-tools,devops,github,monitoring,windows
+hash_and_check_password	cryptography,python,security
+highlight.js	devops,web
+Homebrew-Docker-Guide	ai,devops,documentation,macos,virtualization
+Homebrew-macOS-Toolchain-Optimizer	ai,automation,documentation,github,macos,productivity,security
+HomeLab-VLAN-Refactor-Community	devops,homelab,networking,windows
+HomeLab-VLAN-Refactor-Configs	developer-tools,devops,homelab,networking,windows
+HomeLab-VLAN-Refactor-Expert-Playbook	devops,homelab,networking
+HomeLab-VLAN-Refactor-Security	devops,homelab,networking,security
+Homo2rpheOS	cryptography,devops,privacy,research
+https-github.com-danistefanovic-build-your-own-x	github
+i3-wsl-xephyr	documentation,linux,windows
+install_powershell_on_macos	developer-tools,macos,windows
+JobFlow_Automator	
+JSON-Website-Generator-v2.0	ai,automation,cryptography,data,web
+JSON_Web_Token_manager	cryptography,data,web
+KMS_VL_ALL_AIO	ai
+KMS_VL_ALL_AIO_	ai
+kotaemon	
+lazyvim-japan-config	ai
+LeCert	ai,developer-tools,devops,github,security
+llm-council-skill	ai,devops,documentation,python,web
+macOS-Nano-Compile	documentation,macos
+markdown-it	documentation
+markdown-link-check	documentation
+markdownlint	documentation
+markdownlint-cli	developer-tools,documentation
+MathClockRealTime	mathematics
+mathjax-formula-svg	android,mathematics
+Microsoft-Activation-Scripts	windows
+Microsoft-Office-For-MacOS	macos
+mkvtoolnix-macos-build	audio,macos
+mlx-dist-setup	python
+MobaXterm-Keygen	
+MobaXterm-Keygen-Alt	
+mpv	audio
+MPV-Station-Clean	audio,devops,windows
+MuseHub-PowerShell	developer-tools,windows
+n8n-github-repo-creator	automation,github,productivity
+Nano-8.4-macOS-compile-libmagic	documentation,macos,productivity
+nano85-macOS-Tahoe	ai,macos
+nanorc	
+nbfc	
+NixOS-TUI-Installer-Advanced	ai,linux,research
+ntp-client-requester	ai,developer-tools,devops,linux,networking,security,virtualization
+ntp-monitor	monitoring,networking,web
+ntp-ts-client	developer-tools,devops,linux,networking,python,virtualization
+NTP_Grafikart_script	ai,networking
+obfus_socat	networking,security
+OneDrive-SafeRemove	developer-tools,windows
+OnlyOffice-macOS-Docker	devops,macos,virtualization
+open-r1	
+OpenCore-EFI-Installer-Automation	automation,documentation,macos,virtualization
+OpenCore-Legacy-Patcher	macos,virtualization
+OpenSSH-Windows-Clean-Modernizer	security,windows
+Oracle-Linux-Ultra-Hardening-Proof-of-Concept	devops,linux,research,security
+Paper-Briefer	ai,cryptography,devops,research
+Password-Generator-Advanced	ai,automation,devops,python,security
+Password-Hash-Tool	cryptography,developer-tools,python,research,security
+perplexity-ai	ai,automation,devops,web
+Peter_tests_Proof_of_Concept	
+pfSense_YouTube_Adblock	devops,homelab,networking,privacy,security
+Podcast_Pilot_Audio-Hijack	audio,developer-tools,devops,macos
+Polygone-Evacuation-A5	networking
+Prompt-Engineer-Toolkit	ai,automation,developer-tools,devops,github,python,virtualization,windows
+PSScriptAnalyzer	developer-tools,windows
+Putnam_B6_2011	ai,devops,mathematics
+pytubefix	audio,python
+Quickshell-Hyprland	ai,developer-tools,linux
+retro-home-pbx	
+RHEL-Ultra-Hardening-Motion	linux,security
+RHEL-Ultra-Hardening-Proof-of-Concept	devops,linux,research,security
+Roosource	android,devops
+RSAKeyAnalyzer	cryptography
+Script_Update_VirtualBox_for_macOS	developer-tools,macos,virtualization
+ShellFromBrowser	ai,developer-tools,devops,networking,security,virtualization,web
+shields	devops
+simple-web-server	developer-tools,web
+skeeter-deleter	
+Slackware_current_Install_Guide	documentation,linux
+socat-1.8.0.1_for_Windows	networking,windows
+socat-1.8.1.1_for_Windows	networking,windows
+socat-cygwin-automate	automation,networking,windows
+Spoon-Knife	
+ssh-hardening-suite	devops,security
+Super-Bidirectional-md-qd-Bridge	developer-tools,devops,documentation,github,productivity,python
+Super-Prompt-LLM-Council-Generator	ai,automation,cryptography,devops
+sxwm	
+T2-Linux-Workbench-Laboratory	ai,devops,linux,windows
+Tabular-Benchmark-MLOps	ai,devops,python,research
+Test-and-Fix-MegaLinter-Tool	automation,documentation,python
+Threema-Android-on-Alpine	android,linux
+TightVNC-Server-For-Windows	developer-tools,documentation,windows
+tmux	developer-tools
+transfer.sh	
+Tru64-Unix-51b-Emulation	devops,documentation,virtualization
+ttyd	developer-tools,web
+Ultimate-Guide-for-Enthusiasts-of-ONKYO-TX-RZ50	devops,documentation,python,virtualization
+Ultimate-Windows-Optimization-Guide	documentation,windows
+UltraPass256	devops
+unison-factorial-wsl	windows
+Update-PWSH-macOS-CLI	developer-tools,macos,windows
+updog-progress-bar	python,security
+valorisa	github
+vega-macos-env-bootstrap	macos
+Video-Surveillance-Signage-Generator	ai,audio,automation,privacy
+VMware-Workstation-Pro-17-Licence-Keys	virtualization
+vscode	developer-tools
+vscode-error-lens	developer-tools
+vscode-markdownlint	developer-tools,documentation
+vscode-tmux-keybinding	developer-tools
+vt-scanner-cli	developer-tools,linux,macos,python,windows
+VT-TUI-Scanner	monitoring,python
+wg-easy	networking,web
+Willans-prime-formula	android,data,education,mathematics,python,research
+Win11-LocalAccount-Creator	developer-tools,windows
+win7-adobe-reader-winrt-fix-v2	developer-tools,windows
+WinEnv-Path-Clean-Guard	ai,github,windows
+winrar-keygen	devops
+wsl2-custom-kernel	documentation,linux,windows
+WSL2-Custom-Kernel-6.18-LTS-Guide	documentation,linux,windows
+youtube-dl	audio
+YouTube-Protobuf-AdBlock	devops,privacy
+youtube-transcript-downloader	ai,python
+yt-dlp	audio
+ytdl-nightly	
+zoraxy	networking

@@ -1,0 +1,2090 @@
+[
+  {
+    "name": "18-Hacks-Qwen3.6-plus-Super-Promptor",
+    "topics": [
+      "ai",
+      "developer-tools",
+      "devops",
+      "python",
+      "windows"
+    ],
+    "isFork": false,
+    "isPrivate": false,
+    "updatedAt": "2026-05-29T10:57:47Z",
+    "url": "https://github.com/valorisa/18-Hacks-Qwen3.6-plus-Super-Promptor"
+  },
+  {
+    "name": "2fas-browser-extension",
+    "topics": [],
+    "isFork": true,
+    "isPrivate": false,
+    "updatedAt": "2024-11-04T20:17:47Z",
+    "url": "https://github.com/valorisa/2fas-browser-extension"
+  },
+  {
+    "name": "Advanced-Prompts-Factory",
+    "topics": [
+      "ai",
+      "developer-tools",
+      "devops",
+      "documentation",
+      "github",
+      "python",
+      "windows"
+    ],
+    "isFork": false,
+    "isPrivate": false,
+    "updatedAt": "2026-05-30T16:50:24Z",
+    "url": "https://github.com/valorisa/Advanced-Prompts-Factory"
+  },
+  {
+    "name": "Aerofoil-Propeller-Calculator",
+    "topics": [
+      "ai",
+      "developer-tools",
+      "python"
+    ],
+    "isFork": false,
+    "isPrivate": false,
+    "updatedAt": "2026-05-11T17:10:45Z",
+    "url": "https://github.com/valorisa/Aerofoil-Propeller-Calculator"
+  },
+  {
+    "name": "alass",
+    "topics": [],
+    "isFork": true,
+    "isPrivate": false,
+    "updatedAt": "2023-12-28T02:07:02Z",
+    "url": "https://github.com/valorisa/alass"
+  },
+  {
+    "name": "alpine-linux-on-termux",
+    "topics": [
+      "android",
+      "linux",
+      "virtualization"
+    ],
+    "isFork": true,
+    "isPrivate": false,
+    "updatedAt": "2021-06-29T23:18:54Z",
+    "url": "https://github.com/valorisa/alpine-linux-on-termux"
+  },
+  {
+    "name": "alpine_bw_cli_gen_passwd",
+    "topics": [
+      "automation",
+      "developer-tools",
+      "linux",
+      "security"
+    ],
+    "isFork": false,
+    "isPrivate": false,
+    "updatedAt": "2025-04-09T15:31:53Z",
+    "url": "https://github.com/valorisa/alpine_bw_cli_gen_passwd"
+  },
+  {
+    "name": "ArchLinux-Omarchy-WSL-Script",
+    "topics": [
+      "linux",
+      "windows"
+    ],
+    "isFork": false,
+    "isPrivate": false,
+    "updatedAt": "2025-10-29T20:07:54Z",
+    "url": "https://github.com/valorisa/ArchLinux-Omarchy-WSL-Script"
+  },
+  {
+    "name": "ArcPass-MS02",
+    "topics": [
+      "developer-tools",
+      "homelab"
+    ],
+    "isFork": false,
+    "isPrivate": false,
+    "updatedAt": "2026-02-22T22:56:07Z",
+    "url": "https://github.com/valorisa/ArcPass-MS02"
+  },
+  {
+    "name": "aria2",
+    "topics": [],
+    "isFork": true,
+    "isPrivate": false,
+    "updatedAt": "2025-04-16T15:54:32Z",
+    "url": "https://github.com/valorisa/aria2"
+  },
+  {
+    "name": "Audit-Bitwarden-Shai-Hulud",
+    "topics": [
+      "ai",
+      "developer-tools",
+      "github",
+      "security",
+      "windows"
+    ],
+    "isFork": false,
+    "isPrivate": false,
+    "updatedAt": "2026-04-24T17:15:31Z",
+    "url": "https://github.com/valorisa/Audit-Bitwarden-Shai-Hulud"
+  },
+  {
+    "name": "badssl.com",
+    "topics": [
+      "ai",
+      "developer-tools",
+      "security"
+    ],
+    "isFork": true,
+    "isPrivate": false,
+    "updatedAt": "2023-07-21T21:58:47Z",
+    "url": "https://github.com/valorisa/badssl.com"
+  },
+  {
+    "name": "Base64-Credentials",
+    "topics": [
+      "cryptography",
+      "data",
+      "developer-tools",
+      "devops",
+      "python",
+      "security",
+      "virtualization"
+    ],
+    "isFork": false,
+    "isPrivate": false,
+    "updatedAt": "2026-05-04T18:09:19Z",
+    "url": "https://github.com/valorisa/Base64-Credentials"
+  },
+  {
+    "name": "bbrod-s-VSCode-Retro-Themes",
+    "topics": [
+      "ai",
+      "developer-tools"
+    ],
+    "isFork": false,
+    "isPrivate": false,
+    "updatedAt": "2025-04-21T23:30:42Z",
+    "url": "https://github.com/valorisa/bbrod-s-VSCode-Retro-Themes"
+  },
+  {
+    "name": "brew",
+    "topics": [
+      "linux",
+      "macos",
+      "windows"
+    ],
+    "isFork": true,
+    "isPrivate": false,
+    "updatedAt": "2025-10-07T14:10:49Z",
+    "url": "https://github.com/valorisa/brew"
+  },
+  {
+    "name": "Candidature_Zen",
+    "topics": [
+      "ai"
+    ],
+    "isFork": false,
+    "isPrivate": false,
+    "updatedAt": "2025-02-16T23:01:00Z",
+    "url": "https://github.com/valorisa/Candidature_Zen"
+  },
+  {
+    "name": "chatgpt_clone_by_bertie",
+    "topics": [
+      "ai",
+      "audio"
+    ],
+    "isFork": false,
+    "isPrivate": false,
+    "updatedAt": "2025-04-04T10:33:51Z",
+    "url": "https://github.com/valorisa/chatgpt_clone_by_bertie"
+  },
+  {
+    "name": "choco",
+    "topics": [
+      "windows"
+    ],
+    "isFork": true,
+    "isPrivate": false,
+    "updatedAt": "2025-04-19T15:51:31Z",
+    "url": "https://github.com/valorisa/choco"
+  },
+  {
+    "name": "CipherCore-FHE",
+    "topics": [
+      "ai",
+      "cryptography",
+      "devops"
+    ],
+    "isFork": false,
+    "isPrivate": false,
+    "updatedAt": "2025-02-23T08:37:06Z",
+    "url": "https://github.com/valorisa/CipherCore-FHE"
+  },
+  {
+    "name": "Claude-Chat-Exporter-Tool",
+    "topics": [
+      "ai",
+      "cryptography",
+      "documentation",
+      "web"
+    ],
+    "isFork": true,
+    "isPrivate": false,
+    "updatedAt": "2026-04-22T15:36:42Z",
+    "url": "https://github.com/valorisa/Claude-Chat-Exporter-Tool"
+  },
+  {
+    "name": "Claude-Skill-Creator",
+    "topics": [
+      "ai",
+      "cryptography",
+      "developer-tools",
+      "devops",
+      "documentation"
+    ],
+    "isFork": false,
+    "isPrivate": false,
+    "updatedAt": "2026-05-07T16:48:04Z",
+    "url": "https://github.com/valorisa/Claude-Skill-Creator"
+  },
+  {
+    "name": "Claude-Skills",
+    "topics": [
+      "ai",
+      "automation",
+      "github",
+      "productivity"
+    ],
+    "isFork": false,
+    "isPrivate": false,
+    "updatedAt": "2026-06-15T20:54:21Z",
+    "url": "https://github.com/valorisa/Claude-Skills"
+  },
+  {
+    "name": "Claw-Code",
+    "topics": [
+      "ai"
+    ],
+    "isFork": true,
+    "isPrivate": false,
+    "updatedAt": "2026-03-31T15:45:31Z",
+    "url": "https://github.com/valorisa/Claw-Code"
+  },
+  {
+    "name": "Copy_files_in_bulk",
+    "topics": [
+      "developer-tools",
+      "windows"
+    ],
+    "isFork": false,
+    "isPrivate": false,
+    "updatedAt": "2024-03-31T14:51:58Z",
+    "url": "https://github.com/valorisa/Copy_files_in_bulk"
+  },
+  {
+    "name": "cpp26-gcc15-wsl2-demo",
+    "topics": [
+      "linux",
+      "windows"
+    ],
+    "isFork": false,
+    "isPrivate": false,
+    "updatedAt": "2025-05-26T20:24:26Z",
+    "url": "https://github.com/valorisa/cpp26-gcc15-wsl2-demo"
+  },
+  {
+    "name": "cr-mac-helper",
+    "topics": [
+      "developer-tools",
+      "macos"
+    ],
+    "isFork": true,
+    "isPrivate": false,
+    "updatedAt": "2025-03-25T21:20:36Z",
+    "url": "https://github.com/valorisa/cr-mac-helper"
+  },
+  {
+    "name": "DavidAnson-markdownlint",
+    "topics": [
+      "documentation"
+    ],
+    "isFork": true,
+    "isPrivate": false,
+    "updatedAt": "2025-10-30T04:36:14Z",
+    "url": "https://github.com/valorisa/DavidAnson-markdownlint"
+  },
+  {
+    "name": "debian-migration-bookworm-to-trixie",
+    "topics": [
+      "documentation",
+      "linux"
+    ],
+    "isFork": false,
+    "isPrivate": false,
+    "updatedAt": "2025-08-26T10:26:00Z",
+    "url": "https://github.com/valorisa/debian-migration-bookworm-to-trixie"
+  },
+  {
+    "name": "DensitePrimes",
+    "topics": [
+      "android",
+      "devops",
+      "mathematics",
+      "python"
+    ],
+    "isFork": false,
+    "isPrivate": false,
+    "updatedAt": "2025-09-14T14:20:44Z",
+    "url": "https://github.com/valorisa/DensitePrimes"
+  },
+  {
+    "name": "diff_git_merge_rebase_ours_theirs",
+    "topics": [
+      "documentation",
+      "github"
+    ],
+    "isFork": false,
+    "isPrivate": false,
+    "updatedAt": "2025-03-14T13:39:13Z",
+    "url": "https://github.com/valorisa/diff_git_merge_rebase_ours_theirs"
+  },
+  {
+    "name": "DNSCrypt-Proxy_with_AdGuardHome",
+    "topics": [
+      "macos",
+      "networking",
+      "windows"
+    ],
+    "isFork": false,
+    "isPrivate": false,
+    "updatedAt": "2025-04-01T12:53:10Z",
+    "url": "https://github.com/valorisa/DNSCrypt-Proxy_with_AdGuardHome"
+  },
+  {
+    "name": "docker-webtop",
+    "topics": [
+      "devops",
+      "linux",
+      "virtualization",
+      "web"
+    ],
+    "isFork": true,
+    "isPrivate": false,
+    "updatedAt": "2025-01-23T22:43:09Z",
+    "url": "https://github.com/valorisa/docker-webtop"
+  },
+  {
+    "name": "DockerCertCheck",
+    "topics": [
+      "devops",
+      "macos",
+      "virtualization"
+    ],
+    "isFork": false,
+    "isPrivate": false,
+    "updatedAt": "2025-01-10T18:04:16Z",
+    "url": "https://github.com/valorisa/DockerCertCheck"
+  },
+  {
+    "name": "Docker_Chef",
+    "topics": [
+      "ai",
+      "devops",
+      "virtualization"
+    ],
+    "isFork": false,
+    "isPrivate": false,
+    "updatedAt": "2025-02-23T08:27:33Z",
+    "url": "https://github.com/valorisa/Docker_Chef"
+  },
+  {
+    "name": "Docker_DNSCrypt",
+    "topics": [
+      "ai",
+      "devops",
+      "networking",
+      "security",
+      "virtualization"
+    ],
+    "isFork": false,
+    "isPrivate": false,
+    "updatedAt": "2025-04-02T16:48:25Z",
+    "url": "https://github.com/valorisa/Docker_DNSCrypt"
+  },
+  {
+    "name": "Dystopia",
+    "topics": [
+      "devops"
+    ],
+    "isFork": false,
+    "isPrivate": false,
+    "updatedAt": "2025-09-12T13:42:23Z",
+    "url": "https://github.com/valorisa/Dystopia"
+  },
+  {
+    "name": "ente",
+    "topics": [
+      "audio",
+      "cloud"
+    ],
+    "isFork": true,
+    "isPrivate": false,
+    "updatedAt": "2025-07-16T13:08:16Z",
+    "url": "https://github.com/valorisa/ente"
+  },
+  {
+    "name": "Ente-Auth-cli-android",
+    "topics": [
+      "android",
+      "developer-tools",
+      "security"
+    ],
+    "isFork": false,
+    "isPrivate": false,
+    "updatedAt": "2025-07-16T20:02:08Z",
+    "url": "https://github.com/valorisa/Ente-Auth-cli-android"
+  },
+  {
+    "name": "Eschyle-Les-Perses",
+    "topics": [
+      "ai",
+      "devops",
+      "education"
+    ],
+    "isFork": false,
+    "isPrivate": false,
+    "updatedAt": "2026-06-08T12:34:38Z",
+    "url": "https://github.com/valorisa/Eschyle-Les-Perses"
+  },
+  {
+    "name": "FFmpeg-Loudnorm-PS",
+    "topics": [
+      "audio",
+      "developer-tools",
+      "windows"
+    ],
+    "isFork": false,
+    "isPrivate": false,
+    "updatedAt": "2026-02-17T12:51:27Z",
+    "url": "https://github.com/valorisa/FFmpeg-Loudnorm-PS"
+  },
+  {
+    "name": "flask-gunicorn-sample-app",
+    "topics": [
+      "python",
+      "web"
+    ],
+    "isFork": true,
+    "isPrivate": false,
+    "updatedAt": "2024-09-03T08:48:14Z",
+    "url": "https://github.com/valorisa/flask-gunicorn-sample-app"
+  },
+  {
+    "name": "Free-Claude-Code-Guide",
+    "topics": [
+      "ai",
+      "developer-tools",
+      "documentation",
+      "linux",
+      "macos",
+      "networking",
+      "windows"
+    ],
+    "isFork": false,
+    "isPrivate": false,
+    "updatedAt": "2026-05-04T13:21:44Z",
+    "url": "https://github.com/valorisa/Free-Claude-Code-Guide"
+  },
+  {
+    "name": "Function-Growth-Hierarchy",
+    "topics": [],
+    "isFork": false,
+    "isPrivate": false,
+    "updatedAt": "2025-10-03T20:31:28Z",
+    "url": "https://github.com/valorisa/Function-Growth-Hierarchy"
+  },
+  {
+    "name": "Gemini-CLI-macOS",
+    "topics": [
+      "ai",
+      "automation",
+      "developer-tools",
+      "github",
+      "macos",
+      "productivity",
+      "web"
+    ],
+    "isFork": false,
+    "isPrivate": false,
+    "updatedAt": "2025-10-30T20:56:29Z",
+    "url": "https://github.com/valorisa/Gemini-CLI-macOS"
+  },
+  {
+    "name": "ghostty",
+    "topics": [
+      "developer-tools"
+    ],
+    "isFork": true,
+    "isPrivate": false,
+    "updatedAt": "2025-02-06T02:49:35Z",
+    "url": "https://github.com/valorisa/ghostty"
+  },
+  {
+    "name": "git-mastery",
+    "topics": [
+      "devops",
+      "github"
+    ],
+    "isFork": false,
+    "isPrivate": false,
+    "updatedAt": "2025-06-03T20:10:07Z",
+    "url": "https://github.com/valorisa/git-mastery"
+  },
+  {
+    "name": "GitHub-Branch-Installation-Guide",
+    "topics": [
+      "automation",
+      "devops",
+      "documentation",
+      "github",
+      "macos",
+      "productivity"
+    ],
+    "isFork": false,
+    "isPrivate": false,
+    "updatedAt": "2026-04-15T15:49:35Z",
+    "url": "https://github.com/valorisa/GitHub-Branch-Installation-Guide"
+  },
+  {
+    "name": "GitHub-Docker-for-Win-WSL2-Data-Extractor",
+    "topics": [
+      "ai",
+      "devops",
+      "github",
+      "linux",
+      "virtualization",
+      "windows"
+    ],
+    "isFork": false,
+    "isPrivate": false,
+    "updatedAt": "2025-04-15T13:27:13Z",
+    "url": "https://github.com/valorisa/GitHub-Docker-for-Win-WSL2-Data-Extractor"
+  },
+  {
+    "name": "Github-Portfolio-Taxonomy",
+    "topics": [
+      "ai",
+      "cloud",
+      "data",
+      "devops",
+      "documentation",
+      "github",
+      "python"
+    ],
+    "isFork": false,
+    "isPrivate": false,
+    "updatedAt": "2026-06-18T12:31:24Z",
+    "url": "https://github.com/valorisa/Github-Portfolio-Taxonomy"
+  },
+  {
+    "name": "Github-Repository-Analyzer",
+    "topics": [
+      "ai",
+      "developer-tools",
+      "github",
+      "python"
+    ],
+    "isFork": false,
+    "isPrivate": false,
+    "updatedAt": "2026-05-29T18:03:00Z",
+    "url": "https://github.com/valorisa/Github-Repository-Analyzer"
+  },
+  {
+    "name": "Github-Universal-Scaffolding-Generator-Advanced",
+    "topics": [
+      "automation",
+      "cryptography",
+      "developer-tools",
+      "documentation",
+      "github",
+      "python",
+      "web"
+    ],
+    "isFork": false,
+    "isPrivate": false,
+    "updatedAt": "2026-06-06T14:07:38Z",
+    "url": "https://github.com/valorisa/Github-Universal-Scaffolding-Generator-Advanced"
+  },
+  {
+    "name": "gitingest",
+    "topics": [
+      "ai",
+      "github"
+    ],
+    "isFork": true,
+    "isPrivate": false,
+    "updatedAt": "2026-01-24T14:38:50Z",
+    "url": "https://github.com/valorisa/gitingest"
+  },
+  {
+    "name": "gitingest-extension",
+    "topics": [
+      "ai",
+      "github"
+    ],
+    "isFork": true,
+    "isPrivate": false,
+    "updatedAt": "2025-01-07T06:40:15Z",
+    "url": "https://github.com/valorisa/gitingest-extension"
+  },
+  {
+    "name": "Goosle",
+    "topics": [
+      "privacy"
+    ],
+    "isFork": true,
+    "isPrivate": false,
+    "updatedAt": "2026-03-27T23:38:57Z",
+    "url": "https://github.com/valorisa/Goosle"
+  },
+  {
+    "name": "GPP-Event4117-Monitor",
+    "topics": [
+      "developer-tools",
+      "devops",
+      "github",
+      "monitoring",
+      "windows"
+    ],
+    "isFork": false,
+    "isPrivate": false,
+    "updatedAt": "2026-03-12T20:58:06Z",
+    "url": "https://github.com/valorisa/GPP-Event4117-Monitor"
+  },
+  {
+    "name": "hash_and_check_password",
+    "topics": [
+      "cryptography",
+      "python",
+      "security"
+    ],
+    "isFork": false,
+    "isPrivate": false,
+    "updatedAt": "2025-04-10T12:53:48Z",
+    "url": "https://github.com/valorisa/hash_and_check_password"
+  },
+  {
+    "name": "highlight.js",
+    "topics": [
+      "devops",
+      "web"
+    ],
+    "isFork": true,
+    "isPrivate": false,
+    "updatedAt": "2025-04-23T23:47:36Z",
+    "url": "https://github.com/valorisa/highlight.js"
+  },
+  {
+    "name": "Homebrew-Docker-Guide",
+    "topics": [
+      "ai",
+      "devops",
+      "documentation",
+      "macos",
+      "virtualization"
+    ],
+    "isFork": false,
+    "isPrivate": false,
+    "updatedAt": "2025-04-13T22:51:13Z",
+    "url": "https://github.com/valorisa/Homebrew-Docker-Guide"
+  },
+  {
+    "name": "Homebrew-macOS-Toolchain-Optimizer",
+    "topics": [
+      "ai",
+      "automation",
+      "documentation",
+      "github",
+      "macos",
+      "productivity",
+      "security"
+    ],
+    "isFork": false,
+    "isPrivate": false,
+    "updatedAt": "2026-04-16T15:11:34Z",
+    "url": "https://github.com/valorisa/Homebrew-macOS-Toolchain-Optimizer"
+  },
+  {
+    "name": "HomeLab-VLAN-Refactor-Community",
+    "topics": [
+      "devops",
+      "homelab",
+      "networking",
+      "windows"
+    ],
+    "isFork": false,
+    "isPrivate": false,
+    "updatedAt": "2026-03-27T22:23:53Z",
+    "url": "https://github.com/valorisa/HomeLab-VLAN-Refactor-Community"
+  },
+  {
+    "name": "HomeLab-VLAN-Refactor-Configs",
+    "topics": [
+      "developer-tools",
+      "devops",
+      "homelab",
+      "networking",
+      "windows"
+    ],
+    "isFork": false,
+    "isPrivate": false,
+    "updatedAt": "2026-03-28T16:26:14Z",
+    "url": "https://github.com/valorisa/HomeLab-VLAN-Refactor-Configs"
+  },
+  {
+    "name": "HomeLab-VLAN-Refactor-Expert-Playbook",
+    "topics": [
+      "devops",
+      "homelab",
+      "networking"
+    ],
+    "isFork": false,
+    "isPrivate": false,
+    "updatedAt": "2026-03-27T23:02:56Z",
+    "url": "https://github.com/valorisa/HomeLab-VLAN-Refactor-Expert-Playbook"
+  },
+  {
+    "name": "HomeLab-VLAN-Refactor-Security",
+    "topics": [
+      "devops",
+      "homelab",
+      "networking",
+      "security"
+    ],
+    "isFork": false,
+    "isPrivate": false,
+    "updatedAt": "2026-03-30T13:01:22Z",
+    "url": "https://github.com/valorisa/HomeLab-VLAN-Refactor-Security"
+  },
+  {
+    "name": "Homo2rpheOS",
+    "topics": [
+      "cryptography",
+      "devops",
+      "privacy",
+      "research"
+    ],
+    "isFork": false,
+    "isPrivate": false,
+    "updatedAt": "2025-10-29T21:27:53Z",
+    "url": "https://github.com/valorisa/Homo2rpheOS"
+  },
+  {
+    "name": "https-github.com-danistefanovic-build-your-own-x",
+    "topics": [
+      "github"
+    ],
+    "isFork": true,
+    "isPrivate": false,
+    "updatedAt": "2018-05-23T11:22:51Z",
+    "url": "https://github.com/valorisa/https-github.com-danistefanovic-build-your-own-x"
+  },
+  {
+    "name": "i3-wsl-xephyr",
+    "topics": [
+      "documentation",
+      "linux",
+      "windows"
+    ],
+    "isFork": false,
+    "isPrivate": false,
+    "updatedAt": "2025-05-09T09:42:45Z",
+    "url": "https://github.com/valorisa/i3-wsl-xephyr"
+  },
+  {
+    "name": "install_powershell_on_macos",
+    "topics": [
+      "developer-tools",
+      "macos",
+      "windows"
+    ],
+    "isFork": false,
+    "isPrivate": false,
+    "updatedAt": "2025-02-02T20:17:47Z",
+    "url": "https://github.com/valorisa/install_powershell_on_macos"
+  },
+  {
+    "name": "JobFlow_Automator",
+    "topics": [],
+    "isFork": false,
+    "isPrivate": false,
+    "updatedAt": "2025-03-22T19:09:44Z",
+    "url": "https://github.com/valorisa/JobFlow_Automator"
+  },
+  {
+    "name": "JSON-Website-Generator-v2.0",
+    "topics": [
+      "ai",
+      "automation",
+      "cryptography",
+      "data",
+      "web"
+    ],
+    "isFork": false,
+    "isPrivate": false,
+    "updatedAt": "2026-04-23T14:45:37Z",
+    "url": "https://github.com/valorisa/JSON-Website-Generator-v2.0"
+  },
+  {
+    "name": "JSON_Web_Token_manager",
+    "topics": [
+      "cryptography",
+      "data",
+      "web"
+    ],
+    "isFork": false,
+    "isPrivate": false,
+    "updatedAt": "2025-02-12T23:02:50Z",
+    "url": "https://github.com/valorisa/JSON_Web_Token_manager"
+  },
+  {
+    "name": "KMS_VL_ALL_AIO",
+    "topics": [
+      "ai"
+    ],
+    "isFork": true,
+    "isPrivate": false,
+    "updatedAt": "2024-10-02T12:20:28Z",
+    "url": "https://github.com/valorisa/KMS_VL_ALL_AIO"
+  },
+  {
+    "name": "KMS_VL_ALL_AIO_",
+    "topics": [
+      "ai"
+    ],
+    "isFork": true,
+    "isPrivate": false,
+    "updatedAt": "2024-06-01T09:31:44Z",
+    "url": "https://github.com/valorisa/KMS_VL_ALL_AIO_"
+  },
+  {
+    "name": "kotaemon",
+    "topics": [],
+    "isFork": true,
+    "isPrivate": false,
+    "updatedAt": "2025-01-23T22:53:57Z",
+    "url": "https://github.com/valorisa/kotaemon"
+  },
+  {
+    "name": "lazyvim-japan-config",
+    "topics": [
+      "ai"
+    ],
+    "isFork": false,
+    "isPrivate": false,
+    "updatedAt": "2025-11-20T08:57:39Z",
+    "url": "https://github.com/valorisa/lazyvim-japan-config"
+  },
+  {
+    "name": "LeCert",
+    "topics": [
+      "ai",
+      "developer-tools",
+      "devops",
+      "github",
+      "security"
+    ],
+    "isFork": false,
+    "isPrivate": false,
+    "updatedAt": "2026-05-21T16:32:37Z",
+    "url": "https://github.com/valorisa/LeCert"
+  },
+  {
+    "name": "llm-council-skill",
+    "topics": [
+      "ai",
+      "devops",
+      "documentation",
+      "python",
+      "web"
+    ],
+    "isFork": true,
+    "isPrivate": false,
+    "updatedAt": "2026-04-18T18:30:27Z",
+    "url": "https://github.com/valorisa/llm-council-skill"
+  },
+  {
+    "name": "macOS-Nano-Compile",
+    "topics": [
+      "documentation",
+      "macos"
+    ],
+    "isFork": false,
+    "isPrivate": false,
+    "updatedAt": "2025-05-01T17:45:47Z",
+    "url": "https://github.com/valorisa/macOS-Nano-Compile"
+  },
+  {
+    "name": "markdown-it",
+    "topics": [
+      "documentation"
+    ],
+    "isFork": true,
+    "isPrivate": false,
+    "updatedAt": "2025-10-30T21:33:07Z",
+    "url": "https://github.com/valorisa/markdown-it"
+  },
+  {
+    "name": "markdown-link-check",
+    "topics": [
+      "documentation"
+    ],
+    "isFork": true,
+    "isPrivate": false,
+    "updatedAt": "2025-03-07T12:02:48Z",
+    "url": "https://github.com/valorisa/markdown-link-check"
+  },
+  {
+    "name": "markdownlint",
+    "topics": [
+      "documentation"
+    ],
+    "isFork": true,
+    "isPrivate": false,
+    "updatedAt": "2026-06-16T16:53:04Z",
+    "url": "https://github.com/valorisa/markdownlint"
+  },
+  {
+    "name": "markdownlint-cli",
+    "topics": [
+      "developer-tools",
+      "documentation"
+    ],
+    "isFork": true,
+    "isPrivate": false,
+    "updatedAt": "2026-03-23T19:29:15Z",
+    "url": "https://github.com/valorisa/markdownlint-cli"
+  },
+  {
+    "name": "MathClockRealTime",
+    "topics": [
+      "mathematics"
+    ],
+    "isFork": false,
+    "isPrivate": false,
+    "updatedAt": "2026-01-08T16:31:44Z",
+    "url": "https://github.com/valorisa/MathClockRealTime"
+  },
+  {
+    "name": "mathjax-formula-svg",
+    "topics": [
+      "android",
+      "mathematics"
+    ],
+    "isFork": false,
+    "isPrivate": false,
+    "updatedAt": "2025-08-30T09:52:07Z",
+    "url": "https://github.com/valorisa/mathjax-formula-svg"
+  },
+  {
+    "name": "Microsoft-Activation-Scripts",
+    "topics": [
+      "windows"
+    ],
+    "isFork": true,
+    "isPrivate": false,
+    "updatedAt": "2026-02-05T14:43:32Z",
+    "url": "https://github.com/valorisa/Microsoft-Activation-Scripts"
+  },
+  {
+    "name": "Microsoft-Office-For-MacOS",
+    "topics": [
+      "macos"
+    ],
+    "isFork": true,
+    "isPrivate": false,
+    "updatedAt": "2025-01-20T11:21:02Z",
+    "url": "https://github.com/valorisa/Microsoft-Office-For-MacOS"
+  },
+  {
+    "name": "mkvtoolnix-macos-build",
+    "topics": [
+      "audio",
+      "macos"
+    ],
+    "isFork": false,
+    "isPrivate": false,
+    "updatedAt": "2025-02-09T16:34:34Z",
+    "url": "https://github.com/valorisa/mkvtoolnix-macos-build"
+  },
+  {
+    "name": "mlx-dist-setup",
+    "topics": [
+      "python"
+    ],
+    "isFork": true,
+    "isPrivate": false,
+    "updatedAt": "2025-04-11T09:51:50Z",
+    "url": "https://github.com/valorisa/mlx-dist-setup"
+  },
+  {
+    "name": "MobaXterm-Keygen",
+    "topics": [],
+    "isFork": true,
+    "isPrivate": false,
+    "updatedAt": "2025-03-28T16:00:12Z",
+    "url": "https://github.com/valorisa/MobaXterm-Keygen"
+  },
+  {
+    "name": "MobaXterm-Keygen-Alt",
+    "topics": [],
+    "isFork": true,
+    "isPrivate": false,
+    "updatedAt": "2026-04-20T20:21:31Z",
+    "url": "https://github.com/valorisa/MobaXterm-Keygen-Alt"
+  },
+  {
+    "name": "mpv",
+    "topics": [
+      "audio"
+    ],
+    "isFork": true,
+    "isPrivate": false,
+    "updatedAt": "2025-02-16T09:45:30Z",
+    "url": "https://github.com/valorisa/mpv"
+  },
+  {
+    "name": "MPV-Station-Clean",
+    "topics": [
+      "audio",
+      "devops",
+      "windows"
+    ],
+    "isFork": false,
+    "isPrivate": false,
+    "updatedAt": "2026-02-21T21:10:37Z",
+    "url": "https://github.com/valorisa/MPV-Station-Clean"
+  },
+  {
+    "name": "MuseHub-PowerShell",
+    "topics": [
+      "developer-tools",
+      "windows"
+    ],
+    "isFork": false,
+    "isPrivate": false,
+    "updatedAt": "2026-04-28T12:32:19Z",
+    "url": "https://github.com/valorisa/MuseHub-PowerShell"
+  },
+  {
+    "name": "n8n-github-repo-creator",
+    "topics": [
+      "automation",
+      "github",
+      "productivity"
+    ],
+    "isFork": false,
+    "isPrivate": false,
+    "updatedAt": "2025-04-06T16:29:34Z",
+    "url": "https://github.com/valorisa/n8n-github-repo-creator"
+  },
+  {
+    "name": "Nano-8.4-macOS-compile-libmagic",
+    "topics": [
+      "documentation",
+      "macos",
+      "productivity"
+    ],
+    "isFork": false,
+    "isPrivate": false,
+    "updatedAt": "2025-05-15T18:04:58Z",
+    "url": "https://github.com/valorisa/Nano-8.4-macOS-compile-libmagic"
+  },
+  {
+    "name": "nano85-macOS-Tahoe",
+    "topics": [
+      "ai",
+      "macos"
+    ],
+    "isFork": false,
+    "isPrivate": false,
+    "updatedAt": "2025-06-25T16:05:17Z",
+    "url": "https://github.com/valorisa/nano85-macOS-Tahoe"
+  },
+  {
+    "name": "nanorc",
+    "topics": [],
+    "isFork": true,
+    "isPrivate": false,
+    "updatedAt": "2025-05-03T11:11:12Z",
+    "url": "https://github.com/valorisa/nanorc"
+  },
+  {
+    "name": "nbfc",
+    "topics": [],
+    "isFork": true,
+    "isPrivate": false,
+    "updatedAt": "2024-08-25T16:30:42Z",
+    "url": "https://github.com/valorisa/nbfc"
+  },
+  {
+    "name": "NixOS-TUI-Installer-Advanced",
+    "topics": [
+      "ai",
+      "linux",
+      "research"
+    ],
+    "isFork": false,
+    "isPrivate": false,
+    "updatedAt": "2026-04-17T18:18:34Z",
+    "url": "https://github.com/valorisa/NixOS-TUI-Installer-Advanced"
+  },
+  {
+    "name": "ntp-client-requester",
+    "topics": [
+      "ai",
+      "developer-tools",
+      "devops",
+      "linux",
+      "networking",
+      "security",
+      "virtualization"
+    ],
+    "isFork": false,
+    "isPrivate": false,
+    "updatedAt": "2025-10-29T23:10:38Z",
+    "url": "https://github.com/valorisa/ntp-client-requester"
+  },
+  {
+    "name": "ntp-monitor",
+    "topics": [
+      "monitoring",
+      "networking",
+      "web"
+    ],
+    "isFork": false,
+    "isPrivate": false,
+    "updatedAt": "2025-02-22T21:49:59Z",
+    "url": "https://github.com/valorisa/ntp-monitor"
+  },
+  {
+    "name": "ntp-ts-client",
+    "topics": [
+      "developer-tools",
+      "devops",
+      "linux",
+      "networking",
+      "python",
+      "virtualization"
+    ],
+    "isFork": false,
+    "isPrivate": false,
+    "updatedAt": "2025-10-29T23:20:53Z",
+    "url": "https://github.com/valorisa/ntp-ts-client"
+  },
+  {
+    "name": "NTP_Grafikart_script",
+    "topics": [
+      "ai",
+      "networking"
+    ],
+    "isFork": false,
+    "isPrivate": false,
+    "updatedAt": "2025-10-30T18:26:19Z",
+    "url": "https://github.com/valorisa/NTP_Grafikart_script"
+  },
+  {
+    "name": "obfus_socat",
+    "topics": [
+      "networking",
+      "security"
+    ],
+    "isFork": false,
+    "isPrivate": false,
+    "updatedAt": "2025-02-09T16:12:35Z",
+    "url": "https://github.com/valorisa/obfus_socat"
+  },
+  {
+    "name": "OneDrive-SafeRemove",
+    "topics": [
+      "developer-tools",
+      "windows"
+    ],
+    "isFork": false,
+    "isPrivate": false,
+    "updatedAt": "2025-11-16T19:33:45Z",
+    "url": "https://github.com/valorisa/OneDrive-SafeRemove"
+  },
+  {
+    "name": "OnlyOffice-macOS-Docker",
+    "topics": [
+      "devops",
+      "macos",
+      "virtualization"
+    ],
+    "isFork": false,
+    "isPrivate": false,
+    "updatedAt": "2025-07-01T15:37:12Z",
+    "url": "https://github.com/valorisa/OnlyOffice-macOS-Docker"
+  },
+  {
+    "name": "open-r1",
+    "topics": [],
+    "isFork": true,
+    "isPrivate": false,
+    "updatedAt": "2025-01-29T21:14:19Z",
+    "url": "https://github.com/valorisa/open-r1"
+  },
+  {
+    "name": "OpenCore-EFI-Installer-Automation",
+    "topics": [
+      "automation",
+      "documentation",
+      "macos",
+      "virtualization"
+    ],
+    "isFork": false,
+    "isPrivate": false,
+    "updatedAt": "2025-04-23T10:15:56Z",
+    "url": "https://github.com/valorisa/OpenCore-EFI-Installer-Automation"
+  },
+  {
+    "name": "OpenCore-Legacy-Patcher",
+    "topics": [
+      "macos",
+      "virtualization"
+    ],
+    "isFork": true,
+    "isPrivate": false,
+    "updatedAt": "2025-10-26T21:06:38Z",
+    "url": "https://github.com/valorisa/OpenCore-Legacy-Patcher"
+  },
+  {
+    "name": "OpenSSH-Windows-Clean-Modernizer",
+    "topics": [
+      "security",
+      "windows"
+    ],
+    "isFork": false,
+    "isPrivate": false,
+    "updatedAt": "2025-11-20T06:20:16Z",
+    "url": "https://github.com/valorisa/OpenSSH-Windows-Clean-Modernizer"
+  },
+  {
+    "name": "Oracle-Linux-Ultra-Hardening-Proof-of-Concept",
+    "topics": [
+      "devops",
+      "linux",
+      "research",
+      "security"
+    ],
+    "isFork": false,
+    "isPrivate": false,
+    "updatedAt": "2026-03-24T17:07:44Z",
+    "url": "https://github.com/valorisa/Oracle-Linux-Ultra-Hardening-Proof-of-Concept"
+  },
+  {
+    "name": "Paper-Briefer",
+    "topics": [
+      "ai",
+      "cryptography",
+      "devops",
+      "research"
+    ],
+    "isFork": false,
+    "isPrivate": false,
+    "updatedAt": "2026-05-10T15:23:24Z",
+    "url": "https://github.com/valorisa/Paper-Briefer"
+  },
+  {
+    "name": "Password-Generator-Advanced",
+    "topics": [
+      "ai",
+      "automation",
+      "devops",
+      "python",
+      "security"
+    ],
+    "isFork": false,
+    "isPrivate": false,
+    "updatedAt": "2026-06-17T10:39:43Z",
+    "url": "https://github.com/valorisa/Password-Generator-Advanced"
+  },
+  {
+    "name": "Password-Hash-Tool",
+    "topics": [
+      "cryptography",
+      "developer-tools",
+      "python",
+      "research",
+      "security"
+    ],
+    "isFork": false,
+    "isPrivate": false,
+    "updatedAt": "2026-05-10T23:39:13Z",
+    "url": "https://github.com/valorisa/Password-Hash-Tool"
+  },
+  {
+    "name": "perplexity-ai",
+    "topics": [
+      "ai",
+      "automation",
+      "devops",
+      "web"
+    ],
+    "isFork": true,
+    "isPrivate": false,
+    "updatedAt": "2025-03-13T19:33:00Z",
+    "url": "https://github.com/valorisa/perplexity-ai"
+  },
+  {
+    "name": "Peter_tests_Proof_of_Concept",
+    "topics": [],
+    "isFork": false,
+    "isPrivate": false,
+    "updatedAt": "2025-09-24T09:22:28Z",
+    "url": "https://github.com/valorisa/Peter_tests_Proof_of_Concept"
+  },
+  {
+    "name": "pfSense_YouTube_Adblock",
+    "topics": [
+      "devops",
+      "homelab",
+      "networking",
+      "privacy",
+      "security"
+    ],
+    "isFork": false,
+    "isPrivate": false,
+    "updatedAt": "2025-03-24T15:51:40Z",
+    "url": "https://github.com/valorisa/pfSense_YouTube_Adblock"
+  },
+  {
+    "name": "Podcast_Pilot_Audio-Hijack",
+    "topics": [
+      "audio",
+      "developer-tools",
+      "devops",
+      "macos"
+    ],
+    "isFork": false,
+    "isPrivate": false,
+    "updatedAt": "2026-05-31T09:46:15Z",
+    "url": "https://github.com/valorisa/Podcast_Pilot_Audio-Hijack"
+  },
+  {
+    "name": "Polygone-Evacuation-A5",
+    "topics": [
+      "networking"
+    ],
+    "isFork": false,
+    "isPrivate": false,
+    "updatedAt": "2026-03-21T22:45:05Z",
+    "url": "https://github.com/valorisa/Polygone-Evacuation-A5"
+  },
+  {
+    "name": "Prompt-Engineer-Toolkit",
+    "topics": [
+      "ai",
+      "automation",
+      "developer-tools",
+      "devops",
+      "github",
+      "python",
+      "virtualization",
+      "windows"
+    ],
+    "isFork": false,
+    "isPrivate": false,
+    "updatedAt": "2026-04-05T18:19:24Z",
+    "url": "https://github.com/valorisa/Prompt-Engineer-Toolkit"
+  },
+  {
+    "name": "PSScriptAnalyzer",
+    "topics": [
+      "developer-tools",
+      "windows"
+    ],
+    "isFork": true,
+    "isPrivate": false,
+    "updatedAt": "2026-06-11T21:16:18Z",
+    "url": "https://github.com/valorisa/PSScriptAnalyzer"
+  },
+  {
+    "name": "Putnam_B6_2011",
+    "topics": [
+      "ai",
+      "devops",
+      "mathematics"
+    ],
+    "isFork": false,
+    "isPrivate": false,
+    "updatedAt": "2026-05-10T09:56:02Z",
+    "url": "https://github.com/valorisa/Putnam_B6_2011"
+  },
+  {
+    "name": "pytubefix",
+    "topics": [
+      "audio",
+      "python"
+    ],
+    "isFork": true,
+    "isPrivate": false,
+    "updatedAt": "2025-01-03T14:38:49Z",
+    "url": "https://github.com/valorisa/pytubefix"
+  },
+  {
+    "name": "Quickshell-Hyprland",
+    "topics": [
+      "ai",
+      "developer-tools",
+      "linux"
+    ],
+    "isFork": false,
+    "isPrivate": false,
+    "updatedAt": "2026-06-13T06:38:39Z",
+    "url": "https://github.com/valorisa/Quickshell-Hyprland"
+  },
+  {
+    "name": "retro-home-pbx",
+    "topics": [],
+    "isFork": false,
+    "isPrivate": false,
+    "updatedAt": "2025-08-27T11:10:00Z",
+    "url": "https://github.com/valorisa/retro-home-pbx"
+  },
+  {
+    "name": "RHEL-Ultra-Hardening-Motion",
+    "topics": [
+      "linux",
+      "security"
+    ],
+    "isFork": false,
+    "isPrivate": false,
+    "updatedAt": "2026-03-23T00:49:54Z",
+    "url": "https://github.com/valorisa/RHEL-Ultra-Hardening-Motion"
+  },
+  {
+    "name": "RHEL-Ultra-Hardening-Proof-of-Concept",
+    "topics": [
+      "devops",
+      "linux",
+      "research",
+      "security"
+    ],
+    "isFork": false,
+    "isPrivate": false,
+    "updatedAt": "2026-03-23T00:49:27Z",
+    "url": "https://github.com/valorisa/RHEL-Ultra-Hardening-Proof-of-Concept"
+  },
+  {
+    "name": "Roosource",
+    "topics": [
+      "android",
+      "devops"
+    ],
+    "isFork": true,
+    "isPrivate": false,
+    "updatedAt": "2025-07-23T12:34:42Z",
+    "url": "https://github.com/valorisa/Roosource"
+  },
+  {
+    "name": "RSAKeyAnalyzer",
+    "topics": [
+      "cryptography"
+    ],
+    "isFork": false,
+    "isPrivate": false,
+    "updatedAt": "2025-02-09T12:33:02Z",
+    "url": "https://github.com/valorisa/RSAKeyAnalyzer"
+  },
+  {
+    "name": "Script_Update_VirtualBox_for_macOS",
+    "topics": [
+      "developer-tools",
+      "macos",
+      "virtualization"
+    ],
+    "isFork": false,
+    "isPrivate": false,
+    "updatedAt": "2026-05-18T21:31:32Z",
+    "url": "https://github.com/valorisa/Script_Update_VirtualBox_for_macOS"
+  },
+  {
+    "name": "ShellFromBrowser",
+    "topics": [
+      "ai",
+      "developer-tools",
+      "devops",
+      "networking",
+      "security",
+      "virtualization",
+      "web"
+    ],
+    "isFork": false,
+    "isPrivate": false,
+    "updatedAt": "2026-06-11T14:50:20Z",
+    "url": "https://github.com/valorisa/ShellFromBrowser"
+  },
+  {
+    "name": "shields",
+    "topics": [
+      "devops"
+    ],
+    "isFork": true,
+    "isPrivate": false,
+    "updatedAt": "2026-04-15T01:31:23Z",
+    "url": "https://github.com/valorisa/shields"
+  },
+  {
+    "name": "simple-web-server",
+    "topics": [
+      "developer-tools",
+      "web"
+    ],
+    "isFork": true,
+    "isPrivate": false,
+    "updatedAt": "2025-01-23T22:52:33Z",
+    "url": "https://github.com/valorisa/simple-web-server"
+  },
+  {
+    "name": "skeeter-deleter",
+    "topics": [],
+    "isFork": true,
+    "isPrivate": false,
+    "updatedAt": "2024-12-30T21:43:44Z",
+    "url": "https://github.com/valorisa/skeeter-deleter"
+  },
+  {
+    "name": "Slackware_current_Install_Guide",
+    "topics": [
+      "documentation",
+      "linux"
+    ],
+    "isFork": false,
+    "isPrivate": false,
+    "updatedAt": "2025-04-05T15:55:24Z",
+    "url": "https://github.com/valorisa/Slackware_current_Install_Guide"
+  },
+  {
+    "name": "socat-1.8.0.1_for_Windows",
+    "topics": [
+      "networking",
+      "windows"
+    ],
+    "isFork": false,
+    "isPrivate": false,
+    "updatedAt": "2025-05-04T16:37:36Z",
+    "url": "https://github.com/valorisa/socat-1.8.0.1_for_Windows"
+  },
+  {
+    "name": "socat-1.8.1.1_for_Windows",
+    "topics": [
+      "networking",
+      "windows"
+    ],
+    "isFork": false,
+    "isPrivate": false,
+    "updatedAt": "2026-02-25T10:23:09Z",
+    "url": "https://github.com/valorisa/socat-1.8.1.1_for_Windows"
+  },
+  {
+    "name": "socat-cygwin-automate",
+    "topics": [
+      "automation",
+      "networking",
+      "windows"
+    ],
+    "isFork": true,
+    "isPrivate": false,
+    "updatedAt": "2023-12-03T16:21:12Z",
+    "url": "https://github.com/valorisa/socat-cygwin-automate"
+  },
+  {
+    "name": "Spoon-Knife",
+    "topics": [],
+    "isFork": true,
+    "isPrivate": false,
+    "updatedAt": "2024-11-06T18:19:24Z",
+    "url": "https://github.com/valorisa/Spoon-Knife"
+  },
+  {
+    "name": "ssh-hardening-suite",
+    "topics": [
+      "devops",
+      "security"
+    ],
+    "isFork": false,
+    "isPrivate": false,
+    "updatedAt": "2025-11-27T15:25:43Z",
+    "url": "https://github.com/valorisa/ssh-hardening-suite"
+  },
+  {
+    "name": "Super-Bidirectional-md-qd-Bridge",
+    "topics": [
+      "developer-tools",
+      "devops",
+      "documentation",
+      "github",
+      "productivity",
+      "python"
+    ],
+    "isFork": false,
+    "isPrivate": false,
+    "updatedAt": "2026-04-28T21:00:38Z",
+    "url": "https://github.com/valorisa/Super-Bidirectional-md-qd-Bridge"
+  },
+  {
+    "name": "Super-Prompt-LLM-Council-Generator",
+    "topics": [
+      "ai",
+      "automation",
+      "cryptography",
+      "devops"
+    ],
+    "isFork": false,
+    "isPrivate": false,
+    "updatedAt": "2026-05-14T13:54:36Z",
+    "url": "https://github.com/valorisa/Super-Prompt-LLM-Council-Generator"
+  },
+  {
+    "name": "sxwm",
+    "topics": [],
+    "isFork": true,
+    "isPrivate": false,
+    "updatedAt": "2025-05-18T18:18:10Z",
+    "url": "https://github.com/valorisa/sxwm"
+  },
+  {
+    "name": "T2-Linux-Workbench-Laboratory",
+    "topics": [
+      "ai",
+      "devops",
+      "linux",
+      "windows"
+    ],
+    "isFork": false,
+    "isPrivate": false,
+    "updatedAt": "2026-04-02T14:36:11Z",
+    "url": "https://github.com/valorisa/T2-Linux-Workbench-Laboratory"
+  },
+  {
+    "name": "Tabular-Benchmark-MLOps",
+    "topics": [
+      "ai",
+      "devops",
+      "python",
+      "research"
+    ],
+    "isFork": false,
+    "isPrivate": false,
+    "updatedAt": "2026-04-02T22:33:53Z",
+    "url": "https://github.com/valorisa/Tabular-Benchmark-MLOps"
+  },
+  {
+    "name": "Test-and-Fix-MegaLinter-Tool",
+    "topics": [
+      "automation",
+      "documentation",
+      "python"
+    ],
+    "isFork": false,
+    "isPrivate": false,
+    "updatedAt": "2026-04-24T19:27:37Z",
+    "url": "https://github.com/valorisa/Test-and-Fix-MegaLinter-Tool"
+  },
+  {
+    "name": "Threema-Android-on-Alpine",
+    "topics": [
+      "android",
+      "linux"
+    ],
+    "isFork": false,
+    "isPrivate": false,
+    "updatedAt": "2025-04-15T20:11:20Z",
+    "url": "https://github.com/valorisa/Threema-Android-on-Alpine"
+  },
+  {
+    "name": "TightVNC-Server-For-Windows",
+    "topics": [
+      "developer-tools",
+      "documentation",
+      "windows"
+    ],
+    "isFork": false,
+    "isPrivate": false,
+    "updatedAt": "2026-06-06T16:04:57Z",
+    "url": "https://github.com/valorisa/TightVNC-Server-For-Windows"
+  },
+  {
+    "name": "tmux",
+    "topics": [
+      "developer-tools"
+    ],
+    "isFork": true,
+    "isPrivate": false,
+    "updatedAt": "2024-04-07T13:38:50Z",
+    "url": "https://github.com/valorisa/tmux"
+  },
+  {
+    "name": "transfer.sh",
+    "topics": [],
+    "isFork": true,
+    "isPrivate": false,
+    "updatedAt": "2024-11-04T15:36:51Z",
+    "url": "https://github.com/valorisa/transfer.sh"
+  },
+  {
+    "name": "Tru64-Unix-51b-Emulation",
+    "topics": [
+      "devops",
+      "documentation",
+      "virtualization"
+    ],
+    "isFork": false,
+    "isPrivate": false,
+    "updatedAt": "2026-05-25T14:24:02Z",
+    "url": "https://github.com/valorisa/Tru64-Unix-51b-Emulation"
+  },
+  {
+    "name": "ttyd",
+    "topics": [
+      "developer-tools",
+      "web"
+    ],
+    "isFork": true,
+    "isPrivate": false,
+    "updatedAt": "2025-01-23T22:59:29Z",
+    "url": "https://github.com/valorisa/ttyd"
+  },
+  {
+    "name": "Ultimate-Guide-for-Enthusiasts-of-ONKYO-TX-RZ50",
+    "topics": [
+      "devops",
+      "documentation",
+      "python",
+      "virtualization"
+    ],
+    "isFork": false,
+    "isPrivate": false,
+    "updatedAt": "2026-04-04T22:15:33Z",
+    "url": "https://github.com/valorisa/Ultimate-Guide-for-Enthusiasts-of-ONKYO-TX-RZ50"
+  },
+  {
+    "name": "Ultimate-Windows-Optimization-Guide",
+    "topics": [
+      "documentation",
+      "windows"
+    ],
+    "isFork": true,
+    "isPrivate": false,
+    "updatedAt": "2025-04-20T20:26:09Z",
+    "url": "https://github.com/valorisa/Ultimate-Windows-Optimization-Guide"
+  },
+  {
+    "name": "UltraPass256",
+    "topics": [
+      "devops"
+    ],
+    "isFork": false,
+    "isPrivate": false,
+    "updatedAt": "2025-10-29T22:05:55Z",
+    "url": "https://github.com/valorisa/UltraPass256"
+  },
+  {
+    "name": "unison-factorial-wsl",
+    "topics": [
+      "windows"
+    ],
+    "isFork": false,
+    "isPrivate": false,
+    "updatedAt": "2025-12-11T15:38:42Z",
+    "url": "https://github.com/valorisa/unison-factorial-wsl"
+  },
+  {
+    "name": "Update-PWSH-macOS-CLI",
+    "topics": [
+      "developer-tools",
+      "macos",
+      "windows"
+    ],
+    "isFork": false,
+    "isPrivate": false,
+    "updatedAt": "2025-10-30T18:32:13Z",
+    "url": "https://github.com/valorisa/Update-PWSH-macOS-CLI"
+  },
+  {
+    "name": "updog-progress-bar",
+    "topics": [
+      "python",
+      "security"
+    ],
+    "isFork": true,
+    "isPrivate": false,
+    "updatedAt": "2024-07-24T18:33:49Z",
+    "url": "https://github.com/valorisa/updog-progress-bar"
+  },
+  {
+    "name": "valorisa",
+    "topics": [
+      "github"
+    ],
+    "isFork": false,
+    "isPrivate": false,
+    "updatedAt": "2022-12-26T14:19:12Z",
+    "url": "https://github.com/valorisa/valorisa"
+  },
+  {
+    "name": "vega-macos-env-bootstrap",
+    "topics": [
+      "macos"
+    ],
+    "isFork": false,
+    "isPrivate": false,
+    "updatedAt": "2025-10-07T14:12:32Z",
+    "url": "https://github.com/valorisa/vega-macos-env-bootstrap"
+  },
+  {
+    "name": "Video-Surveillance-Signage-Generator",
+    "topics": [
+      "ai",
+      "audio",
+      "automation",
+      "privacy"
+    ],
+    "isFork": false,
+    "isPrivate": false,
+    "updatedAt": "2026-04-18T18:07:13Z",
+    "url": "https://github.com/valorisa/Video-Surveillance-Signage-Generator"
+  },
+  {
+    "name": "VMware-Workstation-Pro-17-Licence-Keys",
+    "topics": [
+      "virtualization"
+    ],
+    "isFork": true,
+    "isPrivate": false,
+    "updatedAt": "2024-08-10T05:08:46Z",
+    "url": "https://github.com/valorisa/VMware-Workstation-Pro-17-Licence-Keys"
+  },
+  {
+    "name": "vscode",
+    "topics": [
+      "developer-tools"
+    ],
+    "isFork": true,
+    "isPrivate": false,
+    "updatedAt": "2025-04-06T13:23:33Z",
+    "url": "https://github.com/valorisa/vscode"
+  },
+  {
+    "name": "vscode-error-lens",
+    "topics": [
+      "developer-tools"
+    ],
+    "isFork": true,
+    "isPrivate": false,
+    "updatedAt": "2025-04-03T13:20:23Z",
+    "url": "https://github.com/valorisa/vscode-error-lens"
+  },
+  {
+    "name": "vscode-markdownlint",
+    "topics": [
+      "developer-tools",
+      "documentation"
+    ],
+    "isFork": true,
+    "isPrivate": false,
+    "updatedAt": "2025-05-27T01:19:57Z",
+    "url": "https://github.com/valorisa/vscode-markdownlint"
+  },
+  {
+    "name": "vscode-tmux-keybinding",
+    "topics": [
+      "developer-tools"
+    ],
+    "isFork": true,
+    "isPrivate": false,
+    "updatedAt": "2023-11-12T13:42:37Z",
+    "url": "https://github.com/valorisa/vscode-tmux-keybinding"
+  },
+  {
+    "name": "vt-scanner-cli",
+    "topics": [
+      "developer-tools",
+      "linux",
+      "macos",
+      "python",
+      "windows"
+    ],
+    "isFork": false,
+    "isPrivate": false,
+    "updatedAt": "2026-03-11T15:36:06Z",
+    "url": "https://github.com/valorisa/vt-scanner-cli"
+  },
+  {
+    "name": "VT-TUI-Scanner",
+    "topics": [
+      "monitoring",
+      "python"
+    ],
+    "isFork": false,
+    "isPrivate": false,
+    "updatedAt": "2026-03-31T23:01:29Z",
+    "url": "https://github.com/valorisa/VT-TUI-Scanner"
+  },
+  {
+    "name": "wg-easy",
+    "topics": [
+      "networking",
+      "web"
+    ],
+    "isFork": true,
+    "isPrivate": false,
+    "updatedAt": "2024-12-30T22:08:16Z",
+    "url": "https://github.com/valorisa/wg-easy"
+  },
+  {
+    "name": "Willans-prime-formula",
+    "topics": [
+      "android",
+      "data",
+      "education",
+      "mathematics",
+      "python",
+      "research"
+    ],
+    "isFork": false,
+    "isPrivate": false,
+    "updatedAt": "2026-01-08T10:04:12Z",
+    "url": "https://github.com/valorisa/Willans-prime-formula"
+  },
+  {
+    "name": "Win11-LocalAccount-Creator",
+    "topics": [
+      "developer-tools",
+      "windows"
+    ],
+    "isFork": false,
+    "isPrivate": false,
+    "updatedAt": "2025-10-29T23:31:36Z",
+    "url": "https://github.com/valorisa/Win11-LocalAccount-Creator"
+  },
+  {
+    "name": "win7-adobe-reader-winrt-fix-v2",
+    "topics": [
+      "developer-tools",
+      "windows"
+    ],
+    "isFork": false,
+    "isPrivate": false,
+    "updatedAt": "2026-03-02T19:42:05Z",
+    "url": "https://github.com/valorisa/win7-adobe-reader-winrt-fix-v2"
+  },
+  {
+    "name": "WinEnv-Path-Clean-Guard",
+    "topics": [
+      "ai",
+      "github",
+      "windows"
+    ],
+    "isFork": false,
+    "isPrivate": false,
+    "updatedAt": "2026-03-22T11:26:35Z",
+    "url": "https://github.com/valorisa/WinEnv-Path-Clean-Guard"
+  },
+  {
+    "name": "winrar-keygen",
+    "topics": [
+      "devops"
+    ],
+    "isFork": true,
+    "isPrivate": false,
+    "updatedAt": "2025-01-13T16:23:37Z",
+    "url": "https://github.com/valorisa/winrar-keygen"
+  },
+  {
+    "name": "wsl2-custom-kernel",
+    "topics": [
+      "documentation",
+      "linux",
+      "windows"
+    ],
+    "isFork": false,
+    "isPrivate": false,
+    "updatedAt": "2025-07-09T16:55:24Z",
+    "url": "https://github.com/valorisa/wsl2-custom-kernel"
+  },
+  {
+    "name": "WSL2-Custom-Kernel-6.18-LTS-Guide",
+    "topics": [
+      "documentation",
+      "linux",
+      "windows"
+    ],
+    "isFork": false,
+    "isPrivate": false,
+    "updatedAt": "2026-05-16T19:50:19Z",
+    "url": "https://github.com/valorisa/WSL2-Custom-Kernel-6.18-LTS-Guide"
+  },
+  {
+    "name": "youtube-dl",
+    "topics": [
+      "audio"
+    ],
+    "isFork": true,
+    "isPrivate": false,
+    "updatedAt": "2025-01-23T22:57:49Z",
+    "url": "https://github.com/valorisa/youtube-dl"
+  },
+  {
+    "name": "YouTube-Protobuf-AdBlock",
+    "topics": [
+      "devops",
+      "privacy"
+    ],
+    "isFork": false,
+    "isPrivate": false,
+    "updatedAt": "2025-03-24T15:47:27Z",
+    "url": "https://github.com/valorisa/YouTube-Protobuf-AdBlock"
+  },
+  {
+    "name": "youtube-transcript-downloader",
+    "topics": [
+      "ai",
+      "python"
+    ],
+    "isFork": false,
+    "isPrivate": false,
+    "updatedAt": "2025-05-21T13:00:42Z",
+    "url": "https://github.com/valorisa/youtube-transcript-downloader"
+  },
+  {
+    "name": "yt-dlp",
+    "topics": [
+      "audio"
+    ],
+    "isFork": true,
+    "isPrivate": false,
+    "updatedAt": "2026-06-16T18:45:23Z",
+    "url": "https://github.com/valorisa/yt-dlp"
+  },
+  {
+    "name": "ytdl-nightly",
+    "topics": [],
+    "isFork": true,
+    "isPrivate": false,
+    "updatedAt": "2025-01-23T22:44:06Z",
+    "url": "https://github.com/valorisa/ytdl-nightly"
+  },
+  {
+    "name": "zoraxy",
+    "topics": [
+      "networking"
+    ],
+    "isFork": true,
+    "isPrivate": false,
+    "updatedAt": "2025-01-18T14:10:47Z",
+    "url": "https://github.com/valorisa/zoraxy"
+  }
+]
