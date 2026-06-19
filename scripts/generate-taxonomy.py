@@ -120,20 +120,23 @@ def write_statistics(
             f"| **Total classified** | **{classified}** | **100%** |"
         )
 
+    # Construction du contenu final avec un '\n' à la fin
+    content = "\n".join(
+        [
+            "# Statistics",
+            "",
+            f"- Total repositories: {stats['total']}",
+            f"- Forks: {stats['forks']}",
+            f"- Private: {stats['private']}",
+            f"- Classified: {classified}",
+            f"- Unclassified: {unclassified}",
+            f"- Coverage: {ratio}%",
+            *domain_distribution,
+        ]
+    ) + "\n"
+
     STATISTICS_FILE.write_text(
-        "\n".join(
-            [
-                "# Statistics",
-                "",
-                f"- Total repositories: {stats['total']}",
-                f"- Forks: {stats['forks']}",
-                f"- Private: {stats['private']}",
-                f"- Classified: {classified}",
-                f"- Unclassified: {unclassified}",
-                f"- Coverage: {ratio}%",
-                *domain_distribution,
-            ]
-        ),
+        content,
         encoding="utf-8",
     )
 
@@ -142,17 +145,20 @@ def write_unclassified(
     repos: list[str],
 ) -> None:
 
+    # Construction du contenu final avec un '\n' à la fin
+    content = "\n".join(
+        [
+            "# Unclassified repositories",
+            "",
+            *[
+                f"- {repo}"
+                for repo in sorted(repos)
+            ],
+        ]
+    ) + "\n"
+
     UNCLASSIFIED_FILE.write_text(
-        "\n".join(
-            [
-                "# Unclassified repositories",
-                "",
-                *[
-                    f"- {repo}"
-                    for repo in sorted(repos)
-                ],
-            ]
-        ),
+        content,
         encoding="utf-8",
     )
 
