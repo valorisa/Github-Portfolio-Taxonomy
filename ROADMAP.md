@@ -449,9 +449,9 @@ python scripts/generate-taxonomy.py `
 
 ### Phase 1
 
-- [ ] **1.1** Auto-fetch repos (`scripts/fetch-repos.py`)
-- [ ] **1.2** Distribution domaines (`reports/statistics.md`)
-- [ ] **1.3** CI/CD taxonomie (`.github/workflows/taxonomy.yml`)
+- [x] **1.1** Auto-fetch repos (`scripts/fetch-repos.py`)
+- [x] **1.2** Distribution domaines (`reports/statistics.md`)
+- [x] **1.3** CI/CD taxonomie (`.github/workflows/taxonomy.yml`)
 
 ### Phase 2
 
