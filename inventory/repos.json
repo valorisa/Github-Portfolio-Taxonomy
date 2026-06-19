@@ -713,7 +713,7 @@
     "description": "Outil Python de classification automatique de portfolios GitHub. Taxonomie pour catégoriser repos par domaines techniques (AI/ML, Cloud, DevOps, Frontend, Backend). Analyse descriptions, détecte keywords sur 25 domaines, produit JSON, TSV et rapports Markdown. Idéal pour les ingénieurs logiciel afin d'organiser l'écosystème GitHub à leur sauce.",
     "isFork": false,
     "isPrivate": false,
-    "updatedAt": "2026-06-18T13:37:37Z",
+    "updatedAt": "2026-06-18T13:43:10Z",
     "url": "https://github.com/valorisa/Github-Portfolio-Taxonomy",
     "githubTopics": [
       "cli-tool",
@@ -2136,7 +2136,7 @@
     "url": "https://github.com/valorisa/socat-1.8.0.1_for_Windows",
     "githubTopics": [],
     "language": null,
-    "stars": 110
+    "stars": 111
   },
   {
     "name": "socat-1.8.1.1_for_Windows",
