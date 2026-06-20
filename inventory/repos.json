@@ -713,7 +713,7 @@
     "description": "Outil Python de classification automatique de portfolios GitHub. Taxonomie pour catégoriser repos par domaines techniques (AI/ML, Cloud, DevOps, Frontend, Backend). Analyse descriptions, détecte keywords sur 25 domaines, produit JSON, TSV et rapports Markdown. Idéal pour les ingénieurs logiciel afin d'organiser l'écosystème GitHub à leur sauce.",
     "isFork": false,
     "isPrivate": false,
-    "updatedAt": "2026-06-19T08:22:57Z",
+    "updatedAt": "2026-06-19T18:35:25Z",
     "url": "https://github.com/valorisa/Github-Portfolio-Taxonomy",
     "githubTopics": [
       "cli-tool",
@@ -777,7 +777,7 @@
     "description": "CLI tool open-source automatisant intégralement la création de dépôts GitHub conformes aux Community Standards (100%) pour tout type de projet (library, webapp, cli, github-action, docs, monorepo) et stack (Python, Node, Go, Java, Rust). Élimine des heures de config manuelle.",
     "isFork": false,
     "isPrivate": false,
-    "updatedAt": "2026-06-06T14:07:38Z",
+    "updatedAt": "2026-06-19T16:10:16Z",
     "url": "https://github.com/valorisa/Github-Universal-Scaffolding-Generator-Advanced",
     "githubTopics": [
       "automation",
@@ -1938,7 +1938,7 @@
     "description": "Modular QuickShell configuration for Hyprland — Bar, OSD, Notifications, ControlCenter | Configuration QuickShell modulaire pour Hyprland",
     "isFork": false,
     "isPrivate": false,
-    "updatedAt": "2026-06-13T06:38:39Z",
+    "updatedAt": "2026-06-19T13:53:47Z",
     "url": "https://github.com/valorisa/Quickshell-Hyprland",
     "githubTopics": [
       "desktop-environment",
