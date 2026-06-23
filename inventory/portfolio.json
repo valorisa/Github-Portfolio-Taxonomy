@@ -34,7 +34,7 @@
     ],
     "isFork": false,
     "isPrivate": false,
-    "updatedAt": "2026-06-22T07:12:01Z",
+    "updatedAt": "2026-06-22T12:26:40Z",
     "url": "https://github.com/valorisa/Advanced-Prompts-Factory"
   },
   {
@@ -257,7 +257,7 @@
     ],
     "isFork": false,
     "isPrivate": false,
-    "updatedAt": "2026-06-21T14:48:57Z",
+    "updatedAt": "2026-06-22T10:21:14Z",
     "url": "https://github.com/valorisa/Claude-Skills"
   },
   {
@@ -302,6 +302,16 @@
     "isPrivate": false,
     "updatedAt": "2025-03-25T21:20:36Z",
     "url": "https://github.com/valorisa/cr-mac-helper"
+  },
+  {
+    "name": "Custom-AI-Assistant-Framework",
+    "topics": [
+      "ai"
+    ],
+    "isFork": false,
+    "isPrivate": false,
+    "updatedAt": "2026-06-22T19:02:42Z",
+    "url": "https://github.com/valorisa/Custom-AI-Assistant-Framework"
   },
   {
     "name": "DavidAnson-markdownlint",
@@ -583,7 +593,7 @@
     ],
     "isFork": false,
     "isPrivate": false,
-    "updatedAt": "2026-06-21T06:49:09Z",
+    "updatedAt": "2026-06-22T10:25:35Z",
     "url": "https://github.com/valorisa/Github-Portfolio-Taxonomy"
   },
   {
@@ -1442,7 +1452,7 @@
     ],
     "isFork": false,
     "isPrivate": false,
-    "updatedAt": "2026-06-19T13:53:47Z",
+    "updatedAt": "2026-06-22T10:39:57Z",
     "url": "https://github.com/valorisa/Quickshell-Hyprland"
   },
   {
@@ -2066,7 +2076,7 @@
     ],
     "isFork": true,
     "isPrivate": false,
-    "updatedAt": "2026-06-16T18:45:23Z",
+    "updatedAt": "2026-06-22T13:09:54Z",
     "url": "https://github.com/valorisa/yt-dlp"
   },
   {

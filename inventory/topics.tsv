@@ -25,6 +25,7 @@ Claw-Code	ai
 Copy_files_in_bulk	developer-tools,windows
 cpp26-gcc15-wsl2-demo	linux,windows
 cr-mac-helper	developer-tools,macos
+Custom-AI-Assistant-Framework	ai
 DavidAnson-markdownlint	documentation
 debian-migration-bookworm-to-trixie	documentation,linux
 DensitePrimes	android,devops,mathematics,python
