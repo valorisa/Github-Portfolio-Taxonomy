@@ -310,7 +310,7 @@
     ],
     "isFork": false,
     "isPrivate": false,
-    "updatedAt": "2026-06-22T19:02:42Z",
+    "updatedAt": "2026-06-23T10:34:24Z",
     "url": "https://github.com/valorisa/Custom-AI-Assistant-Framework"
   },
   {
@@ -420,6 +420,16 @@
     "isPrivate": false,
     "updatedAt": "2025-04-02T16:48:25Z",
     "url": "https://github.com/valorisa/Docker_DNSCrypt"
+  },
+  {
+    "name": "Dual-Path-Deepseek",
+    "topics": [
+      "ai"
+    ],
+    "isFork": false,
+    "isPrivate": false,
+    "updatedAt": "2026-06-23T20:11:53Z",
+    "url": "https://github.com/valorisa/Dual-Path-Deepseek"
   },
   {
     "name": "Dystopia",
@@ -593,7 +603,7 @@
     ],
     "isFork": false,
     "isPrivate": false,
-    "updatedAt": "2026-06-22T10:25:35Z",
+    "updatedAt": "2026-06-23T06:04:37Z",
     "url": "https://github.com/valorisa/Github-Portfolio-Taxonomy"
   },
   {
@@ -906,7 +916,7 @@
     ],
     "isFork": false,
     "isPrivate": false,
-    "updatedAt": "2026-05-21T16:32:37Z",
+    "updatedAt": "2026-06-23T22:03:36Z",
     "url": "https://github.com/valorisa/LeCert"
   },
   {

@@ -35,6 +35,7 @@ docker-webtop	devops,linux,virtualization,web
 DockerCertCheck	devops,macos,virtualization
 Docker_Chef	ai,devops,virtualization
 Docker_DNSCrypt	ai,devops,networking,security,virtualization
+Dual-Path-Deepseek	ai
 Dystopia	devops
 ente	audio,cloud
 Ente-Auth-cli-android	android,developer-tools,security
