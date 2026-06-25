@@ -1,11 +1,14 @@
 repo	topics
 18-Hacks-Qwen3.6-plus-Super-Promptor	ai,developer-tools,devops,python,windows
 2fas-browser-extension	
+Advanced-Multi-Agent-Orchestrator	ai,automation,devops,github,productivity
 Advanced-Prompts-Factory	ai,developer-tools,devops,documentation,github,python,windows
 Aerofoil-Propeller-Calculator	ai,developer-tools,python
 alass	
 alpine-linux-on-termux	android,linux,virtualization
 alpine_bw_cli_gen_passwd	automation,developer-tools,linux,security
+andrej-karpathy-skills	ai
+Anthropic-Cybersecurity-Skills	ai,developer-tools,github,security
 ArchLinux-Omarchy-WSL-Script	linux,windows
 ArcPass-MS02	developer-tools,homelab
 aria2	
