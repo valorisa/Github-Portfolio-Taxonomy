@@ -14,6 +14,7 @@ ArcPass-MS02	developer-tools,homelab
 aria2	
 Audit-Bitwarden-Shai-Hulud	ai,developer-tools,github,security,windows
 badssl.com	ai,developer-tools,security
+Base64-Chunk-Stream	ai,cryptography
 Base64-Credentials	cryptography,data,developer-tools,devops,python,security,virtualization
 bbrod-s-VSCode-Retro-Themes	ai,developer-tools
 brew	linux,macos,windows
