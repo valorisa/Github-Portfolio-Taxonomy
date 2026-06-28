@@ -177,7 +177,7 @@
     "description": "817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 29 security domains · Apache 2.0",
     "isFork": true,
     "isPrivate": false,
-    "updatedAt": "2026-06-24T12:33:37Z",
+    "updatedAt": "2026-06-27T13:28:45Z",
     "url": "https://github.com/valorisa/Anthropic-Cybersecurity-Skills",
     "githubTopics": [],
     "language": "Python",
@@ -261,7 +261,7 @@
     "description": "Base64-Chunk-Stream est une bibliothèque utilitaire pour découper, transporter et reconstruire des flux Base64 par chunks, avec une approche adaptée au streaming et à l’automatisation.",
     "isFork": false,
     "isPrivate": false,
-    "updatedAt": "2026-06-26T09:57:44Z",
+    "updatedAt": "2026-06-27T18:06:42Z",
     "url": "https://github.com/valorisa/Base64-Chunk-Stream",
     "githubTopics": [
       "base64",
@@ -848,7 +848,7 @@
     "description": "Outil Python de classification automatique de portfolios GitHub. Taxonomie pour catégoriser repos par domaines techniques (AI/ML, Cloud, DevOps, Frontend, Backend). Analyse descriptions, détecte keywords sur 25 domaines, produit JSON, TSV et rapports Markdown. Idéal pour les ingénieurs logiciel afin d'organiser l'écosystème GitHub à leur sauce.",
     "isFork": false,
     "isPrivate": false,
-    "updatedAt": "2026-06-26T06:08:19Z",
+    "updatedAt": "2026-06-27T05:51:28Z",
     "url": "https://github.com/valorisa/Github-Portfolio-Taxonomy",
     "githubTopics": [
       "cli-tool",
@@ -912,7 +912,7 @@
     "description": "CLI tool open-source automatisant intégralement la création de dépôts GitHub conformes aux Community Standards (100%) pour tout type de projet (library, webapp, cli, github-action, docs, monorepo) et stack (Python, Node, Go, Java, Rust). Élimine des heures de config manuelle.",
     "isFork": false,
     "isPrivate": false,
-    "updatedAt": "2026-06-26T12:23:53Z",
+    "updatedAt": "2026-06-27T13:21:27Z",
     "url": "https://github.com/valorisa/Github-Universal-Scaffolding-Generator-Advanced",
     "githubTopics": [
       "automation",
