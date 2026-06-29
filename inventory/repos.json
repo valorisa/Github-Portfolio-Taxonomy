@@ -848,7 +848,7 @@
     "description": "Outil Python de classification automatique de portfolios GitHub. Taxonomie pour catégoriser repos par domaines techniques (AI/ML, Cloud, DevOps, Frontend, Backend). Analyse descriptions, détecte keywords sur 25 domaines, produit JSON, TSV et rapports Markdown. Idéal pour les ingénieurs logiciel afin d'organiser l'écosystème GitHub à leur sauce.",
     "isFork": false,
     "isPrivate": false,
-    "updatedAt": "2026-06-27T05:51:28Z",
+    "updatedAt": "2026-06-28T06:15:07Z",
     "url": "https://github.com/valorisa/Github-Portfolio-Taxonomy",
     "githubTopics": [
       "cli-tool",
@@ -1413,7 +1413,7 @@
     "url": "https://github.com/valorisa/markdownlint",
     "githubTopics": [],
     "language": "Ruby",
-    "stars": 1
+    "stars": 2
   },
   {
     "name": "markdownlint-cli",
@@ -1446,6 +1446,17 @@
     "url": "https://github.com/valorisa/mathjax-formula-svg",
     "githubTopics": [],
     "language": "JavaScript",
+    "stars": 1
+  },
+  {
+    "name": "MDI-Air-Cat",
+    "description": "Reproduction pédagogique du rapport MDI de 2003 sur l'autonomie d'un véhicule à air comprimé. Simulation dynamique, benchmark 2026 et autopsie historique.",
+    "isFork": false,
+    "isPrivate": false,
+    "updatedAt": "2026-06-28T21:18:58Z",
+    "url": "https://github.com/valorisa/MDI-Air-Cat",
+    "githubTopics": [],
+    "language": "Jupyter Notebook",
     "stars": 1
   },
   {

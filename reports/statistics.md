@@ -1,40 +1,40 @@
 # Statistics
 
-- Total repositories: 187
+- Total repositories: 188
 - Forks: 66
 - Private: 0
-- Classified: 169
+- Classified: 170
 - Unclassified: 18
-- Coverage: 90.37%
+- Coverage: 90.43%
 
 ## Domain Distribution
 
 | Domain | Repositories | Coverage |
 |---|---|---|
-| ai | 54 | 32.0% |
-| devops | 53 | 31.4% |
-| developer-tools | 49 | 29.0% |
-| windows | 38 | 22.5% |
-| documentation | 31 | 18.3% |
-| python | 26 | 15.4% |
-| github | 24 | 14.2% |
-| linux | 23 | 13.6% |
-| security | 23 | 13.6% |
-| macos | 23 | 13.6% |
+| ai | 55 | 32.4% |
+| devops | 53 | 31.2% |
+| developer-tools | 49 | 28.8% |
+| windows | 38 | 22.4% |
+| documentation | 31 | 18.2% |
+| python | 26 | 15.3% |
+| github | 24 | 14.1% |
+| linux | 23 | 13.5% |
+| security | 23 | 13.5% |
+| macos | 23 | 13.5% |
 | networking | 20 | 11.8% |
 | virtualization | 19 | 11.2% |
-| automation | 17 | 10.1% |
-| web | 15 | 8.9% |
-| cryptography | 14 | 8.3% |
+| automation | 17 | 10.0% |
+| web | 15 | 8.8% |
+| cryptography | 14 | 8.2% |
 | audio | 11 | 6.5% |
+| research | 9 | 5.3% |
 | productivity | 8 | 4.7% |
-| research | 8 | 4.7% |
 | android | 7 | 4.1% |
-| homelab | 6 | 3.6% |
-| data | 5 | 3.0% |
-| mathematics | 5 | 3.0% |
-| privacy | 5 | 3.0% |
+| homelab | 6 | 3.5% |
+| data | 5 | 2.9% |
+| mathematics | 5 | 2.9% |
+| privacy | 5 | 2.9% |
 | monitoring | 3 | 1.8% |
 | cloud | 2 | 1.2% |
 | education | 2 | 1.2% |
-| **Total classified** | **169** | **100%** |
+| **Total classified** | **170** | **100%** |

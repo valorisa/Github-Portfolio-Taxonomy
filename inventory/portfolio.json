@@ -651,7 +651,7 @@
     ],
     "isFork": false,
     "isPrivate": false,
-    "updatedAt": "2026-06-27T05:51:28Z",
+    "updatedAt": "2026-06-28T06:15:07Z",
     "url": "https://github.com/valorisa/Github-Portfolio-Taxonomy"
   },
   {
@@ -1053,6 +1053,17 @@
     "isPrivate": false,
     "updatedAt": "2025-08-30T09:52:07Z",
     "url": "https://github.com/valorisa/mathjax-formula-svg"
+  },
+  {
+    "name": "MDI-Air-Cat",
+    "topics": [
+      "ai",
+      "research"
+    ],
+    "isFork": false,
+    "isPrivate": false,
+    "updatedAt": "2026-06-28T21:18:58Z",
+    "url": "https://github.com/valorisa/MDI-Air-Cat"
   },
   {
     "name": "Microsoft-Activation-Scripts",
