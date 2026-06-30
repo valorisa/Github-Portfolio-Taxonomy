@@ -383,6 +383,17 @@
     "stars": 1
   },
   {
+    "name": "claude-code-best-practice",
+    "description": "from vibe coding to agentic engineering - practice makes claude perfect",
+    "isFork": true,
+    "isPrivate": false,
+    "updatedAt": "2026-06-29T06:35:44Z",
+    "url": "https://github.com/valorisa/claude-code-best-practice",
+    "githubTopics": [],
+    "language": null,
+    "stars": 1
+  },
+  {
     "name": "Claude-Skill-Creator",
     "description": "A meta-skill for Claude Code (Anthropic CLI) that guides you through creating, testing, and iterating custom skills via structured conversation. Designed with LLM Council methodology: interview intent, generate draft, smoke-test immediately, refine until satisfied. A skill is just a markdown file — this tool embraces that simplicity.",
     "isFork": false,
@@ -848,7 +859,7 @@
     "description": "Outil Python de classification automatique de portfolios GitHub. Taxonomie pour catégoriser repos par domaines techniques (AI/ML, Cloud, DevOps, Frontend, Backend). Analyse descriptions, détecte keywords sur 25 domaines, produit JSON, TSV et rapports Markdown. Idéal pour les ingénieurs logiciel afin d'organiser l'écosystème GitHub à leur sauce.",
     "isFork": false,
     "isPrivate": false,
-    "updatedAt": "2026-06-28T06:15:07Z",
+    "updatedAt": "2026-06-29T06:43:48Z",
     "url": "https://github.com/valorisa/Github-Portfolio-Taxonomy",
     "githubTopics": [
       "cli-tool",
@@ -1213,6 +1224,38 @@
     "githubTopics": [],
     "language": "Shell",
     "stars": 0
+  },
+  {
+    "name": "JaiLIP-Educational",
+    "description": "JaiLIP: Educational repository on vision-language model jailbreaks via loss-guided image perturbation. Hands-on notebook for beginners in adversarial ML.",
+    "isFork": false,
+    "isPrivate": false,
+    "updatedAt": "2026-06-29T18:11:10Z",
+    "url": "https://github.com/valorisa/JaiLIP-Educational",
+    "githubTopics": [
+      "adversarial-attacks",
+      "ai-safety",
+      "blip2",
+      "colab",
+      "computer-vision",
+      "deep-learning",
+      "educational",
+      "gradient-optimization",
+      "jailbreak",
+      "machine-learning",
+      "ml-security",
+      "multimodal",
+      "nlp",
+      "notebook",
+      "pytorch",
+      "red-teaming",
+      "security",
+      "transformers",
+      "tutorial",
+      "vision-language-models"
+    ],
+    "language": "Jupyter Notebook",
+    "stars": 1
   },
   {
     "name": "JobFlow_Automator",

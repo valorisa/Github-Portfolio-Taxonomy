@@ -23,6 +23,7 @@ chatgpt_clone_by_bertie	ai,audio
 choco	windows
 CipherCore-FHE	ai,cryptography,devops
 Claude-Chat-Exporter-Tool	ai,cryptography,documentation,web
+claude-code-best-practice	ai
 Claude-Skill-Creator	ai,cryptography,developer-tools,devops,documentation
 Claude-Skills	ai,automation,github,productivity
 Claw-Code	ai
@@ -72,6 +73,7 @@ Homo2rpheOS	cryptography,devops,privacy,research
 https-github.com-danistefanovic-build-your-own-x	github
 i3-wsl-xephyr	documentation,linux,windows
 install_powershell_on_macos	developer-tools,macos,windows
+JaiLIP-Educational	ai,cryptography,documentation,education,github,python
 JobFlow_Automator	
 JSON-Website-Generator-v2.0	ai,automation,cryptography,data,web
 JSON_Web_Token_manager	cryptography,data,web

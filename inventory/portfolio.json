@@ -282,6 +282,16 @@
     "url": "https://github.com/valorisa/Claude-Chat-Exporter-Tool"
   },
   {
+    "name": "claude-code-best-practice",
+    "topics": [
+      "ai"
+    ],
+    "isFork": true,
+    "isPrivate": false,
+    "updatedAt": "2026-06-29T06:35:44Z",
+    "url": "https://github.com/valorisa/claude-code-best-practice"
+  },
+  {
     "name": "Claude-Skill-Creator",
     "topics": [
       "ai",
@@ -651,7 +661,7 @@
     ],
     "isFork": false,
     "isPrivate": false,
-    "updatedAt": "2026-06-28T06:15:07Z",
+    "updatedAt": "2026-06-29T06:43:48Z",
     "url": "https://github.com/valorisa/Github-Portfolio-Taxonomy"
   },
   {
@@ -880,6 +890,21 @@
     "isPrivate": false,
     "updatedAt": "2025-02-02T20:17:47Z",
     "url": "https://github.com/valorisa/install_powershell_on_macos"
+  },
+  {
+    "name": "JaiLIP-Educational",
+    "topics": [
+      "ai",
+      "cryptography",
+      "documentation",
+      "education",
+      "github",
+      "python"
+    ],
+    "isFork": false,
+    "isPrivate": false,
+    "updatedAt": "2026-06-29T18:11:10Z",
+    "url": "https://github.com/valorisa/JaiLIP-Educational"
   },
   {
     "name": "JobFlow_Automator",
