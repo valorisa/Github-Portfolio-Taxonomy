@@ -430,7 +430,7 @@
     "description": "Community skills for Claude Code: token optimization, productivity workflows, and development best practices. All skills tested with TDD methodology (RED-GREEN-REFACTOR). Features rescue-tokens skill: 90% verbosity reduction, eliminates rate limits through 9 optimization patterns.",
     "isFork": false,
     "isPrivate": false,
-    "updatedAt": "2026-06-22T10:21:14Z",
+    "updatedAt": "2026-07-01T09:44:15Z",
     "url": "https://github.com/valorisa/Claude-Skills",
     "githubTopics": [
       "agent-optimization",
@@ -859,7 +859,7 @@
     "description": "Outil Python de classification automatique de portfolios GitHub. Taxonomie pour catégoriser repos par domaines techniques (AI/ML, Cloud, DevOps, Frontend, Backend). Analyse descriptions, détecte keywords sur 25 domaines, produit JSON, TSV et rapports Markdown. Idéal pour les ingénieurs logiciel afin d'organiser l'écosystème GitHub à leur sauce.",
     "isFork": false,
     "isPrivate": false,
-    "updatedAt": "2026-06-30T06:08:46Z",
+    "updatedAt": "2026-07-01T06:23:51Z",
     "url": "https://github.com/valorisa/Github-Portfolio-Taxonomy",
     "githubTopics": [
       "cli-tool",
@@ -3057,7 +3057,7 @@
     "description": "A feature-rich command-line audio/video downloader",
     "isFork": true,
     "isPrivate": false,
-    "updatedAt": "2026-06-22T13:09:54Z",
+    "updatedAt": "2026-07-01T08:37:27Z",
     "url": "https://github.com/valorisa/yt-dlp",
     "githubTopics": [],
     "language": "Python",
