@@ -859,7 +859,7 @@
     "description": "Outil Python de classification automatique de portfolios GitHub. Taxonomie pour catégoriser repos par domaines techniques (AI/ML, Cloud, DevOps, Frontend, Backend). Analyse descriptions, détecte keywords sur 25 domaines, produit JSON, TSV et rapports Markdown. Idéal pour les ingénieurs logiciel afin d'organiser l'écosystème GitHub à leur sauce.",
     "isFork": false,
     "isPrivate": false,
-    "updatedAt": "2026-07-02T05:56:47Z",
+    "updatedAt": "2026-07-03T05:51:17Z",
     "url": "https://github.com/valorisa/Github-Portfolio-Taxonomy",
     "githubTopics": [
       "cli-tool",
@@ -2423,7 +2423,7 @@
     "description": "Production-grade prompt generator combining 5 Circles validation + 18 Hacks optimization + optional Council mode (5 advisors, peer review, chairman synthesis). Universal LLM support: ChatGPT, Claude, Gemini, Qwen, DeepSeek. Domain-aware validation with compliance checks. 11 professional examples included. Karpathy Council methodology. MIT license.",
     "isFork": false,
     "isPrivate": false,
-    "updatedAt": "2026-05-14T13:54:36Z",
+    "updatedAt": "2026-07-03T09:02:12Z",
     "url": "https://github.com/valorisa/Super-Prompt-LLM-Council-Generator",
     "githubTopics": [
       "ai",
