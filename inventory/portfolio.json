@@ -282,14 +282,14 @@
     "url": "https://github.com/valorisa/Claude-Chat-Exporter-Tool"
   },
   {
-    "name": "claude-code-best-practice",
+    "name": "Claude-Code-Best-Practice",
     "topics": [
       "ai"
     ],
     "isFork": true,
     "isPrivate": false,
-    "updatedAt": "2026-06-30T14:32:29Z",
-    "url": "https://github.com/valorisa/claude-code-best-practice"
+    "updatedAt": "2026-07-02T12:03:03Z",
+    "url": "https://github.com/valorisa/Claude-Code-Best-Practice"
   },
   {
     "name": "Claude-Skill-Creator",
@@ -661,7 +661,7 @@
     ],
     "isFork": false,
     "isPrivate": false,
-    "updatedAt": "2026-07-01T06:23:51Z",
+    "updatedAt": "2026-07-02T05:56:47Z",
     "url": "https://github.com/valorisa/Github-Portfolio-Taxonomy"
   },
   {
@@ -1168,6 +1168,19 @@
     "isPrivate": false,
     "updatedAt": "2026-02-21T21:10:37Z",
     "url": "https://github.com/valorisa/MPV-Station-Clean"
+  },
+  {
+    "name": "Multi-LLM-Debate-CLI",
+    "topics": [
+      "ai",
+      "developer-tools",
+      "devops",
+      "python"
+    ],
+    "isFork": false,
+    "isPrivate": false,
+    "updatedAt": "2026-07-02T17:27:44Z",
+    "url": "https://github.com/valorisa/Multi-LLM-Debate-CLI"
   },
   {
     "name": "MuseHub-PowerShell",
@@ -2170,7 +2183,7 @@
     ],
     "isFork": true,
     "isPrivate": false,
-    "updatedAt": "2026-07-01T08:37:27Z",
+    "updatedAt": "2026-07-02T06:09:46Z",
     "url": "https://github.com/valorisa/yt-dlp"
   },
   {

@@ -383,12 +383,12 @@
     "stars": 1
   },
   {
-    "name": "claude-code-best-practice",
+    "name": "Claude-Code-Best-Practice",
     "description": "from vibe coding to agentic engineering - practice makes claude perfect",
     "isFork": true,
     "isPrivate": false,
-    "updatedAt": "2026-06-30T14:32:29Z",
-    "url": "https://github.com/valorisa/claude-code-best-practice",
+    "updatedAt": "2026-07-02T12:03:03Z",
+    "url": "https://github.com/valorisa/Claude-Code-Best-Practice",
     "githubTopics": [],
     "language": "HTML",
     "stars": 1
@@ -859,7 +859,7 @@
     "description": "Outil Python de classification automatique de portfolios GitHub. Taxonomie pour catégoriser repos par domaines techniques (AI/ML, Cloud, DevOps, Frontend, Backend). Analyse descriptions, détecte keywords sur 25 domaines, produit JSON, TSV et rapports Markdown. Idéal pour les ingénieurs logiciel afin d'organiser l'écosystème GitHub à leur sauce.",
     "isFork": false,
     "isPrivate": false,
-    "updatedAt": "2026-07-01T06:23:51Z",
+    "updatedAt": "2026-07-02T05:56:47Z",
     "url": "https://github.com/valorisa/Github-Portfolio-Taxonomy",
     "githubTopics": [
       "cli-tool",
@@ -1601,6 +1601,17 @@
       "yt-dlp"
     ],
     "language": "PowerShell",
+    "stars": 1
+  },
+  {
+    "name": "Multi-LLM-Debate-CLI",
+    "description": "CLI Python qui fait débattre plusieurs LLM (GLM, DeepSeek, Qwen) via un protocole en 5 phases : cadrage silencieux, positions indépendantes, lecture croisée, révision, jugement final. Stress-teste un plan ou une architecture avant de s'engager.",
+    "isFork": false,
+    "isPrivate": false,
+    "updatedAt": "2026-07-02T17:27:44Z",
+    "url": "https://github.com/valorisa/Multi-LLM-Debate-CLI",
+    "githubTopics": [],
+    "language": "Python",
     "stars": 1
   },
   {
@@ -3057,7 +3068,7 @@
     "description": "A feature-rich command-line audio/video downloader",
     "isFork": true,
     "isPrivate": false,
-    "updatedAt": "2026-07-01T08:37:27Z",
+    "updatedAt": "2026-07-02T06:09:46Z",
     "url": "https://github.com/valorisa/yt-dlp",
     "githubTopics": [],
     "language": "Python",

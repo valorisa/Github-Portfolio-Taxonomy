@@ -23,7 +23,7 @@ chatgpt_clone_by_bertie	ai,audio
 choco	windows
 CipherCore-FHE	ai,cryptography,devops
 Claude-Chat-Exporter-Tool	ai,cryptography,documentation,web
-claude-code-best-practice	ai
+Claude-Code-Best-Practice	ai
 Claude-Skill-Creator	ai,cryptography,developer-tools,devops,documentation
 Claude-Skills	ai,automation,github,productivity
 Claw-Code	ai
@@ -99,6 +99,7 @@ MobaXterm-Keygen
 MobaXterm-Keygen-Alt	
 mpv	audio
 MPV-Station-Clean	audio,devops,windows
+Multi-LLM-Debate-CLI	ai,developer-tools,devops,python
 MuseHub-PowerShell	developer-tools,windows
 n8n-github-repo-creator	automation,github,productivity
 Nano-8.4-macOS-compile-libmagic	documentation,macos,productivity
