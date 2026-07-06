@@ -246,6 +246,37 @@
     "stars": 2
   },
   {
+    "name": "Azure-Linux-4.0-Starter",
+    "description": "Guide d'installation et de découverte d'Azure Linux 4.0 (public preview) pour débutants. Installation étape par étape, dépannage, glossaire. EN/FR.",
+    "isFork": false,
+    "isPrivate": false,
+    "updatedAt": "2026-07-06T15:12:01Z",
+    "url": "https://github.com/valorisa/Azure-Linux-4.0-Starter",
+    "githubTopics": [
+      "azure",
+      "azure-linux",
+      "beginner-guide",
+      "containers",
+      "devops",
+      "dnf5",
+      "fedora",
+      "hyper-v",
+      "kubernetes",
+      "linux-distribution",
+      "linux-server",
+      "linux-tutorial",
+      "microsoft",
+      "open-source",
+      "openssl",
+      "rpm",
+      "selinux",
+      "server-os",
+      "systemd"
+    ],
+    "language": null,
+    "stars": 1
+  },
+  {
     "name": "badssl.com",
     "description": ":lock: Memorable site for testing clients against bad SSL configs.",
     "isFork": true,
@@ -859,7 +890,7 @@
     "description": "Outil Python de classification automatique de portfolios GitHub. Taxonomie pour catégoriser repos par domaines techniques (AI/ML, Cloud, DevOps, Frontend, Backend). Analyse descriptions, détecte keywords sur 25 domaines, produit JSON, TSV et rapports Markdown. Idéal pour les ingénieurs logiciel afin d'organiser l'écosystème GitHub à leur sauce.",
     "isFork": false,
     "isPrivate": false,
-    "updatedAt": "2026-07-05T06:01:45Z",
+    "updatedAt": "2026-07-06T06:25:36Z",
     "url": "https://github.com/valorisa/Github-Portfolio-Taxonomy",
     "githubTopics": [
       "cli-tool",

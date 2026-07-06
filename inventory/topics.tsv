@@ -13,6 +13,7 @@ ArchLinux-Omarchy-WSL-Script	linux,windows
 ArcPass-MS02	developer-tools,homelab
 aria2	
 Audit-Bitwarden-Shai-Hulud	ai,developer-tools,github,security,windows
+Azure-Linux-4.0-Starter	ai,cloud,documentation,linux
 badssl.com	ai,developer-tools,security
 Base64-Chunk-Stream	ai,cryptography
 Base64-Credentials	cryptography,data,developer-tools,devops,python,security,virtualization
