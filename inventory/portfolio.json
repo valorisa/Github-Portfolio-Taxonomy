@@ -571,6 +571,17 @@
     "url": "https://github.com/valorisa/flask-gunicorn-sample-app"
   },
   {
+    "name": "Free-Claude-Code",
+    "topics": [
+      "ai",
+      "developer-tools"
+    ],
+    "isFork": true,
+    "isPrivate": false,
+    "updatedAt": "2026-07-07T07:13:48Z",
+    "url": "https://github.com/valorisa/Free-Claude-Code"
+  },
+  {
     "name": "Free-Claude-Code-Guide",
     "topics": [
       "ai",
@@ -674,7 +685,7 @@
     ],
     "isFork": false,
     "isPrivate": false,
-    "updatedAt": "2026-07-06T15:25:30Z",
+    "updatedAt": "2026-07-07T06:05:10Z",
     "url": "https://github.com/valorisa/Github-Portfolio-Taxonomy"
   },
   {
@@ -1002,7 +1013,7 @@
     ],
     "isFork": false,
     "isPrivate": false,
-    "updatedAt": "2026-06-23T22:03:36Z",
+    "updatedAt": "2026-07-07T15:23:57Z",
     "url": "https://github.com/valorisa/LeCert"
   },
   {

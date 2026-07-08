@@ -772,6 +772,17 @@
     "stars": 1
   },
   {
+    "name": "Free-Claude-Code",
+    "description": "Use claude code and codex for free in the terminal, VSCode extension, and discord like OpenClaw (voice supported)",
+    "isFork": true,
+    "isPrivate": false,
+    "updatedAt": "2026-07-07T07:13:48Z",
+    "url": "https://github.com/valorisa/Free-Claude-Code",
+    "githubTopics": [],
+    "language": null,
+    "stars": 1
+  },
+  {
     "name": "Free-Claude-Code-Guide",
     "description": "Guide complet d'installation et d'utilisation de Free Claude Code avec NVIDIA NIM sur Windows, macOS et Linux. Comprend l'intégration VSCode, le routage des modèles, la configuration détaillée et les subtilités techniques pour une utilisation optimale du proxy gratuit.",
     "isFork": false,
@@ -890,7 +901,7 @@
     "description": "Outil Python de classification automatique de portfolios GitHub. Taxonomie pour catégoriser repos par domaines techniques (AI/ML, Cloud, DevOps, Frontend, Backend). Analyse descriptions, détecte keywords sur 25 domaines, produit JSON, TSV et rapports Markdown. Idéal pour les ingénieurs logiciel afin d'organiser l'écosystème GitHub à leur sauce.",
     "isFork": false,
     "isPrivate": false,
-    "updatedAt": "2026-07-06T15:25:30Z",
+    "updatedAt": "2026-07-07T06:05:10Z",
     "url": "https://github.com/valorisa/Github-Portfolio-Taxonomy",
     "githubTopics": [
       "cli-tool",
@@ -1391,7 +1402,7 @@
     "description": "Cross-platform CLI that simplifies Let's Encrypt certificate management. Three interaction modes (novice, standard, expert) adapt to your skill level. Obtain, renew, and revoke TLS certificates without friction. Single binary, zero dependencies.",
     "isFork": false,
     "isPrivate": false,
-    "updatedAt": "2026-06-23T22:03:36Z",
+    "updatedAt": "2026-07-07T15:23:57Z",
     "url": "https://github.com/valorisa/LeCert",
     "githubTopics": [
       "acme",
@@ -2367,7 +2378,7 @@
     "url": "https://github.com/valorisa/socat-1.8.0.1_for_Windows",
     "githubTopics": [],
     "language": null,
-    "stars": 112
+    "stars": 110
   },
   {
     "name": "socat-1.8.1.1_for_Windows",
