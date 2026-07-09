@@ -150,6 +150,8 @@ socat-1.8.1.1_for_Windows	networking,windows
 socat-cygwin-automate	automation,networking,windows
 Spoon-Knife	
 ssh-hardening-suite	devops,security
+storm-research	research
+StormGrill	ai,cryptography,devops,research
 Super-Bidirectional-md-qd-Bridge	developer-tools,devops,documentation,github,productivity,python
 Super-Prompt-LLM-Council-Generator	ai,automation,cryptography,devops
 sxwm	
