@@ -130,6 +130,7 @@ pfSense_YouTube_Adblock	devops,homelab,networking,privacy,security
 Podcast_Pilot_Audio-Hijack	audio,developer-tools,devops,macos
 Polygone-Evacuation-A5	networking
 Prompt-Engineer-Toolkit	ai,automation,developer-tools,devops,github,python,virtualization,windows
+Prompt-Grill-Framework	ai,data,devops,documentation,python
 PSScriptAnalyzer	developer-tools,windows
 Putnam_B6_2011	ai,devops,mathematics
 pytubefix	audio,python
@@ -150,11 +151,12 @@ socat-1.8.1.1_for_Windows	networking,windows
 socat-cygwin-automate	automation,networking,windows
 Spoon-Knife	
 ssh-hardening-suite	devops,security
-storm-research	research
+Storm-Research	research
 StormGrill	ai,cryptography,devops,research
 Super-Bidirectional-md-qd-Bridge	developer-tools,devops,documentation,github,productivity,python
 Super-Prompt-LLM-Council-Generator	ai,automation,cryptography,devops
 sxwm	
+System_Prompts_Leaks	ai
 T2-Linux-Workbench-Laboratory	ai,devops,linux,windows
 Tabular-Benchmark-MLOps	ai,devops,python,research
 Test-and-Fix-MegaLinter-Tool	automation,documentation,python
