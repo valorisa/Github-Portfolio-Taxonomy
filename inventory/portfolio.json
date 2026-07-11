@@ -685,7 +685,7 @@
     ],
     "isFork": false,
     "isPrivate": false,
-    "updatedAt": "2026-07-09T06:12:07Z",
+    "updatedAt": "2026-07-10T06:01:06Z",
     "url": "https://github.com/valorisa/Github-Portfolio-Taxonomy"
   },
   {
@@ -1029,6 +1029,18 @@
     "isPrivate": false,
     "updatedAt": "2026-04-18T18:30:27Z",
     "url": "https://github.com/valorisa/llm-council-skill"
+  },
+  {
+    "name": "Loop-Advisor",
+    "topics": [
+      "developer-tools",
+      "github",
+      "python"
+    ],
+    "isFork": false,
+    "isPrivate": false,
+    "updatedAt": "2026-07-10T21:32:13Z",
+    "url": "https://github.com/valorisa/Loop-Advisor"
   },
   {
     "name": "macOS-Nano-Compile",
