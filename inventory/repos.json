@@ -863,6 +863,22 @@
     "stars": 1
   },
   {
+    "name": "Git-vs-Github-Investigation-Guide",
+    "description": "Guide pédagogique pour comprendre pourquoi Git local et GitHub peuvent afficher des activités différentes",
+    "isFork": false,
+    "isPrivate": false,
+    "updatedAt": "2026-07-11T18:57:30Z",
+    "url": "https://github.com/valorisa/Git-vs-Github-Investigation-Guide",
+    "githubTopics": [
+      "beginner-friendly",
+      "git",
+      "github",
+      "tutorial"
+    ],
+    "language": null,
+    "stars": 1
+  },
+  {
     "name": "GitHub-Branch-Installation-Guide",
     "description": "Workflow for building software from specific GitHub branches. NotepadNext l10n_master example, CMake/Qt setup, macOS Apple Silicon.",
     "isFork": false,
@@ -901,7 +917,7 @@
     "description": "Outil Python de classification automatique de portfolios GitHub. Taxonomie pour catégoriser repos par domaines techniques (AI/ML, Cloud, DevOps, Frontend, Backend). Analyse descriptions, détecte keywords sur 25 domaines, produit JSON, TSV et rapports Markdown. Idéal pour les ingénieurs logiciel afin d'organiser l'écosystème GitHub à leur sauce.",
     "isFork": false,
     "isPrivate": false,
-    "updatedAt": "2026-07-10T06:01:06Z",
+    "updatedAt": "2026-07-11T05:11:00Z",
     "url": "https://github.com/valorisa/Github-Portfolio-Taxonomy",
     "githubTopics": [
       "cli-tool",
@@ -2362,7 +2378,7 @@
     "description": "Network-traversing web terminal in Go. Works anywhere a browser can reach port 443 — airports, corporate networks, anywhere. Spiritual successor to ShellInBox (port 4200). WebSocket + xterm.js, SSH client, multi-sessions, file transfer, session recording. Single binary, Docker ready.",
     "isFork": false,
     "isPrivate": false,
-    "updatedAt": "2026-07-09T14:55:50Z",
+    "updatedAt": "2026-07-11T06:18:38Z",
     "url": "https://github.com/valorisa/ShellFromBrowser",
     "githubTopics": [
       "browser",
