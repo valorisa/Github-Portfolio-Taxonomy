@@ -55,6 +55,7 @@ Gemini-CLI-macOS	ai,automation,developer-tools,github,macos,productivity,web
 ghostty	developer-tools
 git-mastery	devops,github
 Git-vs-Github-Investigation-Guide	documentation,github
+GitHub-Actions-Audit	automation,developer-tools,devops,github,productivity,python
 GitHub-Branch-Installation-Guide	automation,devops,documentation,github,macos,productivity
 GitHub-Docker-for-Win-WSL2-Data-Extractor	ai,devops,github,linux,virtualization,windows
 Github-Portfolio-Taxonomy	ai,cloud,data,devops,documentation,github,python
@@ -80,6 +81,7 @@ JaiLIP-Educational	ai,cryptography,documentation,education,github,python
 JobFlow_Automator	
 JSON-Website-Generator-v2.0	ai,automation,cryptography,data,web
 JSON_Web_Token_manager	cryptography,data,web
+Kindle-JIT-Threat-Model	
 KMS_VL_ALL_AIO	ai
 KMS_VL_ALL_AIO_	ai
 kotaemon	
