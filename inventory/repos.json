@@ -948,7 +948,7 @@
     "description": "Outil Python de classification automatique de portfolios GitHub. Taxonomie pour catégoriser repos par domaines techniques (AI/ML, Cloud, DevOps, Frontend, Backend). Analyse descriptions, détecte keywords sur 25 domaines, produit JSON, TSV et rapports Markdown. Idéal pour les ingénieurs logiciel afin d'organiser l'écosystème GitHub à leur sauce.",
     "isFork": false,
     "isPrivate": false,
-    "updatedAt": "2026-07-12T12:13:21Z",
+    "updatedAt": "2026-07-13T05:34:26Z",
     "url": "https://github.com/valorisa/Github-Portfolio-Taxonomy",
     "githubTopics": [
       "cli-tool",
@@ -1402,12 +1402,18 @@
   },
   {
     "name": "Kindle-JIT-Threat-Model",
-    "description": "",
+    "description": "Documentation défensive et outils de détection autour d'une chaîne d'exploitation Kindle divulguée publiquement (Synacktiv, leHACK 2026) — threat model, remédiation, scripts de détection passive. Aucun PoC ni code d'exploitation.",
     "isFork": false,
     "isPrivate": false,
-    "updatedAt": "2026-07-12T21:33:10Z",
+    "updatedAt": "2026-07-13T13:49:26Z",
     "url": "https://github.com/valorisa/Kindle-JIT-Threat-Model",
-    "githubTopics": [],
+    "githubTopics": [
+      "blue-team",
+      "kindle",
+      "security",
+      "threat-modeling",
+      "vulnerability-research"
+    ],
     "language": "Python",
     "stars": 1
   },
@@ -2500,7 +2506,7 @@
     "url": "https://github.com/valorisa/socat-1.8.0.1_for_Windows",
     "githubTopics": [],
     "language": null,
-    "stars": 110
+    "stars": 111
   },
   {
     "name": "socat-1.8.1.1_for_Windows",

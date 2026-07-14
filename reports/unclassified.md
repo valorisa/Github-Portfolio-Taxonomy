@@ -3,7 +3,6 @@
 - 2fas-browser-extension
 - Function-Growth-Hierarchy
 - JobFlow_Automator
-- Kindle-JIT-Threat-Model
 - MobaXterm-Keygen
 - MobaXterm-Keygen-Alt
 - Peter_tests_Proof_of_Concept
