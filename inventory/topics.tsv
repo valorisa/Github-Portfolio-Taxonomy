@@ -50,6 +50,7 @@ FFmpeg-Loudnorm-PS	audio,developer-tools,windows
 flask-gunicorn-sample-app	python,web
 Free-Claude-Code	ai,developer-tools
 Free-Claude-Code-Guide	ai,developer-tools,documentation,linux,macos,networking,windows
+FreeLLMAPI	ai,networking,research
 Function-Growth-Hierarchy	
 Gemini-CLI-macOS	ai,automation,developer-tools,github,macos,productivity,web
 ghostty	developer-tools
@@ -159,6 +160,7 @@ Storm-Research	research
 StormGrill	ai,cryptography,devops,research
 Super-Bidirectional-md-qd-Bridge	developer-tools,devops,documentation,github,productivity,python
 Super-Prompt-LLM-Council-Generator	ai,automation,cryptography,devops
+SwiftUIToolLab	macos
 sxwm	
 System_Prompts_Leaks	ai
 T2-Linux-Workbench-Laboratory	ai,devops,linux,windows
