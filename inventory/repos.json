@@ -461,7 +461,7 @@
     "description": "Community skills for Claude Code: token optimization, productivity workflows, and development best practices. All skills tested with TDD methodology (RED-GREEN-REFACTOR). Features rescue-tokens skill: 90% verbosity reduction, eliminates rate limits through 9 optimization patterns.",
     "isFork": false,
     "isPrivate": false,
-    "updatedAt": "2026-07-16T15:52:21Z",
+    "updatedAt": "2026-07-17T14:06:28Z",
     "url": "https://github.com/valorisa/Claude-Skills",
     "githubTopics": [
       "agent-optimization",
@@ -894,7 +894,7 @@
     "description": "Python CLI to audit and update GitHub Actions workflow versions — actions and runtime pins (Go, Node), flagging floating refs (@master, @latest) and versions outside GitHub Releases. Local and remote (API) multi-repo scanning, YAML-safe rewriting, diff generation, and PR automation on the roadmap.",
     "isFork": false,
     "isPrivate": false,
-    "updatedAt": "2026-07-16T21:31:38Z",
+    "updatedAt": "2026-07-17T22:04:30Z",
     "url": "https://github.com/valorisa/GitHub-Actions-Audit",
     "githubTopics": [
       "audit",
@@ -959,7 +959,7 @@
     "description": "Outil Python de classification automatique de portfolios GitHub. Taxonomie pour catégoriser repos par domaines techniques (AI/ML, Cloud, DevOps, Frontend, Backend). Analyse descriptions, détecte keywords sur 25 domaines, produit JSON, TSV et rapports Markdown. Idéal pour les ingénieurs logiciel afin d'organiser l'écosystème GitHub à leur sauce.",
     "isFork": false,
     "isPrivate": false,
-    "updatedAt": "2026-07-16T04:57:45Z",
+    "updatedAt": "2026-07-17T05:11:12Z",
     "url": "https://github.com/valorisa/Github-Portfolio-Taxonomy",
     "githubTopics": [
       "cli-tool",
@@ -1023,7 +1023,7 @@
     "description": "CLI tool open-source automatisant intégralement la création de dépôts GitHub conformes aux Community Standards (100%) pour tout type de projet (library, webapp, cli, github-action, docs, monorepo) et stack (Python, Node, Go, Java, Rust). Élimine des heures de config manuelle.",
     "isFork": false,
     "isPrivate": false,
-    "updatedAt": "2026-07-03T14:32:03Z",
+    "updatedAt": "2026-07-17T12:59:28Z",
     "url": "https://github.com/valorisa/Github-Universal-Scaffolding-Generator-Advanced",
     "githubTopics": [
       "automation",
@@ -2319,7 +2319,7 @@
     "description": "Modular QuickShell configuration for Hyprland — Bar, OSD, Notifications, ControlCenter | Configuration QuickShell modulaire pour Hyprland",
     "isFork": false,
     "isPrivate": false,
-    "updatedAt": "2026-06-22T10:39:57Z",
+    "updatedAt": "2026-07-17T17:11:22Z",
     "url": "https://github.com/valorisa/Quickshell-Hyprland",
     "githubTopics": [
       "desktop-environment",
@@ -2679,7 +2679,7 @@
     "description": "Application macOS native en SwiftUI pour transformations de données réversibles : encodage, chiffrement, import/export de fichiers — 100% locale, sans réseau.",
     "isFork": false,
     "isPrivate": false,
-    "updatedAt": "2026-07-16T08:07:10Z",
+    "updatedAt": "2026-07-17T06:31:53Z",
     "url": "https://github.com/valorisa/SwiftUIToolLab",
     "githubTopics": [
       "base64",
