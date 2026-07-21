@@ -69,7 +69,7 @@
     "description": "Enterprise-grade meta-prompts for GitHub project generation. RepoArchitect Pro v2.0 with Phase 0 stack analysis, zero-placeholder guarantee, bilingual docs (EN/FR). Supports PowerShell, Node.js, Python, Nix, Bash. Generates 15+ files with CI/CD, templates, and comprehensive documentation.",
     "isFork": false,
     "isPrivate": false,
-    "updatedAt": "2026-06-22T12:26:40Z",
+    "updatedAt": "2026-07-20T09:18:51Z",
     "url": "https://github.com/valorisa/Advanced-Prompts-Factory",
     "githubTopics": [
       "bash",
@@ -129,6 +129,17 @@
     "stars": 1
   },
   {
+    "name": "AI-Driven-Dev-Framework",
+    "description": "Marketplace Framework AI-Driven Dev : Context Engineering, Plugins, Agents, Skills, Hooks, Templates, SDLC",
+    "isFork": true,
+    "isPrivate": false,
+    "updatedAt": "2026-07-20T08:47:51Z",
+    "url": "https://github.com/valorisa/AI-Driven-Dev-Framework",
+    "githubTopics": [],
+    "language": null,
+    "stars": 0
+  },
+  {
     "name": "alass",
     "description": "\"Automatic Language-Agnostic Subtitle Synchronization\"",
     "isFork": true,
@@ -137,7 +148,7 @@
     "url": "https://github.com/valorisa/alass",
     "githubTopics": [],
     "language": null,
-    "stars": 0
+    "stars": 1
   },
   {
     "name": "alpine-linux-on-termux",
@@ -461,7 +472,7 @@
     "description": "Community skills for Claude Code: token optimization, productivity workflows, and development best practices. All skills tested with TDD methodology (RED-GREEN-REFACTOR). Features rescue-tokens skill: 90% verbosity reduction, eliminates rate limits through 9 optimization patterns.",
     "isFork": false,
     "isPrivate": false,
-    "updatedAt": "2026-07-17T14:06:28Z",
+    "updatedAt": "2026-07-20T21:24:15Z",
     "url": "https://github.com/valorisa/Claude-Skills",
     "githubTopics": [
       "agent-optimization",
@@ -812,7 +823,7 @@
       "windows"
     ],
     "language": "Dockerfile",
-    "stars": 1
+    "stars": 2
   },
   {
     "name": "FreeLLMAPI",
@@ -959,7 +970,7 @@
     "description": "Outil Python de classification automatique de portfolios GitHub. Taxonomie pour catégoriser repos par domaines techniques (AI/ML, Cloud, DevOps, Frontend, Backend). Analyse descriptions, détecte keywords sur 25 domaines, produit JSON, TSV et rapports Markdown. Idéal pour les ingénieurs logiciel afin d'organiser l'écosystème GitHub à leur sauce.",
     "isFork": false,
     "isPrivate": false,
-    "updatedAt": "2026-07-19T05:19:16Z",
+    "updatedAt": "2026-07-20T05:37:12Z",
     "url": "https://github.com/valorisa/Github-Portfolio-Taxonomy",
     "githubTopics": [
       "cli-tool",
@@ -1448,7 +1459,7 @@
     "url": "https://github.com/valorisa/KMS_VL_ALL_AIO_",
     "githubTopics": [],
     "language": null,
-    "stars": 0
+    "stars": 1
   },
   {
     "name": "kotaemon",
@@ -1502,6 +1513,38 @@
       "windows"
     ],
     "language": "Go",
+    "stars": 1
+  },
+  {
+    "name": "LLM-Cost-Safety-Guide",
+    "description": "Guide pédagogique pour comprendre, prévenir et maîtriser la dérive des coûts des LLM : tokens, budgets, contexte, agents et garde-fous.",
+    "isFork": false,
+    "isPrivate": false,
+    "updatedAt": "2026-07-20T18:31:03Z",
+    "url": "https://github.com/valorisa/LLM-Cost-Safety-Guide",
+    "githubTopics": [
+      "agents",
+      "ai-costs",
+      "ai-safety",
+      "bedrock",
+      "budget",
+      "claude",
+      "context-engineering",
+      "cost-control",
+      "devops",
+      "documentation",
+      "education",
+      "finops",
+      "github-actions",
+      "llm",
+      "llm-agents",
+      "markdownlint",
+      "openai",
+      "prompt-engineering",
+      "token-cost",
+      "tokens"
+    ],
+    "language": null,
     "stars": 1
   },
   {
@@ -2517,7 +2560,7 @@
     "url": "https://github.com/valorisa/socat-1.8.0.1_for_Windows",
     "githubTopics": [],
     "language": null,
-    "stars": 111
+    "stars": 112
   },
   {
     "name": "socat-1.8.1.1_for_Windows",
@@ -2679,7 +2722,7 @@
     "description": "Application macOS native en SwiftUI pour transformations de données réversibles : encodage, chiffrement, import/export de fichiers — 100% locale, sans réseau.",
     "isFork": false,
     "isPrivate": false,
-    "updatedAt": "2026-07-19T13:37:04Z",
+    "updatedAt": "2026-07-20T12:24:26Z",
     "url": "https://github.com/valorisa/SwiftUIToolLab",
     "githubTopics": [
       "base64",
@@ -2860,7 +2903,7 @@
     "url": "https://github.com/valorisa/tmux",
     "githubTopics": [],
     "language": null,
-    "stars": 0
+    "stars": 1
   },
   {
     "name": "transfer.sh",

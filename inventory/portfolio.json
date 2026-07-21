@@ -48,7 +48,7 @@
     ],
     "isFork": false,
     "isPrivate": false,
-    "updatedAt": "2026-06-22T12:26:40Z",
+    "updatedAt": "2026-07-20T09:18:51Z",
     "url": "https://github.com/valorisa/Advanced-Prompts-Factory"
   },
   {
@@ -62,6 +62,16 @@
     "isPrivate": false,
     "updatedAt": "2026-05-11T17:10:45Z",
     "url": "https://github.com/valorisa/Aerofoil-Propeller-Calculator"
+  },
+  {
+    "name": "AI-Driven-Dev-Framework",
+    "topics": [
+      "ai"
+    ],
+    "isFork": true,
+    "isPrivate": false,
+    "updatedAt": "2026-07-20T08:47:51Z",
+    "url": "https://github.com/valorisa/AI-Driven-Dev-Framework"
   },
   {
     "name": "alass",
@@ -328,7 +338,7 @@
     ],
     "isFork": false,
     "isPrivate": false,
-    "updatedAt": "2026-07-17T14:06:28Z",
+    "updatedAt": "2026-07-20T21:24:15Z",
     "url": "https://github.com/valorisa/Claude-Skills"
   },
   {
@@ -723,7 +733,7 @@
     ],
     "isFork": false,
     "isPrivate": false,
-    "updatedAt": "2026-07-19T05:19:16Z",
+    "updatedAt": "2026-07-20T05:37:12Z",
     "url": "https://github.com/valorisa/Github-Portfolio-Taxonomy"
   },
   {
@@ -1064,6 +1074,17 @@
     "isPrivate": false,
     "updatedAt": "2026-07-07T15:23:57Z",
     "url": "https://github.com/valorisa/LeCert"
+  },
+  {
+    "name": "LLM-Cost-Safety-Guide",
+    "topics": [
+      "ai",
+      "documentation"
+    ],
+    "isFork": false,
+    "isPrivate": false,
+    "updatedAt": "2026-07-20T18:31:03Z",
+    "url": "https://github.com/valorisa/LLM-Cost-Safety-Guide"
   },
   {
     "name": "llm-council-skill",
@@ -1893,7 +1914,7 @@
     ],
     "isFork": false,
     "isPrivate": false,
-    "updatedAt": "2026-07-19T13:37:04Z",
+    "updatedAt": "2026-07-20T12:24:26Z",
     "url": "https://github.com/valorisa/SwiftUIToolLab"
   },
   {
