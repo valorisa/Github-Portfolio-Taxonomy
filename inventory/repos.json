@@ -970,7 +970,7 @@
     "description": "Outil Python de classification automatique de portfolios GitHub. Taxonomie pour catégoriser repos par domaines techniques (AI/ML, Cloud, DevOps, Frontend, Backend). Analyse descriptions, détecte keywords sur 25 domaines, produit JSON, TSV et rapports Markdown. Idéal pour les ingénieurs logiciel afin d'organiser l'écosystème GitHub à leur sauce.",
     "isFork": false,
     "isPrivate": false,
-    "updatedAt": "2026-07-21T05:18:12Z",
+    "updatedAt": "2026-07-22T05:17:05Z",
     "url": "https://github.com/valorisa/Github-Portfolio-Taxonomy",
     "githubTopics": [
       "cli-tool",
@@ -2099,7 +2099,7 @@
     "description": "Générateur de mots de passe sécurisés en ligne de commande avec contraintes cryptographiques strictes : minimum 9 chiffres, 9 caractères speciaux, 1 minuscule, 1 majuscule. Utilise le module Python secrets (CSPRNG) pour une génération cryptographiquement sure. Menu interactif, génération unitaire ou par lot (1-50), composition détaillée affichée.",
     "isFork": false,
     "isPrivate": false,
-    "updatedAt": "2026-06-24T11:07:23Z",
+    "updatedAt": "2026-07-22T13:53:51Z",
     "url": "https://github.com/valorisa/Password-Generator-Advanced",
     "githubTopics": [
       "batch-generation",
@@ -2722,7 +2722,7 @@
     "description": "Application macOS native en SwiftUI pour transformations de données réversibles : encodage, chiffrement, import/export de fichiers — 100% locale, sans réseau.",
     "isFork": false,
     "isPrivate": false,
-    "updatedAt": "2026-07-21T19:18:38Z",
+    "updatedAt": "2026-07-22T21:45:42Z",
     "url": "https://github.com/valorisa/SwiftUIToolLab",
     "githubTopics": [
       "base64",
