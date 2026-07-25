@@ -173,15 +173,15 @@
     "stars": 1
   },
   {
-    "name": "andrej-karpathy-skills",
+    "name": "Andrej-Karpathy-Skills",
     "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
     "isFork": true,
     "isPrivate": false,
     "updatedAt": "2026-04-20T10:05:04Z",
-    "url": "https://github.com/valorisa/andrej-karpathy-skills",
+    "url": "https://github.com/valorisa/Andrej-Karpathy-Skills",
     "githubTopics": [],
     "language": null,
-    "stars": 0
+    "stars": 1
   },
   {
     "name": "Anthropic-Cybersecurity-Skills",
@@ -970,7 +970,7 @@
     "description": "Outil Python de classification automatique de portfolios GitHub. Taxonomie pour catégoriser repos par domaines techniques (AI/ML, Cloud, DevOps, Frontend, Backend). Analyse descriptions, détecte keywords sur 25 domaines, produit JSON, TSV et rapports Markdown. Idéal pour les ingénieurs logiciel afin d'organiser l'écosystème GitHub à leur sauce.",
     "isFork": false,
     "isPrivate": false,
-    "updatedAt": "2026-07-23T05:22:03Z",
+    "updatedAt": "2026-07-24T05:17:54Z",
     "url": "https://github.com/valorisa/Github-Portfolio-Taxonomy",
     "githubTopics": [
       "cli-tool",
@@ -1034,7 +1034,7 @@
     "description": "CLI tool open-source automatisant intégralement la création de dépôts GitHub conformes aux Community Standards (100%) pour tout type de projet (library, webapp, cli, github-action, docs, monorepo) et stack (Python, Node, Go, Java, Rust). Élimine des heures de config manuelle.",
     "isFork": false,
     "isPrivate": false,
-    "updatedAt": "2026-07-17T12:59:28Z",
+    "updatedAt": "2026-07-24T12:32:14Z",
     "url": "https://github.com/valorisa/Github-Universal-Scaffolding-Generator-Advanced",
     "githubTopics": [
       "automation",
@@ -1548,12 +1548,12 @@
     "stars": 1
   },
   {
-    "name": "llm-council-skill",
+    "name": "LLM-Council-Skill",
     "description": "Claude Code skill implementing Andrej Karpathy's LLM Council methodology. Runs any decision through 5 independent AI advisors (Contrarian, First     Principles, Expansionist, Outsider, Executor), anonymous peer review, and chairman synthesis. Outputs HTML report + full markdown transcript.",
     "isFork": true,
     "isPrivate": false,
     "updatedAt": "2026-04-18T18:30:27Z",
-    "url": "https://github.com/valorisa/llm-council-skill",
+    "url": "https://github.com/valorisa/LLM-Council-Skill",
     "githubTopics": [
       "ai-agents",
       "ai-synthesis",
@@ -2722,7 +2722,7 @@
     "description": "Application macOS native en SwiftUI pour transformations de données réversibles : encodage, chiffrement, import/export de fichiers — 100% locale, sans réseau.",
     "isFork": false,
     "isPrivate": false,
-    "updatedAt": "2026-07-24T04:21:09Z",
+    "updatedAt": "2026-07-24T20:57:56Z",
     "url": "https://github.com/valorisa/SwiftUIToolLab",
     "githubTopics": [
       "base64",
@@ -2769,7 +2769,7 @@
     "url": "https://github.com/valorisa/System_Prompts_Leaks",
     "githubTopics": [],
     "language": null,
-    "stars": 0
+    "stars": 1
   },
   {
     "name": "T2-Linux-Workbench-Laboratory",

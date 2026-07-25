@@ -107,14 +107,14 @@
     "url": "https://github.com/valorisa/alpine_bw_cli_gen_passwd"
   },
   {
-    "name": "andrej-karpathy-skills",
+    "name": "Andrej-Karpathy-Skills",
     "topics": [
       "ai"
     ],
     "isFork": true,
     "isPrivate": false,
     "updatedAt": "2026-04-20T10:05:04Z",
-    "url": "https://github.com/valorisa/andrej-karpathy-skills"
+    "url": "https://github.com/valorisa/Andrej-Karpathy-Skills"
   },
   {
     "name": "Anthropic-Cybersecurity-Skills",
@@ -733,7 +733,7 @@
     ],
     "isFork": false,
     "isPrivate": false,
-    "updatedAt": "2026-07-23T05:22:03Z",
+    "updatedAt": "2026-07-24T05:17:54Z",
     "url": "https://github.com/valorisa/Github-Portfolio-Taxonomy"
   },
   {
@@ -762,7 +762,7 @@
     ],
     "isFork": false,
     "isPrivate": false,
-    "updatedAt": "2026-07-17T12:59:28Z",
+    "updatedAt": "2026-07-24T12:32:14Z",
     "url": "https://github.com/valorisa/Github-Universal-Scaffolding-Generator-Advanced"
   },
   {
@@ -1087,7 +1087,7 @@
     "url": "https://github.com/valorisa/LLM-Cost-Safety-Guide"
   },
   {
-    "name": "llm-council-skill",
+    "name": "LLM-Council-Skill",
     "topics": [
       "ai",
       "devops",
@@ -1098,7 +1098,7 @@
     "isFork": true,
     "isPrivate": false,
     "updatedAt": "2026-04-18T18:30:27Z",
-    "url": "https://github.com/valorisa/llm-council-skill"
+    "url": "https://github.com/valorisa/LLM-Council-Skill"
   },
   {
     "name": "Loop-Advisor",
@@ -1914,7 +1914,7 @@
     ],
     "isFork": false,
     "isPrivate": false,
-    "updatedAt": "2026-07-24T04:21:09Z",
+    "updatedAt": "2026-07-24T20:57:56Z",
     "url": "https://github.com/valorisa/SwiftUIToolLab"
   },
   {
