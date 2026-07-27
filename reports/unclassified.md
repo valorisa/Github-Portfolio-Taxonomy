@@ -9,6 +9,8 @@
 - Spoon-Knife
 - alass
 - aria2
+- b64
+- bitchat
 - kotaemon
 - nanorc
 - nbfc

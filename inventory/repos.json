@@ -288,6 +288,17 @@
     "stars": 1
   },
   {
+    "name": "b64",
+    "description": "",
+    "isFork": false,
+    "isPrivate": false,
+    "updatedAt": "2026-07-26T19:00:35Z",
+    "url": "https://github.com/valorisa/b64",
+    "githubTopics": [],
+    "language": "Python",
+    "stars": 1
+  },
+  {
     "name": "badssl.com",
     "description": ":lock: Memorable site for testing clients against bad SSL configs.",
     "isFork": true,
@@ -354,6 +365,17 @@
     "isPrivate": false,
     "updatedAt": "2025-04-21T23:30:42Z",
     "url": "https://github.com/valorisa/bbrod-s-VSCode-Retro-Themes",
+    "githubTopics": [],
+    "language": null,
+    "stars": 1
+  },
+  {
+    "name": "bitchat",
+    "description": "bluetooth mesh chat, IRC vibes",
+    "isFork": true,
+    "isPrivate": false,
+    "updatedAt": "2026-07-26T09:31:07Z",
+    "url": "https://github.com/valorisa/bitchat",
     "githubTopics": [],
     "language": null,
     "stars": 1
@@ -970,7 +992,7 @@
     "description": "Outil Python de classification automatique de portfolios GitHub. Taxonomie pour catégoriser repos par domaines techniques (AI/ML, Cloud, DevOps, Frontend, Backend). Analyse descriptions, détecte keywords sur 25 domaines, produit JSON, TSV et rapports Markdown. Idéal pour les ingénieurs logiciel afin d'organiser l'écosystème GitHub à leur sauce.",
     "isFork": false,
     "isPrivate": false,
-    "updatedAt": "2026-07-25T05:12:29Z",
+    "updatedAt": "2026-07-26T05:29:23Z",
     "url": "https://github.com/valorisa/Github-Portfolio-Taxonomy",
     "githubTopics": [
       "cli-tool",
@@ -2722,7 +2744,7 @@
     "description": "Application macOS native en SwiftUI pour transformations de données réversibles : encodage, chiffrement, import/export de fichiers — 100% locale, sans réseau.",
     "isFork": false,
     "isPrivate": false,
-    "updatedAt": "2026-07-25T19:35:19Z",
+    "updatedAt": "2026-07-27T05:41:29Z",
     "url": "https://github.com/valorisa/SwiftUIToolLab",
     "githubTopics": [
       "base64",
@@ -2747,7 +2769,7 @@
       "unit-testing"
     ],
     "language": "Swift",
-    "stars": 1
+    "stars": 2
   },
   {
     "name": "sxwm",

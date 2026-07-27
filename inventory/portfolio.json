@@ -187,6 +187,14 @@
     "url": "https://github.com/valorisa/Azure-Linux-4.0-Starter"
   },
   {
+    "name": "b64",
+    "topics": [],
+    "isFork": false,
+    "isPrivate": false,
+    "updatedAt": "2026-07-26T19:00:35Z",
+    "url": "https://github.com/valorisa/b64"
+  },
+  {
     "name": "badssl.com",
     "topics": [
       "ai",
@@ -235,6 +243,14 @@
     "isPrivate": false,
     "updatedAt": "2025-04-21T23:30:42Z",
     "url": "https://github.com/valorisa/bbrod-s-VSCode-Retro-Themes"
+  },
+  {
+    "name": "bitchat",
+    "topics": [],
+    "isFork": true,
+    "isPrivate": false,
+    "updatedAt": "2026-07-26T09:31:07Z",
+    "url": "https://github.com/valorisa/bitchat"
   },
   {
     "name": "brew",
@@ -733,7 +749,7 @@
     ],
     "isFork": false,
     "isPrivate": false,
-    "updatedAt": "2026-07-25T05:12:29Z",
+    "updatedAt": "2026-07-26T05:29:23Z",
     "url": "https://github.com/valorisa/Github-Portfolio-Taxonomy"
   },
   {
@@ -1914,7 +1930,7 @@
     ],
     "isFork": false,
     "isPrivate": false,
-    "updatedAt": "2026-07-25T19:35:19Z",
+    "updatedAt": "2026-07-27T05:41:29Z",
     "url": "https://github.com/valorisa/SwiftUIToolLab"
   },
   {
