@@ -234,6 +234,19 @@
     "url": "https://github.com/valorisa/Base64-Credentials"
   },
   {
+    "name": "Base64-Interactive-Tool",
+    "topics": [
+      "ai",
+      "cryptography",
+      "github",
+      "python"
+    ],
+    "isFork": false,
+    "isPrivate": false,
+    "updatedAt": "2026-08-02T13:01:22Z",
+    "url": "https://github.com/valorisa/Base64-Interactive-Tool"
+  },
+  {
     "name": "bbrod-s-VSCode-Retro-Themes",
     "topics": [
       "ai",
@@ -749,7 +762,7 @@
     ],
     "isFork": false,
     "isPrivate": false,
-    "updatedAt": "2026-08-01T05:24:23Z",
+    "updatedAt": "2026-08-02T05:24:10Z",
     "url": "https://github.com/valorisa/Github-Portfolio-Taxonomy"
   },
   {
@@ -2215,7 +2228,7 @@
     ],
     "isFork": false,
     "isPrivate": false,
-    "updatedAt": "2026-03-11T15:36:06Z",
+    "updatedAt": "2026-08-02T23:13:46Z",
     "url": "https://github.com/valorisa/vt-scanner-cli"
   },
   {

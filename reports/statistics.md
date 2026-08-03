@@ -1,32 +1,32 @@
 # Statistics
 
-- Total repositories: 207
+- Total repositories: 208
 - Forks: 73
 - Private: 0
-- Classified: 187
+- Classified: 188
 - Unclassified: 20
-- Coverage: 90.34%
+- Coverage: 90.38%
 
 ## Domain Distribution
 
 | Domain | Repositories | Coverage |
 |---|---|---|
-| ai | 66 | 35.3% |
-| devops | 57 | 30.5% |
-| developer-tools | 53 | 28.3% |
-| windows | 38 | 20.3% |
-| documentation | 37 | 19.8% |
-| python | 31 | 16.6% |
-| github | 28 | 15.0% |
+| ai | 67 | 35.6% |
+| devops | 57 | 30.3% |
+| developer-tools | 53 | 28.2% |
+| windows | 38 | 20.2% |
+| documentation | 37 | 19.7% |
+| python | 32 | 17.0% |
+| github | 29 | 15.4% |
 | linux | 24 | 12.8% |
 | macos | 24 | 12.8% |
-| security | 23 | 12.3% |
+| security | 23 | 12.2% |
 | networking | 21 | 11.2% |
-| virtualization | 19 | 10.2% |
+| virtualization | 19 | 10.1% |
 | automation | 18 | 9.6% |
-| cryptography | 16 | 8.6% |
+| cryptography | 17 | 9.0% |
 | web | 15 | 8.0% |
-| research | 13 | 7.0% |
+| research | 13 | 6.9% |
 | audio | 11 | 5.9% |
 | productivity | 9 | 4.8% |
 | android | 7 | 3.7% |
@@ -37,4 +37,4 @@
 | cloud | 3 | 1.6% |
 | education | 3 | 1.6% |
 | monitoring | 3 | 1.6% |
-| **Total classified** | **187** | **100%** |
+| **Total classified** | **188** | **100%** |

@@ -19,6 +19,7 @@ b64
 badssl.com	ai,developer-tools,security
 Base64-Chunk-Stream	ai,cryptography
 Base64-Credentials	cryptography,data,developer-tools,devops,python,security,virtualization
+Base64-Interactive-Tool	ai,cryptography,github,python
 bbrod-s-VSCode-Retro-Themes	ai,developer-tools
 bitchat	
 brew	linux,macos,windows
