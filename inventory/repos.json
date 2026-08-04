@@ -1003,7 +1003,7 @@
     "description": "Outil Python de classification automatique de portfolios GitHub. Taxonomie pour catégoriser repos par domaines techniques (AI/ML, Cloud, DevOps, Frontend, Backend). Analyse descriptions, détecte keywords sur 25 domaines, produit JSON, TSV et rapports Markdown. Idéal pour les ingénieurs logiciel afin d'organiser l'écosystème GitHub à leur sauce.",
     "isFork": false,
     "isPrivate": false,
-    "updatedAt": "2026-08-02T05:24:10Z",
+    "updatedAt": "2026-08-03T05:39:10Z",
     "url": "https://github.com/valorisa/Github-Portfolio-Taxonomy",
     "githubTopics": [
       "cli-tool",
@@ -3195,7 +3195,7 @@
     "description": "🛡️ Scanner VirusTotal CLI en PowerShell - Analysez fichiers, dossiers et URLs via l'API v3. Compatible PS5.1+ | Plus une version en python pour Windows, macOS et Linux",
     "isFork": false,
     "isPrivate": false,
-    "updatedAt": "2026-08-02T23:13:46Z",
+    "updatedAt": "2026-08-03T20:05:46Z",
     "url": "https://github.com/valorisa/vt-scanner-cli",
     "githubTopics": [
       "api-v3",
