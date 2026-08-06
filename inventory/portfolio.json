@@ -107,6 +107,20 @@
     "url": "https://github.com/valorisa/alpine_bw_cli_gen_passwd"
   },
   {
+    "name": "Anatomy-Of-Randomness",
+    "topics": [
+      "ai",
+      "automation",
+      "cloud",
+      "documentation",
+      "python"
+    ],
+    "isFork": false,
+    "isPrivate": false,
+    "updatedAt": "2026-08-05T20:02:53Z",
+    "url": "https://github.com/valorisa/Anatomy-Of-Randomness"
+  },
+  {
     "name": "Andrej-Karpathy-Skills",
     "topics": [
       "ai"
@@ -367,7 +381,7 @@
     ],
     "isFork": false,
     "isPrivate": false,
-    "updatedAt": "2026-07-28T11:22:11Z",
+    "updatedAt": "2026-08-05T19:20:04Z",
     "url": "https://github.com/valorisa/Claude-Skills"
   },
   {
@@ -762,7 +776,7 @@
     ],
     "isFork": false,
     "isPrivate": false,
-    "updatedAt": "2026-08-04T05:12:17Z",
+    "updatedAt": "2026-08-05T05:12:22Z",
     "url": "https://github.com/valorisa/Github-Portfolio-Taxonomy"
   },
   {
@@ -1101,7 +1115,7 @@
     ],
     "isFork": false,
     "isPrivate": false,
-    "updatedAt": "2026-08-04T22:24:20Z",
+    "updatedAt": "2026-08-06T00:04:57Z",
     "url": "https://github.com/valorisa/LeCert"
   },
   {
@@ -1314,7 +1328,7 @@
     ],
     "isFork": false,
     "isPrivate": false,
-    "updatedAt": "2026-07-30T22:14:01Z",
+    "updatedAt": "2026-08-05T07:47:25Z",
     "url": "https://github.com/valorisa/Multi-LLM-Debate-CLI"
   },
   {
