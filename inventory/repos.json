@@ -537,7 +537,7 @@
     "description": "Community skills for Claude Code: token optimization, productivity workflows, and development best practices. All skills tested with TDD methodology (RED-GREEN-REFACTOR). Features rescue-tokens skill: 90% verbosity reduction, eliminates rate limits through 9 optimization patterns.",
     "isFork": false,
     "isPrivate": false,
-    "updatedAt": "2026-08-05T19:20:04Z",
+    "updatedAt": "2026-08-07T21:23:50Z",
     "url": "https://github.com/valorisa/Claude-Skills",
     "githubTopics": [
       "agent-optimization",
@@ -1035,7 +1035,7 @@
     "description": "Outil Python de classification automatique de portfolios GitHub. Taxonomie pour catégoriser repos par domaines techniques (AI/ML, Cloud, DevOps, Frontend, Backend). Analyse descriptions, détecte keywords sur 25 domaines, produit JSON, TSV et rapports Markdown. Idéal pour les ingénieurs logiciel afin d'organiser l'écosystème GitHub à leur sauce.",
     "isFork": false,
     "isPrivate": false,
-    "updatedAt": "2026-08-05T05:12:22Z",
+    "updatedAt": "2026-08-06T05:13:53Z",
     "url": "https://github.com/valorisa/Github-Portfolio-Taxonomy",
     "githubTopics": [
       "cli-tool",
@@ -1099,7 +1099,7 @@
     "description": "CLI tool open-source automatisant intégralement la création de dépôts GitHub conformes aux Community Standards (100%) pour tout type de projet (library, webapp, cli, github-action, docs, monorepo) et stack (Python, Node, Go, Java, Rust). Élimine des heures de config manuelle.",
     "isFork": false,
     "isPrivate": false,
-    "updatedAt": "2026-07-24T12:32:14Z",
+    "updatedAt": "2026-08-07T15:15:42Z",
     "url": "https://github.com/valorisa/Github-Universal-Scaffolding-Generator-Advanced",
     "githubTopics": [
       "automation",
@@ -1400,6 +1400,17 @@
     "githubTopics": [],
     "language": "Shell",
     "stars": 0
+  },
+  {
+    "name": "j5011-jetpack-kernel-guides",
+    "description": "",
+    "isFork": false,
+    "isPrivate": false,
+    "updatedAt": "2026-08-06T07:41:50Z",
+    "url": "https://github.com/valorisa/j5011-jetpack-kernel-guides",
+    "githubTopics": [],
+    "language": null,
+    "stars": 1
   },
   {
     "name": "JaiLIP-Educational",
@@ -1865,7 +1876,7 @@
     "description": "CLI Python qui fait débattre plusieurs LLM (GLM, DeepSeek, Qwen) via un protocole en 5 phases : cadrage silencieux, positions indépendantes, lecture croisée, révision, jugement final. Stress-teste un plan ou une architecture avant de s'engager.",
     "isFork": false,
     "isPrivate": false,
-    "updatedAt": "2026-08-05T07:47:25Z",
+    "updatedAt": "2026-08-06T09:24:08Z",
     "url": "https://github.com/valorisa/Multi-LLM-Debate-CLI",
     "githubTopics": [],
     "language": "Python",

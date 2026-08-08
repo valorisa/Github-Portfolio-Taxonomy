@@ -381,7 +381,7 @@
     ],
     "isFork": false,
     "isPrivate": false,
-    "updatedAt": "2026-08-05T19:20:04Z",
+    "updatedAt": "2026-08-07T21:23:50Z",
     "url": "https://github.com/valorisa/Claude-Skills"
   },
   {
@@ -776,7 +776,7 @@
     ],
     "isFork": false,
     "isPrivate": false,
-    "updatedAt": "2026-08-05T05:12:22Z",
+    "updatedAt": "2026-08-06T05:13:53Z",
     "url": "https://github.com/valorisa/Github-Portfolio-Taxonomy"
   },
   {
@@ -805,7 +805,7 @@
     ],
     "isFork": false,
     "isPrivate": false,
-    "updatedAt": "2026-07-24T12:32:14Z",
+    "updatedAt": "2026-08-07T15:15:42Z",
     "url": "https://github.com/valorisa/Github-Universal-Scaffolding-Generator-Advanced"
   },
   {
@@ -1005,6 +1005,17 @@
     "isPrivate": false,
     "updatedAt": "2025-02-02T20:17:47Z",
     "url": "https://github.com/valorisa/install_powershell_on_macos"
+  },
+  {
+    "name": "j5011-jetpack-kernel-guides",
+    "topics": [
+      "documentation",
+      "linux"
+    ],
+    "isFork": false,
+    "isPrivate": false,
+    "updatedAt": "2026-08-06T07:41:50Z",
+    "url": "https://github.com/valorisa/j5011-jetpack-kernel-guides"
   },
   {
     "name": "JaiLIP-Educational",
@@ -1328,7 +1339,7 @@
     ],
     "isFork": false,
     "isPrivate": false,
-    "updatedAt": "2026-08-05T07:47:25Z",
+    "updatedAt": "2026-08-06T09:24:08Z",
     "url": "https://github.com/valorisa/Multi-LLM-Debate-CLI"
   },
   {
