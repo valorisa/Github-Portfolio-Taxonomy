@@ -7,6 +7,7 @@
 - MobaXterm-Keygen-Alt
 - Peter_tests_Proof_of_Concept
 - Spoon-Knife
+- Test-de-Peter-2026
 - alass
 - aria2
 - b64

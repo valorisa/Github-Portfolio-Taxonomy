@@ -173,6 +173,7 @@ System_Prompts_Leaks	ai
 T2-Linux-Workbench-Laboratory	ai,devops,linux,windows
 Tabular-Benchmark-MLOps	ai,devops,python,research
 Test-and-Fix-MegaLinter-Tool	automation,documentation,python
+Test-de-Peter-2026	
 Threema-Android-on-Alpine	android,linux
 TightVNC-Server-For-Windows	developer-tools,documentation,windows
 tmux	developer-tools
