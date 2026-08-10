@@ -202,6 +202,7 @@ Win11-LocalAccount-Creator	developer-tools,windows
 win7-adobe-reader-winrt-fix-v2	developer-tools,windows
 WinEnv-Path-Clean-Guard	ai,github,windows
 winrar-keygen	devops
+WSL	linux,windows
 wsl2-custom-kernel	documentation,linux,windows
 WSL2-Custom-Kernel-6.18-LTS-Guide	documentation,linux,windows
 youtube-dl	audio
