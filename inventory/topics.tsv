@@ -205,6 +205,7 @@ winrar-keygen	devops
 WSL	linux,windows
 wsl2-custom-kernel	documentation,linux,windows
 WSL2-Custom-Kernel-6.18-LTS-Guide	documentation,linux,windows
+WSL2-Linux-Kernel	linux,windows
 youtube-dl	audio
 YouTube-Protobuf-AdBlock	devops,privacy
 youtube-transcript-downloader	ai,python

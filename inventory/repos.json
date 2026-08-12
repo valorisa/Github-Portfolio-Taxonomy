@@ -1035,7 +1035,7 @@
     "description": "Outil Python de classification automatique de portfolios GitHub. Taxonomie pour catégoriser repos par domaines techniques (AI/ML, Cloud, DevOps, Frontend, Backend). Analyse descriptions, détecte keywords sur 25 domaines, produit JSON, TSV et rapports Markdown. Idéal pour les ingénieurs logiciel afin d'organiser l'écosystème GitHub à leur sauce.",
     "isFork": false,
     "isPrivate": false,
-    "updatedAt": "2026-08-10T03:50:20Z",
+    "updatedAt": "2026-08-11T03:40:01Z",
     "url": "https://github.com/valorisa/Github-Portfolio-Taxonomy",
     "githubTopics": [
       "cli-tool",
@@ -2943,10 +2943,10 @@
     "description": "",
     "isFork": false,
     "isPrivate": false,
-    "updatedAt": "2026-08-08T23:03:08Z",
+    "updatedAt": "2026-08-11T14:57:42Z",
     "url": "https://github.com/valorisa/Test-de-Peter-2026",
     "githubTopics": [],
-    "language": null,
+    "language": "Python",
     "stars": 1
   },
   {
@@ -3389,7 +3389,7 @@
     "description": "Windows Subsystem for Linux",
     "isFork": true,
     "isPrivate": false,
-    "updatedAt": "2026-08-10T09:20:57Z",
+    "updatedAt": "2026-08-11T10:04:00Z",
     "url": "https://github.com/valorisa/WSL",
     "githubTopics": [],
     "language": "C++",
@@ -3411,7 +3411,7 @@
     "description": "Compilation complète du noyau Linux 6.18 LTS pour WSL2 sous Windows 11 Enterprise. Guide pas-à-pas avec TOUTES les galères réelles et solutions validées. La grande aventure de 6.6 jusqu'à 6.18.20.3-microsoft-standard-WSL2+ (LTS jusqu'en 2027).",
     "isFork": false,
     "isPrivate": false,
-    "updatedAt": "2026-08-10T13:32:47Z",
+    "updatedAt": "2026-08-11T09:44:03Z",
     "url": "https://github.com/valorisa/WSL2-Custom-Kernel-6.18-LTS-Guide",
     "githubTopics": [
       "custom-kernel",
@@ -3437,6 +3437,17 @@
     ],
     "language": null,
     "stars": 1
+  },
+  {
+    "name": "WSL2-Linux-Kernel",
+    "description": "The source for the Linux kernel used in Windows Subsystem for Linux 2 (WSL2)",
+    "isFork": true,
+    "isPrivate": false,
+    "updatedAt": "2026-08-01T00:31:28Z",
+    "url": "https://github.com/valorisa/WSL2-Linux-Kernel",
+    "githubTopics": [],
+    "language": null,
+    "stars": 0
   },
   {
     "name": "youtube-dl",
