@@ -12,6 +12,7 @@
 - aria2
 - b64
 - bitchat
+- gemma-translator
 - kotaemon
 - nanorc
 - nbfc
