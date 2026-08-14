@@ -64,6 +64,21 @@
     "url": "https://github.com/valorisa/Aerofoil-Propeller-Calculator"
   },
   {
+    "name": "Agent-API-Authorization-LAB",
+    "topics": [
+      "automation",
+      "education",
+      "github",
+      "productivity",
+      "research",
+      "security"
+    ],
+    "isFork": false,
+    "isPrivate": false,
+    "updatedAt": "2026-08-13T20:01:47Z",
+    "url": "https://github.com/valorisa/Agent-API-Authorization-LAB"
+  },
+  {
     "name": "AI-Driven-Dev-Framework",
     "topics": [
       "ai"
@@ -381,7 +396,7 @@
     ],
     "isFork": false,
     "isPrivate": false,
-    "updatedAt": "2026-08-07T21:23:50Z",
+    "updatedAt": "2026-08-13T09:22:44Z",
     "url": "https://github.com/valorisa/Claude-Skills"
   },
   {
@@ -784,7 +799,7 @@
     ],
     "isFork": false,
     "isPrivate": false,
-    "updatedAt": "2026-08-12T04:03:32Z",
+    "updatedAt": "2026-08-13T04:07:52Z",
     "url": "https://github.com/valorisa/Github-Portfolio-Taxonomy"
   },
   {
@@ -1347,7 +1362,7 @@
     ],
     "isFork": false,
     "isPrivate": false,
-    "updatedAt": "2026-08-06T09:24:08Z",
+    "updatedAt": "2026-08-13T09:30:43Z",
     "url": "https://github.com/valorisa/Multi-LLM-Debate-CLI"
   },
   {
@@ -2385,7 +2400,7 @@
     ],
     "isFork": false,
     "isPrivate": false,
-    "updatedAt": "2026-08-11T09:44:03Z",
+    "updatedAt": "2026-08-13T10:01:52Z",
     "url": "https://github.com/valorisa/WSL2-Custom-Kernel-6.18-LTS-Guide"
   },
   {
