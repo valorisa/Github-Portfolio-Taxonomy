@@ -920,7 +920,7 @@
       "windows"
     ],
     "language": "Dockerfile",
-    "stars": 5
+    "stars": 6
   },
   {
     "name": "FreeLLMAPI",
@@ -1078,7 +1078,7 @@
     "description": "Outil Python de classification automatique de portfolios GitHub. Taxonomie pour catégoriser repos par domaines techniques (AI/ML, Cloud, DevOps, Frontend, Backend). Analyse descriptions, détecte keywords sur 25 domaines, produit JSON, TSV et rapports Markdown. Idéal pour les ingénieurs logiciel afin d'organiser l'écosystème GitHub à leur sauce.",
     "isFork": false,
     "isPrivate": false,
-    "updatedAt": "2026-08-13T04:07:52Z",
+    "updatedAt": "2026-08-14T04:04:06Z",
     "url": "https://github.com/valorisa/Github-Portfolio-Taxonomy",
     "githubTopics": [
       "cli-tool",
@@ -3454,7 +3454,7 @@
     "description": "Compilation complète du noyau Linux 6.18 LTS pour WSL2 sous Windows 11 Enterprise. Guide pas-à-pas avec TOUTES les galères réelles et solutions validées. La grande aventure de 6.6 jusqu'à 6.18.20.3-microsoft-standard-WSL2+ (LTS jusqu'en 2027).",
     "isFork": false,
     "isPrivate": false,
-    "updatedAt": "2026-08-13T10:01:52Z",
+    "updatedAt": "2026-08-14T08:59:39Z",
     "url": "https://github.com/valorisa/WSL2-Custom-Kernel-6.18-LTS-Guide",
     "githubTopics": [
       "custom-kernel",
