@@ -133,7 +133,7 @@
     "description": "Local laboratory for experimentally studying API authorization, BOLA, and agentic workflows with vulnerable and fixed implementations.",
     "isFork": false,
     "isPrivate": false,
-    "updatedAt": "2026-08-13T20:01:47Z",
+    "updatedAt": "2026-08-16T18:44:49Z",
     "url": "https://github.com/valorisa/Agent-API-Authorization-LAB",
     "githubTopics": [
       "access-control",
@@ -594,7 +594,7 @@
       "workflow-automation"
     ],
     "language": "Python",
-    "stars": 4
+    "stars": 6
   },
   {
     "name": "Claw-Code",
@@ -1078,7 +1078,7 @@
     "description": "Outil Python de classification automatique de portfolios GitHub. Taxonomie pour catégoriser repos par domaines techniques (AI/ML, Cloud, DevOps, Frontend, Backend). Analyse descriptions, détecte keywords sur 25 domaines, produit JSON, TSV et rapports Markdown. Idéal pour les ingénieurs logiciel afin d'organiser l'écosystème GitHub à leur sauce.",
     "isFork": false,
     "isPrivate": false,
-    "updatedAt": "2026-08-15T02:48:16Z",
+    "updatedAt": "2026-08-16T02:56:23Z",
     "url": "https://github.com/valorisa/Github-Portfolio-Taxonomy",
     "githubTopics": [
       "cli-tool",
