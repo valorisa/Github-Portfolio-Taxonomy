@@ -1078,7 +1078,7 @@
     "description": "Outil Python de classification automatique de portfolios GitHub. Taxonomie pour catégoriser repos par domaines techniques (AI/ML, Cloud, DevOps, Frontend, Backend). Analyse descriptions, détecte keywords sur 25 domaines, produit JSON, TSV et rapports Markdown. Idéal pour les ingénieurs logiciel afin d'organiser l'écosystème GitHub à leur sauce.",
     "isFork": false,
     "isPrivate": false,
-    "updatedAt": "2026-08-19T02:53:20Z",
+    "updatedAt": "2026-08-20T02:53:26Z",
     "url": "https://github.com/valorisa/Github-Portfolio-Taxonomy",
     "githubTopics": [
       "cli-tool",
@@ -1919,7 +1919,7 @@
     "description": "CLI Python qui fait débattre plusieurs LLM (GLM, DeepSeek, Qwen) via un protocole en 5 phases : cadrage silencieux, positions indépendantes, lecture croisée, révision, jugement final. Stress-teste un plan ou une architecture avant de s'engager.",
     "isFork": false,
     "isPrivate": false,
-    "updatedAt": "2026-08-13T09:30:43Z",
+    "updatedAt": "2026-08-20T21:16:26Z",
     "url": "https://github.com/valorisa/Multi-LLM-Debate-CLI",
     "githubTopics": [],
     "language": "Python",
@@ -2599,7 +2599,7 @@
     "description": "Network-traversing web terminal in Go. Works anywhere a browser can reach port 443 — airports, corporate networks, anywhere. Spiritual successor to ShellInBox (port 4200). WebSocket + xterm.js, SSH client, multi-sessions, file transfer, session recording. Single binary, Docker ready.",
     "isFork": false,
     "isPrivate": false,
-    "updatedAt": "2026-07-11T06:18:38Z",
+    "updatedAt": "2026-08-20T20:58:37Z",
     "url": "https://github.com/valorisa/ShellFromBrowser",
     "githubTopics": [
       "browser",
