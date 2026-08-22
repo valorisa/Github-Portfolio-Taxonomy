@@ -1078,7 +1078,7 @@
     "description": "Outil Python de classification automatique de portfolios GitHub. Taxonomie pour catégoriser repos par domaines techniques (AI/ML, Cloud, DevOps, Frontend, Backend). Analyse descriptions, détecte keywords sur 25 domaines, produit JSON, TSV et rapports Markdown. Idéal pour les ingénieurs logiciel afin d'organiser l'écosystème GitHub à leur sauce.",
     "isFork": false,
     "isPrivate": false,
-    "updatedAt": "2026-08-20T02:53:26Z",
+    "updatedAt": "2026-08-21T02:58:33Z",
     "url": "https://github.com/valorisa/Github-Portfolio-Taxonomy",
     "githubTopics": [
       "cli-tool",
@@ -1723,6 +1723,38 @@
       "workflow-automation"
     ],
     "language": "Python",
+    "stars": 1
+  },
+  {
+    "name": "Lyra-Optimiseur-Prompt",
+    "description": "Méta-prompt français pour transformer des demandes vagues en prompts précis, structurés et réutilisables.",
+    "isFork": false,
+    "isPrivate": false,
+    "updatedAt": "2026-08-21T14:30:35Z",
+    "url": "https://github.com/valorisa/Lyra-Optimiseur-Prompt",
+    "githubTopics": [
+      "ai",
+      "ai-tools",
+      "artificial-intelligence",
+      "automation",
+      "chatgpt",
+      "claude",
+      "francais",
+      "french",
+      "gemini",
+      "generative-ai",
+      "github",
+      "llm",
+      "markdown",
+      "markdownlint",
+      "metaprompt",
+      "open-source",
+      "productivity",
+      "prompt",
+      "prompt-engineering",
+      "prompt-optimization"
+    ],
+    "language": null,
     "stars": 1
   },
   {

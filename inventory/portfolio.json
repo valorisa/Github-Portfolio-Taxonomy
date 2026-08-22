@@ -799,7 +799,7 @@
     ],
     "isFork": false,
     "isPrivate": false,
-    "updatedAt": "2026-08-20T02:53:26Z",
+    "updatedAt": "2026-08-21T02:58:33Z",
     "url": "https://github.com/valorisa/Github-Portfolio-Taxonomy"
   },
   {
@@ -1188,6 +1188,17 @@
     "isPrivate": false,
     "updatedAt": "2026-07-12T19:27:15Z",
     "url": "https://github.com/valorisa/Loop-Advisor"
+  },
+  {
+    "name": "Lyra-Optimiseur-Prompt",
+    "topics": [
+      "ai",
+      "devops"
+    ],
+    "isFork": false,
+    "isPrivate": false,
+    "updatedAt": "2026-08-21T14:30:35Z",
+    "url": "https://github.com/valorisa/Lyra-Optimiseur-Prompt"
   },
   {
     "name": "macOS-Nano-Compile",
