@@ -306,7 +306,7 @@
     "description": "Outils d'audit pour la compromission supply-chain @bitwarden/cli@2026.4.0 (Shai-Hulud: The Third Coming) — PowerShell, Bash et GitHub Actions",
     "isFork": false,
     "isPrivate": false,
-    "updatedAt": "2026-04-24T17:15:31Z",
+    "updatedAt": "2026-08-22T09:35:25Z",
     "url": "https://github.com/valorisa/Audit-Bitwarden-Shai-Hulud",
     "githubTopics": [
       "audit",
@@ -1078,7 +1078,7 @@
     "description": "Outil Python de classification automatique de portfolios GitHub. Taxonomie pour catégoriser repos par domaines techniques (AI/ML, Cloud, DevOps, Frontend, Backend). Analyse descriptions, détecte keywords sur 25 domaines, produit JSON, TSV et rapports Markdown. Idéal pour les ingénieurs logiciel afin d'organiser l'écosystème GitHub à leur sauce.",
     "isFork": false,
     "isPrivate": false,
-    "updatedAt": "2026-08-21T02:58:33Z",
+    "updatedAt": "2026-08-22T02:50:39Z",
     "url": "https://github.com/valorisa/Github-Portfolio-Taxonomy",
     "githubTopics": [
       "cli-tool",
