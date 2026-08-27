@@ -148,6 +148,7 @@ Prompt-Engineer-Toolkit	ai,automation,developer-tools,devops,github,python,virtu
 Prompt-Grill-Framework	ai,data,devops,documentation,python
 PSScriptAnalyzer	developer-tools,windows
 Putnam_B6_2011	ai,devops,mathematics
+pwgen_secure	ai,android,linux,macos,python
 pytubefix	audio,python
 Quickshell-Hyprland	ai,developer-tools,linux
 retro-home-pbx	
@@ -180,6 +181,7 @@ Test-de-Peter-2026
 Threema-Android-on-Alpine	android,linux
 TightVNC-Server-For-Windows	developer-tools,documentation,windows
 tmux	developer-tools
+tmux-builds	developer-tools
 transfer.sh	
 Tru64-Unix-51b-Emulation	devops,documentation,virtualization
 ttyd	developer-tools,web

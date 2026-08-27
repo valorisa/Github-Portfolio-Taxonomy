@@ -799,7 +799,7 @@
     ],
     "isFork": false,
     "isPrivate": false,
-    "updatedAt": "2026-08-25T02:54:35Z",
+    "updatedAt": "2026-08-26T03:00:46Z",
     "url": "https://github.com/valorisa/Github-Portfolio-Taxonomy"
   },
   {
@@ -1373,7 +1373,7 @@
     ],
     "isFork": false,
     "isPrivate": false,
-    "updatedAt": "2026-08-20T21:16:26Z",
+    "updatedAt": "2026-08-27T11:22:38Z",
     "url": "https://github.com/valorisa/Multi-LLM-Debate-CLI"
   },
   {
@@ -1748,6 +1748,20 @@
     "url": "https://github.com/valorisa/Putnam_B6_2011"
   },
   {
+    "name": "pwgen_secure",
+    "topics": [
+      "ai",
+      "android",
+      "linux",
+      "macos",
+      "python"
+    ],
+    "isFork": false,
+    "isPrivate": false,
+    "updatedAt": "2026-08-26T10:45:33Z",
+    "url": "https://github.com/valorisa/pwgen_secure"
+  },
+  {
     "name": "pytubefix",
     "topics": [
       "audio",
@@ -2101,6 +2115,16 @@
     "isPrivate": false,
     "updatedAt": "2024-04-07T13:38:50Z",
     "url": "https://github.com/valorisa/tmux"
+  },
+  {
+    "name": "tmux-builds",
+    "topics": [
+      "developer-tools"
+    ],
+    "isFork": true,
+    "isPrivate": false,
+    "updatedAt": "2026-08-25T06:01:51Z",
+    "url": "https://github.com/valorisa/tmux-builds"
   },
   {
     "name": "transfer.sh",
@@ -2464,7 +2488,7 @@
     ],
     "isFork": true,
     "isPrivate": false,
-    "updatedAt": "2026-07-03T14:07:07Z",
+    "updatedAt": "2026-08-26T07:29:53Z",
     "url": "https://github.com/valorisa/yt-dlp"
   },
   {
