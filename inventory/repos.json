@@ -1078,7 +1078,7 @@
     "description": "Outil Python de classification automatique de portfolios GitHub. Taxonomie pour catégoriser repos par domaines techniques (AI/ML, Cloud, DevOps, Frontend, Backend). Analyse descriptions, détecte keywords sur 25 domaines, produit JSON, TSV et rapports Markdown. Idéal pour les ingénieurs logiciel afin d'organiser l'écosystème GitHub à leur sauce.",
     "isFork": false,
     "isPrivate": false,
-    "updatedAt": "2026-08-26T03:00:46Z",
+    "updatedAt": "2026-08-27T12:18:23Z",
     "url": "https://github.com/valorisa/Github-Portfolio-Taxonomy",
     "githubTopics": [
       "cli-tool",
@@ -1850,7 +1850,7 @@
     "description": "Open-source Windows and Office activator featuring HWID, Ohook, TSforge, and Online KMS activation methods, along with advanced troubleshooting.",
     "isFork": true,
     "isPrivate": false,
-    "updatedAt": "2026-02-05T14:43:32Z",
+    "updatedAt": "2026-08-27T14:51:46Z",
     "url": "https://github.com/valorisa/Microsoft-Activation-Scripts",
     "githubTopics": [],
     "language": "Batchfile",
@@ -3438,6 +3438,17 @@
     "stars": 1
   },
   {
+    "name": "win-acme",
+    "description": "Automate SSL/TLS certificates on Windows with ease",
+    "isFork": true,
+    "isPrivate": false,
+    "updatedAt": "2026-06-09T09:42:13Z",
+    "url": "https://github.com/valorisa/win-acme",
+    "githubTopics": [],
+    "language": null,
+    "stars": 0
+  },
+  {
     "name": "Win11-LocalAccount-Creator",
     "description": "Scripts PowerShell pour créer des comptes locaux sous Windows 11",
     "isFork": false,
@@ -3604,7 +3615,7 @@
     "description": "A feature-rich command-line audio/video downloader",
     "isFork": true,
     "isPrivate": false,
-    "updatedAt": "2026-08-26T07:29:53Z",
+    "updatedAt": "2026-08-27T12:33:26Z",
     "url": "https://github.com/valorisa/yt-dlp",
     "githubTopics": [],
     "language": "Python",

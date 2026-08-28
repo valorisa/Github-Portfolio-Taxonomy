@@ -799,7 +799,7 @@
     ],
     "isFork": false,
     "isPrivate": false,
-    "updatedAt": "2026-08-26T03:00:46Z",
+    "updatedAt": "2026-08-27T12:18:23Z",
     "url": "https://github.com/valorisa/Github-Portfolio-Taxonomy"
   },
   {
@@ -1291,7 +1291,7 @@
     ],
     "isFork": true,
     "isPrivate": false,
-    "updatedAt": "2026-02-05T14:43:32Z",
+    "updatedAt": "2026-08-27T14:51:46Z",
     "url": "https://github.com/valorisa/Microsoft-Activation-Scripts"
   },
   {
@@ -2360,6 +2360,18 @@
     "url": "https://github.com/valorisa/Willans-prime-formula"
   },
   {
+    "name": "win-acme",
+    "topics": [
+      "automation",
+      "security",
+      "windows"
+    ],
+    "isFork": true,
+    "isPrivate": false,
+    "updatedAt": "2026-06-09T09:42:13Z",
+    "url": "https://github.com/valorisa/win-acme"
+  },
+  {
     "name": "Win11-LocalAccount-Creator",
     "topics": [
       "developer-tools",
@@ -2488,7 +2500,7 @@
     ],
     "isFork": true,
     "isPrivate": false,
-    "updatedAt": "2026-08-26T07:29:53Z",
+    "updatedAt": "2026-08-27T12:33:26Z",
     "url": "https://github.com/valorisa/yt-dlp"
   },
   {

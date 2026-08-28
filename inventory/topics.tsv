@@ -203,6 +203,7 @@ vt-scanner-cli	developer-tools,linux,macos,python,windows
 VT-TUI-Scanner	monitoring,python
 wg-easy	networking,web
 Willans-prime-formula	android,data,education,mathematics,python,research
+win-acme	automation,security,windows
 Win11-LocalAccount-Creator	developer-tools,windows
 win7-adobe-reader-winrt-fix-v2	developer-tools,windows
 WinEnv-Path-Clean-Guard	ai,github,windows
