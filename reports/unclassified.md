@@ -19,6 +19,7 @@
 - open-r1
 - retro-home-pbx
 - skeeter-deleter
+- skills
 - sxwm
 - transfer.sh
 - ytdl-nightly

@@ -5,6 +5,7 @@ Advanced-Multi-Agent-Orchestrator	ai,automation,devops,github,productivity
 Advanced-Prompts-Factory	ai,developer-tools,devops,documentation,github,python,windows
 Aerofoil-Propeller-Calculator	ai,developer-tools,python
 Agent-API-Authorization-LAB	automation,education,github,productivity,research,security
+agent-skills	ai
 AI-Driven-Dev-Framework	ai
 alass	
 alpine-linux-on-termux	android,linux,virtualization
@@ -161,6 +162,7 @@ ShellFromBrowser	ai,developer-tools,devops,networking,security,virtualization,we
 shields	devops
 simple-web-server	developer-tools,web
 skeeter-deleter	
+skills	
 Slackware_current_Install_Guide	documentation,linux
 socat-1.8.0.1_for_Windows	networking,windows
 socat-1.8.1.1_for_Windows	networking,windows
