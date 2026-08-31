@@ -69,7 +69,7 @@
     "description": "Enterprise-grade meta-prompts for GitHub project generation. RepoArchitect Pro v2.0 with Phase 0 stack analysis, zero-placeholder guarantee, bilingual docs (EN/FR). Supports PowerShell, Node.js, Python, Nix, Bash. Generates 15+ files with CI/CD, templates, and comprehensive documentation.",
     "isFork": false,
     "isPrivate": false,
-    "updatedAt": "2026-07-20T09:18:51Z",
+    "updatedAt": "2026-08-31T07:11:43Z",
     "url": "https://github.com/valorisa/Advanced-Prompts-Factory",
     "githubTopics": [
       "bash",
@@ -1089,7 +1089,7 @@
     "description": "Outil Python de classification automatique de portfolios GitHub. Taxonomie pour catégoriser repos par domaines techniques (AI/ML, Cloud, DevOps, Frontend, Backend). Analyse descriptions, détecte keywords sur 25 domaines, produit JSON, TSV et rapports Markdown. Idéal pour les ingénieurs logiciel afin d'organiser l'écosystème GitHub à leur sauce.",
     "isFork": false,
     "isPrivate": false,
-    "updatedAt": "2026-08-29T08:35:30Z",
+    "updatedAt": "2026-08-30T07:48:34Z",
     "url": "https://github.com/valorisa/Github-Portfolio-Taxonomy",
     "githubTopics": [
       "cli-tool",
@@ -3637,7 +3637,7 @@
     "description": "A feature-rich command-line audio/video downloader",
     "isFork": true,
     "isPrivate": false,
-    "updatedAt": "2026-08-28T13:54:00Z",
+    "updatedAt": "2026-08-30T08:52:02Z",
     "url": "https://github.com/valorisa/yt-dlp",
     "githubTopics": [],
     "language": "Python",
