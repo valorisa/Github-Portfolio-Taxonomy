@@ -605,7 +605,7 @@
       "workflow-automation"
     ],
     "language": "Python",
-    "stars": 8
+    "stars": 9
   },
   {
     "name": "Claw-Code",
@@ -1089,7 +1089,7 @@
     "description": "Outil Python de classification automatique de portfolios GitHub. Taxonomie pour catégoriser repos par domaines techniques (AI/ML, Cloud, DevOps, Frontend, Backend). Analyse descriptions, détecte keywords sur 25 domaines, produit JSON, TSV et rapports Markdown. Idéal pour les ingénieurs logiciel afin d'organiser l'écosystème GitHub à leur sauce.",
     "isFork": false,
     "isPrivate": false,
-    "updatedAt": "2026-09-01T07:11:47Z",
+    "updatedAt": "2026-09-02T06:46:16Z",
     "url": "https://github.com/valorisa/Github-Portfolio-Taxonomy",
     "githubTopics": [
       "cli-tool",
@@ -2513,7 +2513,7 @@
     "description": "Générateur Python sécurisé de mots de passe et de phrases de passe pour Linux, macOS et Termux. Utilise secrets, prend en charge les contraintes exactes, les wordlists personnalisées et les séparateurs Unicode, avec une interface interactive pour le développement et l'administration système.",
     "isFork": false,
     "isPrivate": false,
-    "updatedAt": "2026-09-01T22:25:55Z",
+    "updatedAt": "2026-09-02T23:53:13Z",
     "url": "https://github.com/valorisa/pwgen_secure",
     "githubTopics": [
       "automation",
@@ -2764,7 +2764,7 @@
     "url": "https://github.com/valorisa/socat-1.8.0.1_for_Windows",
     "githubTopics": [],
     "language": null,
-    "stars": 115
+    "stars": 116
   },
   {
     "name": "socat-1.8.1.1_for_Windows",
