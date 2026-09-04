@@ -1089,7 +1089,7 @@
     "description": "Outil Python de classification automatique de portfolios GitHub. Taxonomie pour catégoriser repos par domaines techniques (AI/ML, Cloud, DevOps, Frontend, Backend). Analyse descriptions, détecte keywords sur 25 domaines, produit JSON, TSV et rapports Markdown. Idéal pour les ingénieurs logiciel afin d'organiser l'écosystème GitHub à leur sauce.",
     "isFork": false,
     "isPrivate": false,
-    "updatedAt": "2026-09-02T06:46:16Z",
+    "updatedAt": "2026-09-03T06:48:42Z",
     "url": "https://github.com/valorisa/Github-Portfolio-Taxonomy",
     "githubTopics": [
       "cli-tool",
@@ -1962,7 +1962,7 @@
     "description": "CLI Python qui fait débattre plusieurs LLM (GLM, DeepSeek, Qwen) via un protocole en 5 phases : cadrage silencieux, positions indépendantes, lecture croisée, révision, jugement final. Stress-teste un plan ou une architecture avant de s'engager.",
     "isFork": false,
     "isPrivate": false,
-    "updatedAt": "2026-08-27T11:22:38Z",
+    "updatedAt": "2026-09-03T13:37:02Z",
     "url": "https://github.com/valorisa/Multi-LLM-Debate-CLI",
     "githubTopics": [],
     "language": "Python",
@@ -2513,7 +2513,7 @@
     "description": "Générateur Python sécurisé de mots de passe et de phrases de passe pour Linux, macOS et Termux. Utilise secrets, prend en charge les contraintes exactes, les wordlists personnalisées et les séparateurs Unicode, avec une interface interactive pour le développement et l'administration système.",
     "isFork": false,
     "isPrivate": false,
-    "updatedAt": "2026-09-02T23:53:13Z",
+    "updatedAt": "2026-09-03T15:34:39Z",
     "url": "https://github.com/valorisa/pwgen_secure",
     "githubTopics": [
       "automation",
