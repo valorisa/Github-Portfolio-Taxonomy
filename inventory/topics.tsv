@@ -169,6 +169,7 @@ socat-1.8.1.1_for_Windows	networking,windows
 socat-cygwin-automate	automation,networking,windows
 Spoon-Knife	
 ssh-hardening-suite	devops,security
+Stack-Overflow-RAG-Explorer	
 Storm-Research	research
 StormGrill	ai,cryptography,devops,research
 Super-Bidirectional-md-qd-Bridge	developer-tools,devops,documentation,github,productivity,python

@@ -7,6 +7,7 @@
 - MobaXterm-Keygen-Alt
 - Peter_tests_Proof_of_Concept
 - Spoon-Knife
+- Stack-Overflow-RAG-Explorer
 - Test-de-Peter-2026
 - alass
 - aria2
