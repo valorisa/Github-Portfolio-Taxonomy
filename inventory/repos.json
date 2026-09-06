@@ -364,12 +364,23 @@
   },
   {
     "name": "b64",
-    "description": "",
+    "description": "Encodeur/décodeur Base64 UTF-8 en pur Python (stdlib seule). Sans dépendance, pipable et conçu pour CLI/Termux.",
     "isFork": false,
     "isPrivate": false,
-    "updatedAt": "2026-07-26T19:00:35Z",
+    "updatedAt": "2026-09-05T23:33:35Z",
     "url": "https://github.com/valorisa/b64",
-    "githubTopics": [],
+    "githubTopics": [
+      "base64",
+      "cli",
+      "decoder",
+      "encoder",
+      "python",
+      "standard-library",
+      "terminal",
+      "termux",
+      "utf-8",
+      "zero-dependencies"
+    ],
     "language": "Python",
     "stars": 1
   },
@@ -1089,7 +1100,7 @@
     "description": "Outil Python de classification automatique de portfolios GitHub. Taxonomie pour catégoriser repos par domaines techniques (AI/ML, Cloud, DevOps, Frontend, Backend). Analyse descriptions, détecte keywords sur 25 domaines, produit JSON, TSV et rapports Markdown. Idéal pour les ingénieurs logiciel afin d'organiser l'écosystème GitHub à leur sauce.",
     "isFork": false,
     "isPrivate": false,
-    "updatedAt": "2026-09-04T06:53:57Z",
+    "updatedAt": "2026-09-05T06:38:33Z",
     "url": "https://github.com/valorisa/Github-Portfolio-Taxonomy",
     "githubTopics": [
       "cli-tool",

@@ -11,7 +11,6 @@
 - Test-de-Peter-2026
 - alass
 - aria2
-- b64
 - bitchat
 - gemma-translator
 - kotaemon
