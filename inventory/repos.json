@@ -616,7 +616,7 @@
       "workflow-automation"
     ],
     "language": "Python",
-    "stars": 10
+    "stars": 11
   },
   {
     "name": "Claw-Code",
@@ -1100,7 +1100,7 @@
     "description": "Outil Python de classification automatique de portfolios GitHub. Taxonomie pour catégoriser repos par domaines techniques (AI/ML, Cloud, DevOps, Frontend, Backend). Analyse descriptions, détecte keywords sur 25 domaines, produit JSON, TSV et rapports Markdown. Idéal pour les ingénieurs logiciel afin d'organiser l'écosystème GitHub à leur sauce.",
     "isFork": false,
     "isPrivate": false,
-    "updatedAt": "2026-09-10T06:57:59Z",
+    "updatedAt": "2026-09-11T06:57:57Z",
     "url": "https://github.com/valorisa/Github-Portfolio-Taxonomy",
     "githubTopics": [
       "cli-tool",
@@ -1465,6 +1465,17 @@
     "githubTopics": [],
     "language": "Shell",
     "stars": 0
+  },
+  {
+    "name": "ipv6-healthcheck",
+    "description": "Template GitHub Actions pour valider l'IPv6 de tes services : tests HTTP IPv4/IPv6 + vérif DNS AAAA en CI.",
+    "isFork": false,
+    "isPrivate": false,
+    "updatedAt": "2026-09-11T14:35:32Z",
+    "url": "https://github.com/valorisa/ipv6-healthcheck",
+    "githubTopics": [],
+    "language": null,
+    "stars": 1
   },
   {
     "name": "j5011-jetpack-kernel-guides",
@@ -1973,7 +1984,7 @@
     "description": "CLI Python qui fait débattre plusieurs LLM (GLM, DeepSeek, Qwen) via un protocole en 5 phases : cadrage silencieux, positions indépendantes, lecture croisée, révision, jugement final. Stress-teste un plan ou une architecture avant de s'engager.",
     "isFork": false,
     "isPrivate": false,
-    "updatedAt": "2026-09-10T09:24:14Z",
+    "updatedAt": "2026-09-11T08:54:09Z",
     "url": "https://github.com/valorisa/Multi-LLM-Debate-CLI",
     "githubTopics": [],
     "language": "Python",
@@ -2642,7 +2653,7 @@
   {
     "name": "Roosource",
     "description": "Transformer un ancien téléphone Android en outil puissant.",
-    "isFork": true,
+    "isFork": false,
     "isPrivate": false,
     "updatedAt": "2025-07-23T12:34:42Z",
     "url": "https://github.com/valorisa/Roosource",
@@ -3561,7 +3572,7 @@
     "description": "Windows Subsystem for Linux",
     "isFork": true,
     "isPrivate": false,
-    "updatedAt": "2026-08-19T16:12:56Z",
+    "updatedAt": "2026-09-11T14:40:25Z",
     "url": "https://github.com/valorisa/WSL",
     "githubTopics": [],
     "language": "C++",
