@@ -25,6 +25,7 @@ Base64-Credentials	cryptography,data,developer-tools,devops,python,security,virt
 Base64-Interactive-Tool	ai,cryptography,github,python
 bbrod-s-VSCode-Retro-Themes	ai,developer-tools
 bitchat	
+Boeing-Tarmac-Hardening-Security-Notes	devops,documentation,productivity,security
 brew	linux,macos,windows
 Candidature_Zen	ai
 chatgpt_clone_by_bertie	ai,audio
@@ -83,6 +84,7 @@ HomeLab-VLAN-Refactor-Configs	developer-tools,devops,homelab,networking,windows
 HomeLab-VLAN-Refactor-Expert-Playbook	devops,homelab,networking
 HomeLab-VLAN-Refactor-Security	devops,homelab,networking,security
 Homo2rpheOS	cryptography,devops,privacy,research
+Horloge_Mathematiques_V5	ai,android,mathematics,python,web
 https-github.com-danistefanovic-build-your-own-x	github
 i3-wsl-xephyr	documentation,linux,windows
 install_powershell_on_macos	developer-tools,macos,windows

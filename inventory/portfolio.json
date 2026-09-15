@@ -310,6 +310,19 @@
     "url": "https://github.com/valorisa/bitchat"
   },
   {
+    "name": "Boeing-Tarmac-Hardening-Security-Notes",
+    "topics": [
+      "devops",
+      "documentation",
+      "productivity",
+      "security"
+    ],
+    "isFork": false,
+    "isPrivate": false,
+    "updatedAt": "2026-09-14T08:25:37Z",
+    "url": "https://github.com/valorisa/Boeing-Tarmac-Hardening-Security-Notes"
+  },
+  {
     "name": "brew",
     "topics": [
       "linux",
@@ -814,7 +827,7 @@
     ],
     "isFork": false,
     "isPrivate": false,
-    "updatedAt": "2026-09-13T07:07:43Z",
+    "updatedAt": "2026-09-14T07:31:14Z",
     "url": "https://github.com/valorisa/Github-Portfolio-Taxonomy"
   },
   {
@@ -1009,6 +1022,20 @@
     "isPrivate": false,
     "updatedAt": "2025-10-29T21:27:53Z",
     "url": "https://github.com/valorisa/Homo2rpheOS"
+  },
+  {
+    "name": "Horloge_Mathematiques_V5",
+    "topics": [
+      "ai",
+      "android",
+      "mathematics",
+      "python",
+      "web"
+    ],
+    "isFork": false,
+    "isPrivate": false,
+    "updatedAt": "2026-09-14T20:01:19Z",
+    "url": "https://github.com/valorisa/Horloge_Mathematiques_V5"
   },
   {
     "name": "https-github.com-danistefanovic-build-your-own-x",

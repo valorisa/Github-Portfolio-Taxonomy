@@ -478,6 +478,23 @@
     "stars": 1
   },
   {
+    "name": "Boeing-Tarmac-Hardening-Security-Notes",
+    "description": "Notes de sécurité et de durcissement pour l’avionique Boeing (737, ARINC 429, systèmes embarqués). Guides, analyses et checklists pour ingénieurs cybersécurité.",
+    "isFork": false,
+    "isPrivate": false,
+    "updatedAt": "2026-09-14T08:25:37Z",
+    "url": "https://github.com/valorisa/Boeing-Tarmac-Hardening-Security-Notes",
+    "githubTopics": [
+      "arinc429",
+      "avionic",
+      "boeing-737",
+      "hardening",
+      "security"
+    ],
+    "language": null,
+    "stars": 1
+  },
+  {
     "name": "brew",
     "description": "🍺The missing package manager for macOS (or Linux) and eventually even Windows.",
     "isFork": true,
@@ -1100,7 +1117,7 @@
     "description": "Outil Python de classification automatique de portfolios GitHub. Taxonomie pour catégoriser repos par domaines techniques (AI/ML, Cloud, DevOps, Frontend, Backend). Analyse descriptions, détecte keywords sur 25 domaines, produit JSON, TSV et rapports Markdown. Idéal pour les ingénieurs logiciel afin d'organiser l'écosystème GitHub à leur sauce.",
     "isFork": false,
     "isPrivate": false,
-    "updatedAt": "2026-09-13T07:07:43Z",
+    "updatedAt": "2026-09-14T07:31:14Z",
     "url": "https://github.com/valorisa/Github-Portfolio-Taxonomy",
     "githubTopics": [
       "cli-tool",
@@ -1431,6 +1448,17 @@
     "url": "https://github.com/valorisa/Homo2rpheOS",
     "githubTopics": [],
     "language": "Shell",
+    "stars": 1
+  },
+  {
+    "name": "Horloge_Mathematiques_V5",
+    "description": "Horloge analogique animée en Python avec 576 énigmes mathématiques à raisonnement (mode Web/Termux et Desktop).",
+    "isFork": false,
+    "isPrivate": false,
+    "updatedAt": "2026-09-14T20:01:19Z",
+    "url": "https://github.com/valorisa/Horloge_Mathematiques_V5",
+    "githubTopics": [],
+    "language": "Python",
     "stars": 1
   },
   {
