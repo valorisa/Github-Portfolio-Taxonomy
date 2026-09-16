@@ -482,7 +482,7 @@
     "description": "Notes de sécurité et de durcissement pour l’avionique Boeing (737, ARINC 429, systèmes embarqués). Guides, analyses et checklists pour ingénieurs cybersécurité.",
     "isFork": false,
     "isPrivate": false,
-    "updatedAt": "2026-09-14T08:25:37Z",
+    "updatedAt": "2026-09-15T20:02:40Z",
     "url": "https://github.com/valorisa/Boeing-Tarmac-Hardening-Security-Notes",
     "githubTopics": [
       "arinc429",
@@ -1117,7 +1117,7 @@
     "description": "Outil Python de classification automatique de portfolios GitHub. Taxonomie pour catégoriser repos par domaines techniques (AI/ML, Cloud, DevOps, Frontend, Backend). Analyse descriptions, détecte keywords sur 25 domaines, produit JSON, TSV et rapports Markdown. Idéal pour les ingénieurs logiciel afin d'organiser l'écosystème GitHub à leur sauce.",
     "isFork": false,
     "isPrivate": false,
-    "updatedAt": "2026-09-14T07:31:14Z",
+    "updatedAt": "2026-09-15T07:08:16Z",
     "url": "https://github.com/valorisa/Github-Portfolio-Taxonomy",
     "githubTopics": [
       "cli-tool",
@@ -1455,7 +1455,7 @@
     "description": "Horloge analogique animée en Python avec 576 énigmes mathématiques à raisonnement (mode Web/Termux et Desktop).",
     "isFork": false,
     "isPrivate": false,
-    "updatedAt": "2026-09-14T20:01:19Z",
+    "updatedAt": "2026-09-15T07:51:46Z",
     "url": "https://github.com/valorisa/Horloge_Mathematiques_V5",
     "githubTopics": [],
     "language": "Python",
