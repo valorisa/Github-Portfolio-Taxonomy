@@ -1117,7 +1117,7 @@
     "description": "Outil Python de classification automatique de portfolios GitHub. Taxonomie pour catégoriser repos par domaines techniques (AI/ML, Cloud, DevOps, Frontend, Backend). Analyse descriptions, détecte keywords sur 25 domaines, produit JSON, TSV et rapports Markdown. Idéal pour les ingénieurs logiciel afin d'organiser l'écosystème GitHub à leur sauce.",
     "isFork": false,
     "isPrivate": false,
-    "updatedAt": "2026-09-15T07:08:16Z",
+    "updatedAt": "2026-09-16T07:09:55Z",
     "url": "https://github.com/valorisa/Github-Portfolio-Taxonomy",
     "githubTopics": [
       "cli-tool",
@@ -2124,6 +2124,38 @@
       "uefi"
     ],
     "language": "Shell",
+    "stars": 1
+  },
+  {
+    "name": "nth-prime-calculator",
+    "description": "Educational Python CLI for calculating the n-th prime number with trial division. Explore prime testing, prime ranks, Termux commands, GitHub workflows, and Willans' formula for primality and the n-th prime.",
+    "isFork": false,
+    "isPrivate": false,
+    "updatedAt": "2026-09-16T08:48:18Z",
+    "url": "https://github.com/valorisa/nth-prime-calculator",
+    "githubTopics": [
+      "algorithms",
+      "android",
+      "beginner-friendly",
+      "cli",
+      "command-line",
+      "computer-science",
+      "education",
+      "git",
+      "github",
+      "linux",
+      "mathematics",
+      "nth-prime",
+      "number-theory",
+      "open-source",
+      "primality-test",
+      "prime-numbers",
+      "python",
+      "termux",
+      "tutorial",
+      "willans-formula"
+    ],
+    "language": "Python",
     "stars": 1
   },
   {

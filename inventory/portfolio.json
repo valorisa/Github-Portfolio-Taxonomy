@@ -827,7 +827,7 @@
     ],
     "isFork": false,
     "isPrivate": false,
-    "updatedAt": "2026-09-15T07:08:16Z",
+    "updatedAt": "2026-09-16T07:09:55Z",
     "url": "https://github.com/valorisa/Github-Portfolio-Taxonomy"
   },
   {
@@ -1503,6 +1503,23 @@
     "isPrivate": false,
     "updatedAt": "2026-04-17T18:18:34Z",
     "url": "https://github.com/valorisa/NixOS-TUI-Installer-Advanced"
+  },
+  {
+    "name": "nth-prime-calculator",
+    "topics": [
+      "android",
+      "automation",
+      "developer-tools",
+      "education",
+      "github",
+      "mathematics",
+      "productivity",
+      "python"
+    ],
+    "isFork": false,
+    "isPrivate": false,
+    "updatedAt": "2026-09-16T08:48:18Z",
+    "url": "https://github.com/valorisa/nth-prime-calculator"
   },
   {
     "name": "ntp-client-requester",
