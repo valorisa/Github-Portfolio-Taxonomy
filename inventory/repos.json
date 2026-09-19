@@ -633,7 +633,7 @@
       "workflow-automation"
     ],
     "language": "Python",
-    "stars": 12
+    "stars": 13
   },
   {
     "name": "Claw-Code",
@@ -1117,7 +1117,7 @@
     "description": "Outil Python de classification automatique de portfolios GitHub. Taxonomie pour catégoriser repos par domaines techniques (AI/ML, Cloud, DevOps, Frontend, Backend). Analyse descriptions, détecte keywords sur 25 domaines, produit JSON, TSV et rapports Markdown. Idéal pour les ingénieurs logiciel afin d'organiser l'écosystème GitHub à leur sauce.",
     "isFork": false,
     "isPrivate": false,
-    "updatedAt": "2026-09-17T07:07:25Z",
+    "updatedAt": "2026-09-18T07:00:05Z",
     "url": "https://github.com/valorisa/Github-Portfolio-Taxonomy",
     "githubTopics": [
       "cli-tool",
@@ -2131,7 +2131,7 @@
     "description": "Educational Python CLI for calculating the n-th prime number with trial division. Explore prime testing, prime ranks, Termux commands, GitHub workflows, and Willans' formula for primality and the n-th prime.",
     "isFork": false,
     "isPrivate": false,
-    "updatedAt": "2026-09-16T08:48:18Z",
+    "updatedAt": "2026-09-18T10:15:16Z",
     "url": "https://github.com/valorisa/nth-prime-calculator",
     "githubTopics": [
       "algorithms",
@@ -2755,7 +2755,7 @@
     "description": "Network-traversing web terminal in Go. Works anywhere a browser can reach port 443 — airports, corporate networks, anywhere. Spiritual successor to ShellInBox (port 4200). WebSocket + xterm.js, SSH client, multi-sessions, file transfer, session recording. Single binary, Docker ready.",
     "isFork": false,
     "isPrivate": false,
-    "updatedAt": "2026-09-17T13:53:38Z",
+    "updatedAt": "2026-09-18T08:33:48Z",
     "url": "https://github.com/valorisa/ShellFromBrowser",
     "githubTopics": [
       "browser",
@@ -2846,22 +2846,7 @@
     "url": "https://github.com/valorisa/socat-1.8.0.1_for_Windows",
     "githubTopics": [],
     "language": null,
-    "stars": 116
-  },
-  {
-    "name": "socat-1.8.1.1_for_Windows",
-    "description": "Latest socat [2026-02-12] usuable for Windows 10, 11 & Server editions. Socat is a command line based utility that establishes two bidirectional byte streams and transfers data between them.",
-    "isFork": false,
-    "isPrivate": false,
-    "updatedAt": "2026-02-25T10:23:09Z",
-    "url": "https://github.com/valorisa/socat-1.8.1.1_for_Windows",
-    "githubTopics": [
-      "network",
-      "socat",
-      "socat-example"
-    ],
-    "language": "Dockerfile",
-    "stars": 9
+    "stars": 117
   },
   {
     "name": "socat-cygwin-automate",
@@ -2873,6 +2858,21 @@
     "githubTopics": [],
     "language": "Batchfile",
     "stars": 1
+  },
+  {
+    "name": "Socat_for_Windows",
+    "description": "Latest socat [2026-06-26] usuable for Windows 10, 11 & Server editions. Socat is a command line based utility that establishes two bidirectional byte streams and transfers data between them.",
+    "isFork": false,
+    "isPrivate": false,
+    "updatedAt": "2026-09-18T19:11:04Z",
+    "url": "https://github.com/valorisa/Socat_for_Windows",
+    "githubTopics": [
+      "network",
+      "socat",
+      "socat-example"
+    ],
+    "language": "Dockerfile",
+    "stars": 9
   },
   {
     "name": "Spoon-Knife",

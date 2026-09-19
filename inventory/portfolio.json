@@ -827,7 +827,7 @@
     ],
     "isFork": false,
     "isPrivate": false,
-    "updatedAt": "2026-09-17T07:07:25Z",
+    "updatedAt": "2026-09-18T07:00:05Z",
     "url": "https://github.com/valorisa/Github-Portfolio-Taxonomy"
   },
   {
@@ -1518,7 +1518,7 @@
     ],
     "isFork": false,
     "isPrivate": false,
-    "updatedAt": "2026-09-16T08:48:18Z",
+    "updatedAt": "2026-09-18T10:15:16Z",
     "url": "https://github.com/valorisa/nth-prime-calculator"
   },
   {
@@ -1933,7 +1933,7 @@
     ],
     "isFork": false,
     "isPrivate": false,
-    "updatedAt": "2026-09-17T13:53:38Z",
+    "updatedAt": "2026-09-18T08:33:48Z",
     "url": "https://github.com/valorisa/ShellFromBrowser"
   },
   {
@@ -1996,17 +1996,6 @@
     "url": "https://github.com/valorisa/socat-1.8.0.1_for_Windows"
   },
   {
-    "name": "socat-1.8.1.1_for_Windows",
-    "topics": [
-      "networking",
-      "windows"
-    ],
-    "isFork": false,
-    "isPrivate": false,
-    "updatedAt": "2026-02-25T10:23:09Z",
-    "url": "https://github.com/valorisa/socat-1.8.1.1_for_Windows"
-  },
-  {
     "name": "socat-cygwin-automate",
     "topics": [
       "automation",
@@ -2017,6 +2006,17 @@
     "isPrivate": false,
     "updatedAt": "2023-12-03T16:21:12Z",
     "url": "https://github.com/valorisa/socat-cygwin-automate"
+  },
+  {
+    "name": "Socat_for_Windows",
+    "topics": [
+      "networking",
+      "windows"
+    ],
+    "isFork": false,
+    "isPrivate": false,
+    "updatedAt": "2026-09-18T19:11:04Z",
+    "url": "https://github.com/valorisa/Socat_for_Windows"
   },
   {
     "name": "Spoon-Knife",
