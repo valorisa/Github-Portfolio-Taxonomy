@@ -1117,7 +1117,7 @@
     "description": "Outil Python de classification automatique de portfolios GitHub. Taxonomie pour catégoriser repos par domaines techniques (AI/ML, Cloud, DevOps, Frontend, Backend). Analyse descriptions, détecte keywords sur 25 domaines, produit JSON, TSV et rapports Markdown. Idéal pour les ingénieurs logiciel afin d'organiser l'écosystème GitHub à leur sauce.",
     "isFork": false,
     "isPrivate": false,
-    "updatedAt": "2026-09-19T06:59:20Z",
+    "updatedAt": "2026-09-20T07:24:47Z",
     "url": "https://github.com/valorisa/Github-Portfolio-Taxonomy",
     "githubTopics": [
       "cli-tool",
@@ -2864,7 +2864,7 @@
     "description": "Latest socat [2026-06-26] usuable for Windows 10, 11 & Server editions. Socat is a command line based utility that establishes two bidirectional byte streams and transfers data between them.",
     "isFork": false,
     "isPrivate": false,
-    "updatedAt": "2026-09-18T19:11:04Z",
+    "updatedAt": "2026-09-20T16:05:33Z",
     "url": "https://github.com/valorisa/Socat_for_Windows",
     "githubTopics": [
       "network",
