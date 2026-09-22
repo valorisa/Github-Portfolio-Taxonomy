@@ -1117,7 +1117,7 @@
     "description": "Outil Python de classification automatique de portfolios GitHub. Taxonomie pour catégoriser repos par domaines techniques (AI/ML, Cloud, DevOps, Frontend, Backend). Analyse descriptions, détecte keywords sur 25 domaines, produit JSON, TSV et rapports Markdown. Idéal pour les ingénieurs logiciel afin d'organiser l'écosystème GitHub à leur sauce.",
     "isFork": false,
     "isPrivate": false,
-    "updatedAt": "2026-09-20T07:24:47Z",
+    "updatedAt": "2026-09-21T07:35:09Z",
     "url": "https://github.com/valorisa/Github-Portfolio-Taxonomy",
     "githubTopics": [
       "cli-tool",
@@ -3632,7 +3632,7 @@
     "description": "Windows Subsystem for Linux",
     "isFork": true,
     "isPrivate": false,
-    "updatedAt": "2026-09-11T14:40:25Z",
+    "updatedAt": "2026-09-21T15:24:37Z",
     "url": "https://github.com/valorisa/WSL",
     "githubTopics": [],
     "language": "C++",
