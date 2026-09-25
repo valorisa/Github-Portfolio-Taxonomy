@@ -526,6 +526,14 @@
     "url": "https://github.com/valorisa/diff_git_merge_rebase_ours_theirs"
   },
   {
+    "name": "DLink-DIR822A-CVE-Defense-Toolkit",
+    "topics": [],
+    "isFork": false,
+    "isPrivate": false,
+    "updatedAt": "2026-09-24T08:43:23Z",
+    "url": "https://github.com/valorisa/DLink-DIR822A-CVE-Defense-Toolkit"
+  },
+  {
     "name": "DNSCrypt-Proxy_with_AdGuardHome",
     "topics": [
       "macos",
@@ -827,7 +835,7 @@
     ],
     "isFork": false,
     "isPrivate": false,
-    "updatedAt": "2026-09-23T07:17:17Z",
+    "updatedAt": "2026-09-24T07:07:32Z",
     "url": "https://github.com/valorisa/Github-Portfolio-Taxonomy"
   },
   {
@@ -1244,6 +1252,14 @@
     "url": "https://github.com/valorisa/Loop-Advisor"
   },
   {
+    "name": "Loop-Engineering-Post-it",
+    "topics": [],
+    "isFork": false,
+    "isPrivate": false,
+    "updatedAt": "2026-09-24T13:58:46Z",
+    "url": "https://github.com/valorisa/Loop-Engineering-Post-it"
+  },
+  {
     "name": "Lyra-Optimiseur-Prompt",
     "topics": [
       "ai",
@@ -1427,7 +1443,7 @@
     ],
     "isFork": false,
     "isPrivate": false,
-    "updatedAt": "2026-09-17T13:28:40Z",
+    "updatedAt": "2026-09-24T09:53:22Z",
     "url": "https://github.com/valorisa/Multi-LLM-Debate-CLI"
   },
   {
@@ -2015,7 +2031,7 @@
     ],
     "isFork": false,
     "isPrivate": false,
-    "updatedAt": "2026-09-23T17:32:16Z",
+    "updatedAt": "2026-09-24T09:09:07Z",
     "url": "https://github.com/valorisa/Socat_for_Windows"
   },
   {

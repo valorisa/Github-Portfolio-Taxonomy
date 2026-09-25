@@ -1,11 +1,11 @@
 # Statistics
 
-- Total repositories: 226
+- Total repositories: 228
 - Forks: 79
 - Private: 0
 - Classified: 203
-- Unclassified: 23
-- Coverage: 89.82%
+- Unclassified: 25
+- Coverage: 89.04%
 
 ## Domain Distribution
 

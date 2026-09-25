@@ -756,6 +756,17 @@
     "stars": 1
   },
   {
+    "name": "DLink-DIR822A-CVE-Defense-Toolkit",
+    "description": "",
+    "isFork": false,
+    "isPrivate": false,
+    "updatedAt": "2026-09-24T08:43:23Z",
+    "url": "https://github.com/valorisa/DLink-DIR822A-CVE-Defense-Toolkit",
+    "githubTopics": [],
+    "language": "Python",
+    "stars": 1
+  },
+  {
     "name": "DNSCrypt-Proxy_with_AdGuardHome",
     "description": "Ce projet configure DNSCrypt-Proxy en tandem avec AdGuardHome pour sécuriser et filtrer les requêtes DNS sur macOS et Windows 11 Enterprise [cf. installation_from_Windows.md].",
     "isFork": false,
@@ -1117,7 +1128,7 @@
     "description": "Outil Python de classification automatique de portfolios GitHub. Taxonomie pour catégoriser repos par domaines techniques (AI/ML, Cloud, DevOps, Frontend, Backend). Analyse descriptions, détecte keywords sur 25 domaines, produit JSON, TSV et rapports Markdown. Idéal pour les ingénieurs logiciel afin d'organiser l'écosystème GitHub à leur sauce.",
     "isFork": false,
     "isPrivate": false,
-    "updatedAt": "2026-09-23T07:17:17Z",
+    "updatedAt": "2026-09-24T07:07:32Z",
     "url": "https://github.com/valorisa/Github-Portfolio-Taxonomy",
     "githubTopics": [
       "cli-tool",
@@ -1787,6 +1798,17 @@
     "stars": 1
   },
   {
+    "name": "Loop-Engineering-Post-it",
+    "description": "",
+    "isFork": false,
+    "isPrivate": false,
+    "updatedAt": "2026-09-24T13:58:46Z",
+    "url": "https://github.com/valorisa/Loop-Engineering-Post-it",
+    "githubTopics": [],
+    "language": null,
+    "stars": 1
+  },
+  {
     "name": "Lyra-Optimiseur-Prompt",
     "description": "Méta-prompt français pour transformer des demandes vagues en prompts précis, structurés et réutilisables.",
     "isFork": false,
@@ -2012,7 +2034,7 @@
     "description": "CLI Python qui fait débattre plusieurs LLM (GLM, DeepSeek, Qwen) via un protocole en 5 phases : cadrage silencieux, positions indépendantes, lecture croisée, révision, jugement final. Stress-teste un plan ou une architecture avant de s'engager.",
     "isFork": false,
     "isPrivate": false,
-    "updatedAt": "2026-09-17T13:28:40Z",
+    "updatedAt": "2026-09-24T09:53:22Z",
     "url": "https://github.com/valorisa/Multi-LLM-Debate-CLI",
     "githubTopics": [],
     "language": "Python",
@@ -2864,7 +2886,7 @@
     "description": "Latest socat [2026-06-26] usuable for Windows 10, 11 & Server editions. Socat is a command line based utility that establishes two bidirectional byte streams and transfers data between them.",
     "isFork": false,
     "isPrivate": false,
-    "updatedAt": "2026-09-23T17:32:16Z",
+    "updatedAt": "2026-09-24T09:09:07Z",
     "url": "https://github.com/valorisa/Socat_for_Windows",
     "githubTopics": [
       "network",

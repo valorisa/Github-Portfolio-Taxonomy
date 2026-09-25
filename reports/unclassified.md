@@ -1,8 +1,10 @@
 # Unclassified repositories
 
 - 2fas-browser-extension
+- DLink-DIR822A-CVE-Defense-Toolkit
 - Function-Growth-Hierarchy
 - JobFlow_Automator
+- Loop-Engineering-Post-it
 - MobaXterm-Keygen
 - MobaXterm-Keygen-Alt
 - Peter_tests_Proof_of_Concept

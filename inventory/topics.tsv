@@ -44,6 +44,7 @@ DavidAnson-markdownlint	documentation
 debian-migration-bookworm-to-trixie	documentation,linux
 DensitePrimes	android,devops,mathematics,python
 diff_git_merge_rebase_ours_theirs	documentation,github
+DLink-DIR822A-CVE-Defense-Toolkit	
 DNSCrypt-Proxy_with_AdGuardHome	macos,networking,windows
 docker-webtop	devops,linux,virtualization,web
 DockerCertCheck	devops,macos,virtualization
@@ -103,6 +104,7 @@ LeCert	ai,developer-tools,devops,github,security
 LLM-Cost-Safety-Guide	ai,documentation
 LLM-Council-Skill	ai,devops,documentation,python,web
 Loop-Advisor	developer-tools,github,python
+Loop-Engineering-Post-it	
 Lyra-Optimiseur-Prompt	ai,devops
 macOS-Nano-Compile	documentation,macos
 markdown-it	documentation
