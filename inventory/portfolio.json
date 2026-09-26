@@ -527,7 +527,9 @@
   },
   {
     "name": "DLink-DIR822A-CVE-Defense-Toolkit",
-    "topics": [],
+    "topics": [
+      "devops"
+    ],
     "isFork": false,
     "isPrivate": false,
     "updatedAt": "2026-09-24T08:43:23Z",
@@ -835,7 +837,7 @@
     ],
     "isFork": false,
     "isPrivate": false,
-    "updatedAt": "2026-09-24T07:07:32Z",
+    "updatedAt": "2026-09-25T07:04:48Z",
     "url": "https://github.com/valorisa/Github-Portfolio-Taxonomy"
   },
   {
@@ -1253,7 +1255,10 @@
   },
   {
     "name": "Loop-Engineering-Post-it",
-    "topics": [],
+    "topics": [
+      "ai",
+      "documentation"
+    ],
     "isFork": false,
     "isPrivate": false,
     "updatedAt": "2026-09-24T13:58:46Z",
@@ -2526,7 +2531,7 @@
     ],
     "isFork": true,
     "isPrivate": false,
-    "updatedAt": "2026-09-21T15:24:37Z",
+    "updatedAt": "2026-09-25T21:46:19Z",
     "url": "https://github.com/valorisa/WSL"
   },
   {
