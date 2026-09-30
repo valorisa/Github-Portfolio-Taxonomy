@@ -991,7 +991,7 @@
       "windows"
     ],
     "language": "Dockerfile",
-    "stars": 9
+    "stars": 10
   },
   {
     "name": "FreeLLMAPI",
@@ -1149,7 +1149,7 @@
     "description": "Outil Python de classification automatique de portfolios GitHub. Taxonomie pour catégoriser repos par domaines techniques (AI/ML, Cloud, DevOps, Frontend, Backend). Analyse descriptions, détecte keywords sur 25 domaines, produit JSON, TSV et rapports Markdown. Idéal pour les ingénieurs logiciel afin d'organiser l'écosystème GitHub à leur sauce.",
     "isFork": false,
     "isPrivate": false,
-    "updatedAt": "2026-09-28T08:10:16Z",
+    "updatedAt": "2026-09-29T07:50:33Z",
     "url": "https://github.com/valorisa/Github-Portfolio-Taxonomy",
     "githubTopics": [
       "cli-tool",
@@ -2910,7 +2910,7 @@
     "url": "https://github.com/valorisa/socat-1.8.0.1_for_Windows",
     "githubTopics": [],
     "language": null,
-    "stars": 118
+    "stars": 119
   },
   {
     "name": "socat-cygwin-automate",
