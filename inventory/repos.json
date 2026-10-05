@@ -183,6 +183,38 @@
     "stars": 1
   },
   {
+    "name": "AI-Frontier-Watcher",
+    "description": "Veille documentaro-informationnelle sur les modèles d’IA de pointe : disponibilité, évolutions, accès, API, plateformes et concurrents, avec un suivi renforcé de GPT-6 Astra.",
+    "isFork": false,
+    "isPrivate": false,
+    "updatedAt": "2026-10-04T21:28:20Z",
+    "url": "https://github.com/valorisa/AI-Frontier-Watcher",
+    "githubTopics": [
+      "ai",
+      "ai-benchmarks",
+      "ai-models",
+      "ai-news",
+      "ai-research",
+      "anthropic",
+      "artificial-intelligence",
+      "frontier-models",
+      "generative-ai",
+      "google-gemini",
+      "gpt-6",
+      "gpt-6-astra",
+      "large-language-models",
+      "llm",
+      "model-availability",
+      "model-benchmarks",
+      "model-monitoring",
+      "openai",
+      "openrouter",
+      "xai"
+    ],
+    "language": "Python",
+    "stars": 1
+  },
+  {
     "name": "alass",
     "description": "\"Automatic Language-Agnostic Subtitle Synchronization\"",
     "isFork": true,
@@ -1149,7 +1181,7 @@
     "description": "Outil Python de classification automatique de portfolios GitHub. Taxonomie pour catégoriser repos par domaines techniques (AI/ML, Cloud, DevOps, Frontend, Backend). Analyse descriptions, détecte keywords sur 25 domaines, produit JSON, TSV et rapports Markdown. Idéal pour les ingénieurs logiciel afin d'organiser l'écosystème GitHub à leur sauce.",
     "isFork": false,
     "isPrivate": false,
-    "updatedAt": "2026-10-03T07:32:18Z",
+    "updatedAt": "2026-10-04T07:43:34Z",
     "url": "https://github.com/valorisa/Github-Portfolio-Taxonomy",
     "githubTopics": [
       "cli-tool",
@@ -2577,7 +2609,7 @@
       "yaml-templates"
     ],
     "language": "PowerShell",
-    "stars": 1
+    "stars": 2
   },
   {
     "name": "Prompt-Grill-Framework",
@@ -2910,7 +2942,7 @@
     "url": "https://github.com/valorisa/socat-1.8.0.1_for_Windows",
     "githubTopics": [],
     "language": null,
-    "stars": 119
+    "stars": 118
   },
   {
     "name": "socat-cygwin-automate",
@@ -3743,7 +3775,7 @@
       "wsl2"
     ],
     "language": "Python",
-    "stars": 1
+    "stars": 2
   },
   {
     "name": "WSL2-Linux-Kernel",
