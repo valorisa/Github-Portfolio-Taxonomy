@@ -94,7 +94,7 @@
       "zero-placeholder"
     ],
     "language": "PowerShell",
-    "stars": 1
+    "stars": 2
   },
   {
     "name": "Aerofoil-Propeller-Calculator",
@@ -212,7 +212,7 @@
       "xai"
     ],
     "language": "Python",
-    "stars": 1
+    "stars": 2
   },
   {
     "name": "alass",
@@ -223,7 +223,7 @@
     "url": "https://github.com/valorisa/alass",
     "githubTopics": [],
     "language": null,
-    "stars": 1
+    "stars": 2
   },
   {
     "name": "alpine-linux-on-termux",
@@ -299,7 +299,7 @@
     "url": "https://github.com/valorisa/Anthropic-Cybersecurity-Skills",
     "githubTopics": [],
     "language": "Python",
-    "stars": 1
+    "stars": 2
   },
   {
     "name": "ArchLinux-Omarchy-WSL-Script",
@@ -442,7 +442,7 @@
       "streaming"
     ],
     "language": "Shell",
-    "stars": 1
+    "stars": 2
   },
   {
     "name": "Base64-Credentials",
@@ -524,7 +524,7 @@
       "security"
     ],
     "language": null,
-    "stars": 1
+    "stars": 2
   },
   {
     "name": "brew",
@@ -1181,7 +1181,7 @@
     "description": "Outil Python de classification automatique de portfolios GitHub. Taxonomie pour catégoriser repos par domaines techniques (AI/ML, Cloud, DevOps, Frontend, Backend). Analyse descriptions, détecte keywords sur 25 domaines, produit JSON, TSV et rapports Markdown. Idéal pour les ingénieurs logiciel afin d'organiser l'écosystème GitHub à leur sauce.",
     "isFork": false,
     "isPrivate": false,
-    "updatedAt": "2026-10-06T08:30:53Z",
+    "updatedAt": "2026-10-07T08:06:34Z",
     "url": "https://github.com/valorisa/Github-Portfolio-Taxonomy",
     "githubTopics": [
       "cli-tool",
@@ -1789,7 +1789,7 @@
       "tokens"
     ],
     "language": null,
-    "stars": 1
+    "stars": 2
   },
   {
     "name": "LLM-Council-Skill",
@@ -1880,7 +1880,7 @@
       "self-critique"
     ],
     "language": "Python",
-    "stars": 1
+    "stars": 2
   },
   {
     "name": "Lyra-Optimiseur-Prompt",
@@ -2715,7 +2715,7 @@
       "wordlist"
     ],
     "language": "Python",
-    "stars": 1
+    "stars": 2
   },
   {
     "name": "pytubefix",
@@ -3318,7 +3318,7 @@
     "url": "https://github.com/valorisa/tmux-builds",
     "githubTopics": [],
     "language": null,
-    "stars": 1
+    "stars": 2
   },
   {
     "name": "transfer.sh",
