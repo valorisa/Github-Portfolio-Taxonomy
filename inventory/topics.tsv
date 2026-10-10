@@ -161,6 +161,7 @@ pwgen_secure	ai,android,linux,macos,python
 pytubefix	audio,python
 Quickshell-Hyprland	ai,developer-tools,linux
 retro-home-pbx	
+Reverse-Engineer-Anything	ai,developer-tools,devops,documentation
 RHEL-Ultra-Hardening-Motion	linux,security
 RHEL-Ultra-Hardening-Proof-of-Concept	devops,linux,research,security
 Roosource	android,devops
