@@ -113,7 +113,9 @@ markdown-it	documentation
 markdown-link-check	documentation
 markdownlint	documentation
 markdownlint-cli	developer-tools,documentation
+math	mathematics
 MathClockRealTime	mathematics
+Mathematic-Clock	mathematics
 mathjax-formula-svg	android,mathematics
 MDI-Air-Cat	ai,research
 Microsoft-Activation-Scripts	windows
