@@ -1023,7 +1023,7 @@
     "url": "https://github.com/valorisa/Free-Claude-Code",
     "githubTopics": [],
     "language": null,
-    "stars": 1
+    "stars": 2
   },
   {
     "name": "Free-Claude-Code-Guide",
@@ -1213,7 +1213,7 @@
     "description": "Outil Python de classification automatique de portfolios GitHub. Taxonomie pour catégoriser repos par domaines techniques (AI/ML, Cloud, DevOps, Frontend, Backend). Analyse descriptions, détecte keywords sur 25 domaines, produit JSON, TSV et rapports Markdown. Idéal pour les ingénieurs logiciel afin d'organiser l'écosystème GitHub à leur sauce.",
     "isFork": false,
     "isPrivate": false,
-    "updatedAt": "2026-10-11T08:14:41Z",
+    "updatedAt": "2026-10-12T08:32:33Z",
     "url": "https://github.com/valorisa/Github-Portfolio-Taxonomy",
     "githubTopics": [
       "cli-tool",
@@ -2863,7 +2863,7 @@
       "tutorial"
     ],
     "language": null,
-    "stars": 5
+    "stars": 8
   },
   {
     "name": "RHEL-Ultra-Hardening-Motion",
