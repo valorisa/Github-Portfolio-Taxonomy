@@ -201,6 +201,14 @@
     "url": "https://github.com/valorisa/ArcPass-MS02"
   },
   {
+    "name": "Arctan-Sin-Integral",
+    "topics": [],
+    "isFork": false,
+    "isPrivate": false,
+    "updatedAt": "2026-10-14T22:48:14Z",
+    "url": "https://github.com/valorisa/Arctan-Sin-Integral"
+  },
+  {
     "name": "aria2",
     "topics": [],
     "isFork": true,
@@ -859,7 +867,7 @@
     ],
     "isFork": false,
     "isPrivate": false,
-    "updatedAt": "2026-10-13T08:54:07Z",
+    "updatedAt": "2026-10-14T07:04:02Z",
     "url": "https://github.com/valorisa/Github-Portfolio-Taxonomy"
   },
   {
@@ -1752,7 +1760,7 @@
     ],
     "isFork": false,
     "isPrivate": false,
-    "updatedAt": "2026-07-30T20:43:18Z",
+    "updatedAt": "2026-10-14T22:16:58Z",
     "url": "https://github.com/valorisa/Password-Generator-Advanced"
   },
   {

@@ -1,6 +1,7 @@
 # Unclassified repositories
 
 - 2fas-browser-extension
+- Arctan-Sin-Integral
 - Function-Growth-Hierarchy
 - JobFlow_Automator
 - MobaXterm-Keygen
