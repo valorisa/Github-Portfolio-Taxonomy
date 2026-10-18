@@ -1224,7 +1224,7 @@
     "description": "Outil Python de classification automatique de portfolios GitHub. Taxonomie pour catégoriser repos par domaines techniques (AI/ML, Cloud, DevOps, Frontend, Backend). Analyse descriptions, détecte keywords sur 25 domaines, produit JSON, TSV et rapports Markdown. Idéal pour les ingénieurs logiciel afin d'organiser l'écosystème GitHub à leur sauce.",
     "isFork": false,
     "isPrivate": false,
-    "updatedAt": "2026-10-16T06:41:39Z",
+    "updatedAt": "2026-10-17T06:30:34Z",
     "url": "https://github.com/valorisa/Github-Portfolio-Taxonomy",
     "githubTopics": [
       "cli-tool",
@@ -2874,7 +2874,7 @@
       "tutorial"
     ],
     "language": null,
-    "stars": 30
+    "stars": 33
   },
   {
     "name": "RHEL-Ultra-Hardening-Motion",
@@ -3161,7 +3161,7 @@
       "stress-testing"
     ],
     "language": "Python",
-    "stars": 1
+    "stars": 2
   },
   {
     "name": "Super-Bidirectional-md-qd-Bridge",
@@ -3520,7 +3520,7 @@
       "yamaha-alternative"
     ],
     "language": "Python",
-    "stars": 1
+    "stars": 2
   },
   {
     "name": "Ultimate-Windows-Optimization-Guide",
@@ -3807,7 +3807,7 @@
       "windows-7"
     ],
     "language": "PowerShell",
-    "stars": 1
+    "stars": 2
   },
   {
     "name": "WinEnv-Path-Clean-Guard",
