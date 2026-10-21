@@ -1224,7 +1224,7 @@
     "description": "Outil Python de classification automatique de portfolios GitHub. Taxonomie pour catégoriser repos par domaines techniques (AI/ML, Cloud, DevOps, Frontend, Backend). Analyse descriptions, détecte keywords sur 25 domaines, produit JSON, TSV et rapports Markdown. Idéal pour les ingénieurs logiciel afin d'organiser l'écosystème GitHub à leur sauce.",
     "isFork": false,
     "isPrivate": false,
-    "updatedAt": "2026-10-19T07:15:52Z",
+    "updatedAt": "2026-10-20T07:06:26Z",
     "url": "https://github.com/valorisa/Github-Portfolio-Taxonomy",
     "githubTopics": [
       "cli-tool",
@@ -2834,6 +2834,17 @@
     "stars": 1
   },
   {
+    "name": "rea",
+    "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+    "isFork": true,
+    "isPrivate": false,
+    "updatedAt": "2026-10-20T16:10:31Z",
+    "url": "https://github.com/valorisa/rea",
+    "githubTopics": [],
+    "language": null,
+    "stars": 1
+  },
+  {
     "name": "retro-home-pbx",
     "description": "PBX domestique rétro basé sur 3CX, compatible téléphones analogiques/SIP, intégration domotique Home Assistant et IA, installation pas à pas pour auto-hébergement.",
     "isFork": false,
@@ -2874,7 +2885,7 @@
       "tutorial"
     ],
     "language": null,
-    "stars": 34
+    "stars": 35
   },
   {
     "name": "RHEL-Ultra-Hardening-Motion",

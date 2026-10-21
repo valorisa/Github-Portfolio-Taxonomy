@@ -867,7 +867,7 @@
     ],
     "isFork": false,
     "isPrivate": false,
-    "updatedAt": "2026-10-19T07:15:52Z",
+    "updatedAt": "2026-10-20T07:06:26Z",
     "url": "https://github.com/valorisa/Github-Portfolio-Taxonomy"
   },
   {
@@ -1925,6 +1925,14 @@
     "isPrivate": false,
     "updatedAt": "2026-07-17T17:11:22Z",
     "url": "https://github.com/valorisa/Quickshell-Hyprland"
+  },
+  {
+    "name": "rea",
+    "topics": [],
+    "isFork": true,
+    "isPrivate": false,
+    "updatedAt": "2026-10-20T16:10:31Z",
+    "url": "https://github.com/valorisa/rea"
   },
   {
     "name": "retro-home-pbx",

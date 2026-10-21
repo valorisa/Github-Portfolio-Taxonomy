@@ -18,6 +18,7 @@
 - nanorc
 - nbfc
 - open-r1
+- rea
 - retro-home-pbx
 - skeeter-deleter
 - skills
