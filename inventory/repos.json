@@ -676,7 +676,7 @@
       "workflow-automation"
     ],
     "language": "Python",
-    "stars": 16
+    "stars": 17
   },
   {
     "name": "Claw-Code",
@@ -1224,7 +1224,7 @@
     "description": "Outil Python de classification automatique de portfolios GitHub. Taxonomie pour catégoriser repos par domaines techniques (AI/ML, Cloud, DevOps, Frontend, Backend). Analyse descriptions, détecte keywords sur 25 domaines, produit JSON, TSV et rapports Markdown. Idéal pour les ingénieurs logiciel afin d'organiser l'écosystème GitHub à leur sauce.",
     "isFork": false,
     "isPrivate": false,
-    "updatedAt": "2026-10-20T07:06:26Z",
+    "updatedAt": "2026-10-21T06:59:53Z",
     "url": "https://github.com/valorisa/Github-Portfolio-Taxonomy",
     "githubTopics": [
       "cli-tool",
@@ -2885,7 +2885,7 @@
       "tutorial"
     ],
     "language": null,
-    "stars": 35
+    "stars": 36
   },
   {
     "name": "RHEL-Ultra-Hardening-Motion",
