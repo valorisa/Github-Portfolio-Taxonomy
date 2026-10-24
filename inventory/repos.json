@@ -1066,7 +1066,7 @@
       "windows"
     ],
     "language": "Dockerfile",
-    "stars": 10
+    "stars": 11
   },
   {
     "name": "FreeLLMAPI",
@@ -1224,7 +1224,7 @@
     "description": "Outil Python de classification automatique de portfolios GitHub. Taxonomie pour catégoriser repos par domaines techniques (AI/ML, Cloud, DevOps, Frontend, Backend). Analyse descriptions, détecte keywords sur 25 domaines, produit JSON, TSV et rapports Markdown. Idéal pour les ingénieurs logiciel afin d'organiser l'écosystème GitHub à leur sauce.",
     "isFork": false,
     "isPrivate": false,
-    "updatedAt": "2026-10-22T07:01:53Z",
+    "updatedAt": "2026-10-23T06:54:06Z",
     "url": "https://github.com/valorisa/Github-Portfolio-Taxonomy",
     "githubTopics": [
       "cli-tool",
@@ -2842,7 +2842,7 @@
     "url": "https://github.com/valorisa/rea",
     "githubTopics": [],
     "language": "TypeScript",
-    "stars": 1
+    "stars": 2
   },
   {
     "name": "retro-home-pbx",
@@ -2885,7 +2885,7 @@
       "tutorial"
     ],
     "language": null,
-    "stars": 36
+    "stars": 35
   },
   {
     "name": "RHEL-Ultra-Hardening-Motion",
