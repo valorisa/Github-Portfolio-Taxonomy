@@ -205,7 +205,7 @@
     "topics": [],
     "isFork": false,
     "isPrivate": false,
-    "updatedAt": "2026-10-19T12:25:32Z",
+    "updatedAt": "2026-10-24T08:57:19Z",
     "url": "https://github.com/valorisa/Arctan-Sin-Integral"
   },
   {
@@ -617,6 +617,19 @@
     "url": "https://github.com/valorisa/Docker_DNSCrypt"
   },
   {
+    "name": "doip-uds-lab",
+    "topics": [
+      "developer-tools",
+      "python",
+      "research",
+      "security"
+    ],
+    "isFork": false,
+    "isPrivate": false,
+    "updatedAt": "2026-10-24T17:41:23Z",
+    "url": "https://github.com/valorisa/doip-uds-lab"
+  },
+  {
     "name": "Dual-Path-Deepseek",
     "topics": [
       "ai"
@@ -867,7 +880,7 @@
     ],
     "isFork": false,
     "isPrivate": false,
-    "updatedAt": "2026-10-23T06:54:06Z",
+    "updatedAt": "2026-10-24T06:50:35Z",
     "url": "https://github.com/valorisa/Github-Portfolio-Taxonomy"
   },
   {
@@ -2011,6 +2024,14 @@
     "isPrivate": false,
     "updatedAt": "2026-05-18T21:31:32Z",
     "url": "https://github.com/valorisa/Script_Update_VirtualBox_for_macOS"
+  },
+  {
+    "name": "serenity",
+    "topics": [],
+    "isFork": true,
+    "isPrivate": false,
+    "updatedAt": "2026-10-24T22:07:54Z",
+    "url": "https://github.com/valorisa/serenity"
   },
   {
     "name": "ShellFromBrowser",

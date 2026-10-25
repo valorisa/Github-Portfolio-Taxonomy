@@ -52,6 +52,7 @@ docker-webtop	devops,linux,virtualization,web
 DockerCertCheck	devops,macos,virtualization
 Docker_Chef	ai,devops,virtualization
 Docker_DNSCrypt	ai,devops,networking,security,virtualization
+doip-uds-lab	developer-tools,python,research,security
 Dual-Path-Deepseek	ai
 Dystopia	devops
 ente	audio,cloud
@@ -171,6 +172,7 @@ RHEL-Ultra-Hardening-Proof-of-Concept	devops,linux,research,security
 Roosource	android,devops
 RSAKeyAnalyzer	cryptography
 Script_Update_VirtualBox_for_macOS	developer-tools,macos,virtualization
+serenity	
 ShellFromBrowser	ai,developer-tools,devops,networking,security,virtualization,web
 shields	devops
 simple-web-server	developer-tools,web

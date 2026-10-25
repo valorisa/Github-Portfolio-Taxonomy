@@ -338,7 +338,7 @@
     "description": "Calcul de ∫₀^(π/2) arctan(sin θ)/√(sin θ) dθ = (√(2π)/32)·Γ(1/4)² par symétrie, fonctions bêta et gamma.",
     "isFork": false,
     "isPrivate": false,
-    "updatedAt": "2026-10-19T12:25:32Z",
+    "updatedAt": "2026-10-24T08:57:19Z",
     "url": "https://github.com/valorisa/Arctan-Sin-Integral",
     "githubTopics": [],
     "language": "HTML",
@@ -886,6 +886,17 @@
     "stars": 1
   },
   {
+    "name": "doip-uds-lab",
+    "description": "Asynchronous Python laboratory for automotive UDS (ISO 14229) over DoIP (ISO 13400-2): DoIP client, mock gateway/ECU simulator, DTC and NRC analysis, SecurityAccess and Authentication experiments.",
+    "isFork": false,
+    "isPrivate": false,
+    "updatedAt": "2026-10-24T17:41:23Z",
+    "url": "https://github.com/valorisa/doip-uds-lab",
+    "githubTopics": [],
+    "language": "Python",
+    "stars": 1
+  },
+  {
     "name": "Dual-Path-Deepseek",
     "description": "Analyse approfondie de Dual Path (DeepSeek) : architecture double chemin pour charger le cache KV depuis le stockage, mutualisation de la bande passante, +100% de débit d'inférence et -56% sur le premier token sans GPU supplémentaire. Fiche de lecture, mindmap textuelle et Q/R détaillées sur l'optimisation agentique.",
     "isFork": false,
@@ -1224,7 +1235,7 @@
     "description": "Outil Python de classification automatique de portfolios GitHub. Taxonomie pour catégoriser repos par domaines techniques (AI/ML, Cloud, DevOps, Frontend, Backend). Analyse descriptions, détecte keywords sur 25 domaines, produit JSON, TSV et rapports Markdown. Idéal pour les ingénieurs logiciel afin d'organiser l'écosystème GitHub à leur sauce.",
     "isFork": false,
     "isPrivate": false,
-    "updatedAt": "2026-10-23T06:54:06Z",
+    "updatedAt": "2026-10-24T06:50:35Z",
     "url": "https://github.com/valorisa/Github-Portfolio-Taxonomy",
     "githubTopics": [
       "cli-tool",
@@ -2972,6 +2983,17 @@
       "zsh"
     ],
     "language": "Shell",
+    "stars": 1
+  },
+  {
+    "name": "serenity",
+    "description": "The Serenity Operating System 🐞",
+    "isFork": true,
+    "isPrivate": false,
+    "updatedAt": "2026-10-24T22:07:54Z",
+    "url": "https://github.com/valorisa/serenity",
+    "githubTopics": [],
+    "language": null,
     "stars": 1
   },
   {

@@ -20,6 +20,7 @@
 - open-r1
 - rea
 - retro-home-pbx
+- serenity
 - skeeter-deleter
 - skills
 - sxwm
