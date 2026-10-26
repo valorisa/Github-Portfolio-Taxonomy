@@ -52,7 +52,7 @@ docker-webtop	devops,linux,virtualization,web
 DockerCertCheck	devops,macos,virtualization
 Docker_Chef	ai,devops,virtualization
 Docker_DNSCrypt	ai,devops,networking,security,virtualization
-doip-uds-lab	developer-tools,python,research,security
+DoIP-UDS-Lab	developer-tools,python,research,security
 Dual-Path-Deepseek	ai
 Dystopia	devops
 ente	audio,cloud
@@ -213,6 +213,7 @@ valorisa	github
 vega-macos-env-bootstrap	macos
 Video-Surveillance-Signage-Generator	ai,audio,automation,privacy
 VMware-Workstation-Pro-17-Licence-Keys	virtualization
+Vocal-Remix-Pipeline	audio,automation,devops,python,windows
 vscode	developer-tools
 vscode-error-lens	developer-tools
 vscode-markdownlint	developer-tools,documentation

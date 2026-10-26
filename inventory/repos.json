@@ -187,7 +187,7 @@
     "description": "Veille documentaro-informationnelle sur les modèles d’IA de pointe : disponibilité, évolutions, accès, API, plateformes et concurrents, avec un suivi renforcé de GPT-6 Astra.",
     "isFork": false,
     "isPrivate": false,
-    "updatedAt": "2026-10-18T12:21:37Z",
+    "updatedAt": "2026-10-25T13:51:05Z",
     "url": "https://github.com/valorisa/AI-Frontier-Watcher",
     "githubTopics": [
       "ai",
@@ -886,12 +886,12 @@
     "stars": 1
   },
   {
-    "name": "doip-uds-lab",
+    "name": "DoIP-UDS-Lab",
     "description": "Asynchronous Python laboratory for automotive UDS (ISO 14229) over DoIP (ISO 13400-2): DoIP client, mock gateway/ECU simulator, DTC and NRC analysis, SecurityAccess and Authentication experiments.",
     "isFork": false,
     "isPrivate": false,
-    "updatedAt": "2026-10-24T17:41:23Z",
-    "url": "https://github.com/valorisa/doip-uds-lab",
+    "updatedAt": "2026-10-25T13:54:31Z",
+    "url": "https://github.com/valorisa/DoIP-UDS-Lab",
     "githubTopics": [],
     "language": "Python",
     "stars": 1
@@ -1235,7 +1235,7 @@
     "description": "Outil Python de classification automatique de portfolios GitHub. Taxonomie pour catégoriser repos par domaines techniques (AI/ML, Cloud, DevOps, Frontend, Backend). Analyse descriptions, détecte keywords sur 25 domaines, produit JSON, TSV et rapports Markdown. Idéal pour les ingénieurs logiciel afin d'organiser l'écosystème GitHub à leur sauce.",
     "isFork": false,
     "isPrivate": false,
-    "updatedAt": "2026-10-24T06:50:35Z",
+    "updatedAt": "2026-10-25T07:14:18Z",
     "url": "https://github.com/valorisa/Github-Portfolio-Taxonomy",
     "githubTopics": [
       "cli-tool",
@@ -2028,10 +2028,10 @@
     "description": "",
     "isFork": true,
     "isPrivate": false,
-    "updatedAt": "2026-10-08T05:20:00Z",
+    "updatedAt": "2026-10-25T16:39:20Z",
     "url": "https://github.com/valorisa/math",
     "githubTopics": [],
-    "language": null,
+    "language": "Lean",
     "stars": 0
   },
   {
@@ -2849,7 +2849,7 @@
     "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
     "isFork": true,
     "isPrivate": false,
-    "updatedAt": "2026-10-22T14:37:30Z",
+    "updatedAt": "2026-10-25T15:05:06Z",
     "url": "https://github.com/valorisa/rea",
     "githubTopics": [],
     "language": "TypeScript",
@@ -3001,7 +3001,7 @@
     "description": "Network-traversing web terminal in Go. Works anywhere a browser can reach port 443 — airports, corporate networks, anywhere. Spiritual successor to ShellInBox (port 4200). WebSocket + xterm.js, SSH client, multi-sessions, file transfer, session recording. Single binary, Docker ready.",
     "isFork": false,
     "isPrivate": false,
-    "updatedAt": "2026-10-15T22:05:12Z",
+    "updatedAt": "2026-10-25T20:57:16Z",
     "url": "https://github.com/valorisa/ShellFromBrowser",
     "githubTopics": [
       "browser",
@@ -3675,6 +3675,26 @@
     "updatedAt": "2024-08-10T05:08:46Z",
     "url": "https://github.com/valorisa/VMware-Workstation-Pro-17-Licence-Keys",
     "githubTopics": [],
+    "language": null,
+    "stars": 1
+  },
+  {
+    "name": "Vocal-Remix-Pipeline",
+    "description": "Local Windows pipeline to extract audio, separate vocals with Demucs and remix in Audacity.",
+    "isFork": false,
+    "isPrivate": false,
+    "updatedAt": "2026-10-25T12:34:02Z",
+    "url": "https://github.com/valorisa/Vocal-Remix-Pipeline",
+    "githubTopics": [
+      "audacity",
+      "audio-separation",
+      "demucs",
+      "ffmpeg",
+      "powershell",
+      "remix",
+      "windows",
+      "yt-dlp"
+    ],
     "language": null,
     "stars": 1
   },

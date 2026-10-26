@@ -105,7 +105,7 @@
     ],
     "isFork": false,
     "isPrivate": false,
-    "updatedAt": "2026-10-18T12:21:37Z",
+    "updatedAt": "2026-10-25T13:51:05Z",
     "url": "https://github.com/valorisa/AI-Frontier-Watcher"
   },
   {
@@ -617,7 +617,7 @@
     "url": "https://github.com/valorisa/Docker_DNSCrypt"
   },
   {
-    "name": "doip-uds-lab",
+    "name": "DoIP-UDS-Lab",
     "topics": [
       "developer-tools",
       "python",
@@ -626,8 +626,8 @@
     ],
     "isFork": false,
     "isPrivate": false,
-    "updatedAt": "2026-10-24T17:41:23Z",
-    "url": "https://github.com/valorisa/doip-uds-lab"
+    "updatedAt": "2026-10-25T13:54:31Z",
+    "url": "https://github.com/valorisa/DoIP-UDS-Lab"
   },
   {
     "name": "Dual-Path-Deepseek",
@@ -880,7 +880,7 @@
     ],
     "isFork": false,
     "isPrivate": false,
-    "updatedAt": "2026-10-24T06:50:35Z",
+    "updatedAt": "2026-10-25T07:14:18Z",
     "url": "https://github.com/valorisa/Github-Portfolio-Taxonomy"
   },
   {
@@ -1377,7 +1377,7 @@
     ],
     "isFork": true,
     "isPrivate": false,
-    "updatedAt": "2026-10-08T05:20:00Z",
+    "updatedAt": "2026-10-25T16:39:20Z",
     "url": "https://github.com/valorisa/math"
   },
   {
@@ -1944,7 +1944,7 @@
     "topics": [],
     "isFork": true,
     "isPrivate": false,
-    "updatedAt": "2026-10-22T14:37:30Z",
+    "updatedAt": "2026-10-25T15:05:06Z",
     "url": "https://github.com/valorisa/rea"
   },
   {
@@ -2046,7 +2046,7 @@
     ],
     "isFork": false,
     "isPrivate": false,
-    "updatedAt": "2026-10-15T22:05:12Z",
+    "updatedAt": "2026-10-25T20:57:16Z",
     "url": "https://github.com/valorisa/ShellFromBrowser"
   },
   {
@@ -2466,6 +2466,20 @@
     "isPrivate": false,
     "updatedAt": "2024-08-10T05:08:46Z",
     "url": "https://github.com/valorisa/VMware-Workstation-Pro-17-Licence-Keys"
+  },
+  {
+    "name": "Vocal-Remix-Pipeline",
+    "topics": [
+      "audio",
+      "automation",
+      "devops",
+      "python",
+      "windows"
+    ],
+    "isFork": false,
+    "isPrivate": false,
+    "updatedAt": "2026-10-25T12:34:02Z",
+    "url": "https://github.com/valorisa/Vocal-Remix-Pipeline"
   },
   {
     "name": "vscode",
