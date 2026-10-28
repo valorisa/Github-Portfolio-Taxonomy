@@ -338,7 +338,7 @@
     "description": "Calcul de ∫₀^(π/2) arctan(sin θ)/√(sin θ) dθ = (√(2π)/32)·Γ(1/4)² par symétrie, fonctions bêta et gamma.",
     "isFork": false,
     "isPrivate": false,
-    "updatedAt": "2026-10-24T08:57:19Z",
+    "updatedAt": "2026-10-27T15:54:13Z",
     "url": "https://github.com/valorisa/Arctan-Sin-Integral",
     "githubTopics": [],
     "language": "HTML",
@@ -1235,7 +1235,7 @@
     "description": "Outil Python de classification automatique de portfolios GitHub. Taxonomie pour catégoriser repos par domaines techniques (AI/ML, Cloud, DevOps, Frontend, Backend). Analyse descriptions, détecte keywords sur 25 domaines, produit JSON, TSV et rapports Markdown. Idéal pour les ingénieurs logiciel afin d'organiser l'écosystème GitHub à leur sauce.",
     "isFork": false,
     "isPrivate": false,
-    "updatedAt": "2026-10-26T07:22:29Z",
+    "updatedAt": "2026-10-27T07:14:41Z",
     "url": "https://github.com/valorisa/Github-Portfolio-Taxonomy",
     "githubTopics": [
       "cli-tool",
@@ -2896,7 +2896,7 @@
       "tutorial"
     ],
     "language": null,
-    "stars": 35
+    "stars": 36
   },
   {
     "name": "RHEL-Ultra-Hardening-Motion",
