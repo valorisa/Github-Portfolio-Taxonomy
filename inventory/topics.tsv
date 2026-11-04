@@ -127,6 +127,7 @@ mkvtoolnix-macos-build	audio,macos
 mlx-dist-setup	python
 MobaXterm-Keygen	
 MobaXterm-Keygen-Alt	
+Morse	python
 mpv	audio
 MPV-Station-Clean	audio,devops,windows
 Multi-LLM-Debate-CLI	ai,developer-tools,devops,python

@@ -891,7 +891,7 @@
     ],
     "isFork": false,
     "isPrivate": false,
-    "updatedAt": "2026-11-02T08:49:21Z",
+    "updatedAt": "2026-11-03T08:58:05Z",
     "url": "https://github.com/valorisa/Github-Portfolio-Taxonomy"
   },
   {
@@ -1267,7 +1267,7 @@
     ],
     "isFork": false,
     "isPrivate": false,
-    "updatedAt": "2026-08-06T00:04:57Z",
+    "updatedAt": "2026-11-03T15:37:43Z",
     "url": "https://github.com/valorisa/LeCert"
   },
   {
@@ -1489,6 +1489,16 @@
     "isPrivate": false,
     "updatedAt": "2026-04-20T20:21:31Z",
     "url": "https://github.com/valorisa/MobaXterm-Keygen-Alt"
+  },
+  {
+    "name": "Morse",
+    "topics": [
+      "python"
+    ],
+    "isFork": false,
+    "isPrivate": false,
+    "updatedAt": "2026-11-03T15:20:05Z",
+    "url": "https://github.com/valorisa/Morse"
   },
   {
     "name": "mpv",
