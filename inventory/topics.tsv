@@ -52,6 +52,7 @@ docker-webtop	devops,linux,virtualization,web
 DockerCertCheck	devops,macos,virtualization
 Docker_Chef	ai,devops,virtualization
 Docker_DNSCrypt	ai,devops,networking,security,virtualization
+Doctrine-Approfondie	
 DoIP-UDS-Lab	developer-tools,python,research,security
 Dual-Path-Deepseek	ai
 Dystopia	devops

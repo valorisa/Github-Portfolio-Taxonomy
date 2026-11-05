@@ -617,6 +617,14 @@
     "url": "https://github.com/valorisa/Docker_DNSCrypt"
   },
   {
+    "name": "Doctrine-Approfondie",
+    "topics": [],
+    "isFork": false,
+    "isPrivate": false,
+    "updatedAt": "2026-11-04T15:19:24Z",
+    "url": "https://github.com/valorisa/Doctrine-Approfondie"
+  },
+  {
     "name": "DoIP-UDS-Lab",
     "topics": [
       "developer-tools",
@@ -891,7 +899,7 @@
     ],
     "isFork": false,
     "isPrivate": false,
-    "updatedAt": "2026-11-03T08:58:05Z",
+    "updatedAt": "2026-11-04T08:33:35Z",
     "url": "https://github.com/valorisa/Github-Portfolio-Taxonomy"
   },
   {

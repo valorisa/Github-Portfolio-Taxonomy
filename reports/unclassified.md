@@ -2,6 +2,7 @@
 
 - 2fas-browser-extension
 - Arctan-Sin-Integral
+- Doctrine-Approfondie
 - Function-Growth-Hierarchy
 - JobFlow_Automator
 - MobaXterm-Keygen

@@ -886,6 +886,17 @@
     "stars": 1
   },
   {
+    "name": "Doctrine-Approfondie",
+    "description": "Justices distributive et commutative - cours 6 -7 ème année. ",
+    "isFork": false,
+    "isPrivate": false,
+    "updatedAt": "2026-11-04T15:19:24Z",
+    "url": "https://github.com/valorisa/Doctrine-Approfondie",
+    "githubTopics": [],
+    "language": null,
+    "stars": 1
+  },
+  {
     "name": "DoIP-UDS-Lab",
     "description": "Asynchronous Python laboratory for automotive UDS (ISO 14229) over DoIP (ISO 13400-2): DoIP client, mock gateway/ECU simulator, DTC and NRC analysis, SecurityAccess and Authentication experiments.",
     "isFork": false,
@@ -1246,7 +1257,7 @@
     "description": "Outil Python de classification automatique de portfolios GitHub. Taxonomie pour catégoriser repos par domaines techniques (AI/ML, Cloud, DevOps, Frontend, Backend). Analyse descriptions, détecte keywords sur 25 domaines, produit JSON, TSV et rapports Markdown. Idéal pour les ingénieurs logiciel afin d'organiser l'écosystème GitHub à leur sauce.",
     "isFork": false,
     "isPrivate": false,
-    "updatedAt": "2026-11-03T08:58:05Z",
+    "updatedAt": "2026-11-04T08:33:35Z",
     "url": "https://github.com/valorisa/Github-Portfolio-Taxonomy",
     "githubTopics": [
       "cli-tool",
@@ -2918,7 +2929,7 @@
       "tutorial"
     ],
     "language": null,
-    "stars": 42
+    "stars": 43
   },
   {
     "name": "RHEL-Ultra-Hardening-Motion",
