@@ -185,6 +185,7 @@ Slackware_current_Install_Guide	documentation,linux
 socat-1.8.0.1_for_Windows	networking,windows
 socat-cygwin-automate	automation,networking,windows
 Socat_for_Windows	networking,windows
+Split-Long-Text	developer-tools,python,windows
 Spoon-Knife	
 ssh-hardening-suite	devops,security
 Stack-Overflow-RAG-Explorer	

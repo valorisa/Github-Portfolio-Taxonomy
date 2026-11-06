@@ -338,7 +338,7 @@
     "description": "Calcul de ∫₀^(π/2) arctan(sin θ)/√(sin θ) dθ = (√(2π)/32)·Γ(1/4)² par symétrie, fonctions bêta et gamma.",
     "isFork": false,
     "isPrivate": false,
-    "updatedAt": "2026-11-01T09:07:37Z",
+    "updatedAt": "2026-11-05T16:38:05Z",
     "url": "https://github.com/valorisa/Arctan-Sin-Integral",
     "githubTopics": [],
     "language": "HTML",
@@ -1257,7 +1257,7 @@
     "description": "Outil Python de classification automatique de portfolios GitHub. Taxonomie pour catégoriser repos par domaines techniques (AI/ML, Cloud, DevOps, Frontend, Backend). Analyse descriptions, détecte keywords sur 25 domaines, produit JSON, TSV et rapports Markdown. Idéal pour les ingénieurs logiciel afin d'organiser l'écosystème GitHub à leur sauce.",
     "isFork": false,
     "isPrivate": false,
-    "updatedAt": "2026-11-04T08:33:35Z",
+    "updatedAt": "2026-11-05T08:54:52Z",
     "url": "https://github.com/valorisa/Github-Portfolio-Taxonomy",
     "githubTopics": [
       "cli-tool",
@@ -2237,7 +2237,7 @@
     "description": "CLI Python qui fait débattre plusieurs LLM (GLM, DeepSeek, Qwen) via un protocole en 5 phases : cadrage silencieux, positions indépendantes, lecture croisée, révision, jugement final. Stress-teste un plan ou une architecture avant de s'engager.",
     "isFork": false,
     "isPrivate": false,
-    "updatedAt": "2026-10-29T11:31:37Z",
+    "updatedAt": "2026-11-05T16:35:12Z",
     "url": "https://github.com/valorisa/Multi-LLM-Debate-CLI",
     "githubTopics": [],
     "language": "Python",
@@ -3151,7 +3151,29 @@
       "socat-example"
     ],
     "language": "Python",
-    "stars": 9
+    "stars": 8
+  },
+  {
+    "name": "Split-Long-Text",
+    "description": "✂️ Script Python pédagogique : découpe un long fichier texte en plusieurs fichiers de 500 lignes maximum (pathlib, UTF-8, PowerShell).",
+    "isFork": false,
+    "isPrivate": false,
+    "updatedAt": "2026-11-05T17:23:29Z",
+    "url": "https://github.com/valorisa/Split-Long-Text",
+    "githubTopics": [
+      "education",
+      "file-splitting",
+      "pathlib",
+      "powershell",
+      "python",
+      "script",
+      "text-processing",
+      "tutorial",
+      "utf-8",
+      "windows"
+    ],
+    "language": "Python",
+    "stars": 1
   },
   {
     "name": "Spoon-Knife",
@@ -3586,7 +3608,7 @@
       "yamaha-alternative"
     ],
     "language": "Python",
-    "stars": 2
+    "stars": 3
   },
   {
     "name": "Ultimate-Windows-Optimization-Guide",
