@@ -338,7 +338,7 @@
     "description": "Calcul de ∫₀^(π/2) arctan(sin θ)/√(sin θ) dθ = (√(2π)/32)·Γ(1/4)² par symétrie, fonctions bêta et gamma.",
     "isFork": false,
     "isPrivate": false,
-    "updatedAt": "2026-11-10T12:54:41Z",
+    "updatedAt": "2026-11-11T09:42:09Z",
     "url": "https://github.com/valorisa/Arctan-Sin-Integral",
     "githubTopics": [
       "arctan",
@@ -1285,7 +1285,7 @@
     "description": "Outil Python de classification automatique de portfolios GitHub. Taxonomie pour catégoriser repos par domaines techniques (AI/ML, Cloud, DevOps, Frontend, Backend). Analyse descriptions, détecte keywords sur 25 domaines, produit JSON, TSV et rapports Markdown. Idéal pour les ingénieurs logiciel afin d'organiser l'écosystème GitHub à leur sauce.",
     "isFork": false,
     "isPrivate": false,
-    "updatedAt": "2026-11-10T09:10:42Z",
+    "updatedAt": "2026-11-11T08:48:14Z",
     "url": "https://github.com/valorisa/Github-Portfolio-Taxonomy",
     "githubTopics": [
       "cli-tool",
@@ -1650,6 +1650,28 @@
     "githubTopics": [],
     "language": null,
     "stars": 2
+  },
+  {
+    "name": "Installation-Slackware-16",
+    "description": "Guide pas à pas (FR) pour installer Slackware64-current, branche de développement menant à Slackware 16, dans une VM QEMU sous WSL2 / Windows 11 : Mini ISO, disque QCOW2, partitionnement MBR, installation réseau, démarrage SeaBIOS avec KVM ou TCG, script de lancement, sauvegarde et dépannage.",
+    "isFork": false,
+    "isPrivate": false,
+    "updatedAt": "2026-11-12T08:09:38Z",
+    "url": "https://github.com/valorisa/Installation-Slackware-16",
+    "githubTopics": [
+      "documentation",
+      "installation-guides",
+      "kvm",
+      "linux",
+      "qemu",
+      "slackware",
+      "slackware-current",
+      "virtualization",
+      "windows-11",
+      "wsl2"
+    ],
+    "language": null,
+    "stars": 1
   },
   {
     "name": "install_powershell_on_macos",
@@ -2970,7 +2992,7 @@
       "tutorial"
     ],
     "language": null,
-    "stars": 43
+    "stars": 44
   },
   {
     "name": "RHEL-Ultra-Hardening-Motion",
@@ -3614,7 +3636,7 @@
       "wsl2"
     ],
     "language": "PowerShell",
-    "stars": 3
+    "stars": 4
   },
   {
     "name": "ttyd",
