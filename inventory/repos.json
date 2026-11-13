@@ -683,7 +683,7 @@
       "workflow-automation"
     ],
     "language": "Python",
-    "stars": 19
+    "stars": 20
   },
   {
     "name": "Claw-Code",
@@ -1285,7 +1285,7 @@
     "description": "Outil Python de classification automatique de portfolios GitHub. Taxonomie pour catégoriser repos par domaines techniques (AI/ML, Cloud, DevOps, Frontend, Backend). Analyse descriptions, détecte keywords sur 25 domaines, produit JSON, TSV et rapports Markdown. Idéal pour les ingénieurs logiciel afin d'organiser l'écosystème GitHub à leur sauce.",
     "isFork": false,
     "isPrivate": false,
-    "updatedAt": "2026-11-11T08:48:14Z",
+    "updatedAt": "2026-11-12T09:13:51Z",
     "url": "https://github.com/valorisa/Github-Portfolio-Taxonomy",
     "githubTopics": [
       "cli-tool",
@@ -2292,7 +2292,7 @@
     "description": "CLI Python qui fait débattre plusieurs LLM (GLM, DeepSeek, Qwen) via un protocole en 5 phases : cadrage silencieux, positions indépendantes, lecture croisée, révision, jugement final. Stress-teste un plan ou une architecture avant de s'engager.",
     "isFork": false,
     "isPrivate": false,
-    "updatedAt": "2026-11-05T16:35:12Z",
+    "updatedAt": "2026-11-12T15:34:57Z",
     "url": "https://github.com/valorisa/Multi-LLM-Debate-CLI",
     "githubTopics": [
       "cli",
@@ -2592,6 +2592,28 @@
       "selinux"
     ],
     "language": "Shell",
+    "stars": 1
+  },
+  {
+    "name": "OSCAR-Prompt-Generator",
+    "description": "Génère un prompt structuré (méthode OSCAR) à partir d'une demande brute, via l'API Anthropic. Scripts Python (stdlib) et PowerShell 7.",
+    "isFork": false,
+    "isPrivate": false,
+    "updatedAt": "2026-11-12T22:00:15Z",
+    "url": "https://github.com/valorisa/OSCAR-Prompt-Generator",
+    "githubTopics": [
+      "anthropic",
+      "claude",
+      "cli",
+      "llm",
+      "oscar-method",
+      "powershell",
+      "prompt-engineering",
+      "prompt-generator",
+      "python",
+      "termux"
+    ],
+    "language": "Python",
     "stars": 1
   },
   {

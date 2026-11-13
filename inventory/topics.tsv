@@ -153,6 +153,7 @@ OpenCore-EFI-Installer-Automation	automation,documentation,macos,virtualization
 OpenCore-Legacy-Patcher	macos,virtualization
 OpenSSH-Windows-Clean-Modernizer	security,windows
 Oracle-Linux-Ultra-Hardening-Proof-of-Concept	devops,linux,research,security
+OSCAR-Prompt-Generator	ai,automation,developer-tools,python,windows
 Paper-Briefer	ai,cryptography,devops,research
 Password-Generator-Advanced	ai,automation,devops,python,security
 Password-Hash-Tool	cryptography,developer-tools,python,research,security
