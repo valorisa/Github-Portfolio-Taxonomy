@@ -1285,7 +1285,7 @@
     "description": "Outil Python de classification automatique de portfolios GitHub. Taxonomie pour catégoriser repos par domaines techniques (AI/ML, Cloud, DevOps, Frontend, Backend). Analyse descriptions, détecte keywords sur 25 domaines, produit JSON, TSV et rapports Markdown. Idéal pour les ingénieurs logiciel afin d'organiser l'écosystème GitHub à leur sauce.",
     "isFork": false,
     "isPrivate": false,
-    "updatedAt": "2026-11-15T08:46:42Z",
+    "updatedAt": "2026-11-16T08:57:46Z",
     "url": "https://github.com/valorisa/Github-Portfolio-Taxonomy",
     "githubTopics": [
       "cli-tool",
@@ -3524,6 +3524,28 @@
     ],
     "language": "Python",
     "stars": 1
+  },
+  {
+    "name": "Termux-SSH-Localhost",
+    "description": "Diagnostic SSH vers localhost sous Termux : port 8022, authorized_keys, locale fr_FR",
+    "isFork": false,
+    "isPrivate": false,
+    "updatedAt": "2026-11-17T07:37:33Z",
+    "url": "https://github.com/valorisa/Termux-SSH-Localhost",
+    "githubTopics": [
+      "android",
+      "authorized-keys",
+      "documentation",
+      "locale",
+      "localhost",
+      "openssh",
+      "ssh",
+      "sshd",
+      "termux",
+      "troubleshooting"
+    ],
+    "language": null,
+    "stars": 0
   },
   {
     "name": "Test-and-Fix-MegaLinter-Tool",
