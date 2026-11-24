@@ -1127,7 +1127,7 @@
       "windows"
     ],
     "language": "Dockerfile",
-    "stars": 12
+    "stars": 13
   },
   {
     "name": "FreeLLMAPI",
@@ -1285,7 +1285,7 @@
     "description": "Outil Python de classification automatique de portfolios GitHub. Taxonomie pour catégoriser repos par domaines techniques (AI/ML, Cloud, DevOps, Frontend, Backend). Analyse descriptions, détecte keywords sur 25 domaines, produit JSON, TSV et rapports Markdown. Idéal pour les ingénieurs logiciel afin d'organiser l'écosystème GitHub à leur sauce.",
     "isFork": false,
     "isPrivate": false,
-    "updatedAt": "2026-11-22T09:17:21Z",
+    "updatedAt": "2026-11-23T10:14:06Z",
     "url": "https://github.com/valorisa/Github-Portfolio-Taxonomy",
     "githubTopics": [
       "cli-tool",
@@ -2791,6 +2791,21 @@
       "yml"
     ],
     "language": "PowerShell",
+    "stars": 1
+  },
+  {
+    "name": "PowerShell-5-1-to-7-Migration",
+    "description": "Tableau de compatibilité et checklist d'audit : migration de Windows PowerShell 5.1 vers PowerShell 7",
+    "isFork": false,
+    "isPrivate": false,
+    "updatedAt": "2026-11-24T08:58:51Z",
+    "url": "https://github.com/valorisa/PowerShell-5-1-to-7-Migration",
+    "githubTopics": [
+      "migration",
+      "powershell",
+      "windows"
+    ],
+    "language": null,
     "stars": 1
   },
   {

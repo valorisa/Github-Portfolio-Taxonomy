@@ -899,7 +899,7 @@
     ],
     "isFork": false,
     "isPrivate": false,
-    "updatedAt": "2026-11-22T09:17:21Z",
+    "updatedAt": "2026-11-23T10:14:06Z",
     "url": "https://github.com/valorisa/Github-Portfolio-Taxonomy"
   },
   {
@@ -1903,6 +1903,17 @@
     "isPrivate": false,
     "updatedAt": "2026-03-21T22:45:05Z",
     "url": "https://github.com/valorisa/Polygone-Evacuation-A5"
+  },
+  {
+    "name": "PowerShell-5-1-to-7-Migration",
+    "topics": [
+      "developer-tools",
+      "windows"
+    ],
+    "isFork": false,
+    "isPrivate": false,
+    "updatedAt": "2026-11-24T08:58:51Z",
+    "url": "https://github.com/valorisa/PowerShell-5-1-to-7-Migration"
   },
   {
     "name": "Prompt-Engineer-Toolkit",
