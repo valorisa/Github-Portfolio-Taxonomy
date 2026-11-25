@@ -4,6 +4,7 @@
 - Arctan-Sin-Integral
 - Doctrine-Approfondie
 - Function-Growth-Hierarchy
+- Hypothesis-Riemann
 - JobFlow_Automator
 - MobaXterm-Keygen
 - MobaXterm-Keygen-Alt
