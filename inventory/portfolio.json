@@ -899,7 +899,7 @@
     ],
     "isFork": false,
     "isPrivate": false,
-    "updatedAt": "2026-11-24T11:57:51Z",
+    "updatedAt": "2026-11-25T10:50:08Z",
     "url": "https://github.com/valorisa/Github-Portfolio-Taxonomy"
   },
   {
@@ -1561,7 +1561,7 @@
     ],
     "isFork": false,
     "isPrivate": false,
-    "updatedAt": "2026-11-20T16:01:43Z",
+    "updatedAt": "2026-11-26T09:24:18Z",
     "url": "https://github.com/valorisa/Multi-LLM-Debate-CLI"
   },
   {
@@ -1812,6 +1812,21 @@
     "isPrivate": false,
     "updatedAt": "2026-11-12T22:00:15Z",
     "url": "https://github.com/valorisa/OSCAR-Prompt-Generator"
+  },
+  {
+    "name": "Own-DNS-Resolver-Unbound",
+    "topics": [
+      "ai",
+      "android",
+      "devops",
+      "linux",
+      "networking",
+      "virtualization"
+    ],
+    "isFork": false,
+    "isPrivate": false,
+    "updatedAt": "2026-11-25T19:17:52Z",
+    "url": "https://github.com/valorisa/Own-DNS-Resolver-Unbound"
   },
   {
     "name": "Paper-Briefer",
