@@ -1285,7 +1285,7 @@
     "description": "Outil Python de classification automatique de portfolios GitHub. Taxonomie pour catégoriser repos par domaines techniques (AI/ML, Cloud, DevOps, Frontend, Backend). Analyse descriptions, détecte keywords sur 25 domaines, produit JSON, TSV et rapports Markdown. Idéal pour les ingénieurs logiciel afin d'organiser l'écosystème GitHub à leur sauce.",
     "isFork": false,
     "isPrivate": false,
-    "updatedAt": "2026-11-26T10:23:56Z",
+    "updatedAt": "2026-11-27T10:29:16Z",
     "url": "https://github.com/valorisa/Github-Portfolio-Taxonomy",
     "githubTopics": [
       "cli-tool",
@@ -1349,7 +1349,7 @@
     "description": "CLI tool open-source automatisant intégralement la création de dépôts GitHub conformes aux Community Standards (100%) pour tout type de projet (library, webapp, cli, github-action, docs, monorepo) et stack (Python, Node, Go, Java, Rust). Élimine des heures de config manuelle.",
     "isFork": false,
     "isPrivate": false,
-    "updatedAt": "2026-11-20T15:36:09Z",
+    "updatedAt": "2026-11-27T14:47:52Z",
     "url": "https://github.com/valorisa/Github-Universal-Scaffolding-Generator-Advanced",
     "githubTopics": [
       "automation",
@@ -1645,7 +1645,7 @@
     "description": "Étude pédagogique de l’hypothèse de Riemann : nombres premiers, fonction zêta, analyse complexe, zéros non triviaux et répartition des nombres premiers.",
     "isFork": false,
     "isPrivate": false,
-    "updatedAt": "2026-11-24T22:10:54Z",
+    "updatedAt": "2026-11-27T22:33:54Z",
     "url": "https://github.com/valorisa/Hypothesis-Riemann",
     "githubTopics": [
       "analytic-number-theory",
@@ -3083,7 +3083,7 @@
       "tutorial"
     ],
     "language": null,
-    "stars": 47
+    "stars": 49
   },
   {
     "name": "RHEL-Ultra-Hardening-Motion",
@@ -4000,7 +4000,7 @@
       "virustotal"
     ],
     "language": "Python",
-    "stars": 1
+    "stars": 2
   },
   {
     "name": "VT-TUI-Scanner",
